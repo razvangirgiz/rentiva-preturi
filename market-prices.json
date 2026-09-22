@@ -1,0 +1,297 @@
+{
+  "about": "Prețul median pe zi, cu casco inclus, pe categorii de mașini, din tarifele publice ale firmelor de închirieri din România. Medianele sunt pe firme, fără nume.",
+  "page": "https://rentiva.ro/unelte/pret-piata",
+  "updatedAt": "2026-09-22",
+  "eurRon": 5.2647,
+  "firmsChecked": 73,
+  "firmsUsed": 20,
+  "carsUsed": 335,
+  "categories": [
+    {
+      "id": "mica",
+      "durations": {
+        "short": {
+          "firmMedians": [
+            23,
+            24,
+            28,
+            34,
+            50
+          ],
+          "models": 7
+        },
+        "week": {
+          "firmMedians": [
+            17,
+            20,
+            23,
+            28,
+            30,
+            47
+          ],
+          "models": 12
+        }
+      }
+    },
+    {
+      "id": "economica",
+      "durations": {
+        "short": {
+          "firmMedians": [
+            21,
+            26,
+            28,
+            30,
+            30,
+            31,
+            35,
+            35,
+            35,
+            38,
+            43,
+            46,
+            54,
+            60
+          ],
+          "models": 37
+        },
+        "week": {
+          "firmMedians": [
+            20,
+            20.43,
+            24.8,
+            25,
+            28,
+            30,
+            32,
+            32,
+            33,
+            34,
+            35,
+            51,
+            55
+          ],
+          "models": 48
+        }
+      }
+    },
+    {
+      "id": "compacta",
+      "durations": {
+        "short": {
+          "firmMedians": [
+            24,
+            30,
+            32,
+            32,
+            35,
+            37,
+            40,
+            40,
+            44,
+            45,
+            45,
+            55,
+            57,
+            70
+          ],
+          "models": 55
+        },
+        "week": {
+          "firmMedians": [
+            25,
+            29.6,
+            30,
+            30,
+            30,
+            32,
+            34,
+            35,
+            35,
+            40,
+            40,
+            53,
+            65
+          ],
+          "models": 59
+        }
+      }
+    },
+    {
+      "id": "medie",
+      "durations": {
+        "short": {
+          "firmMedians": [
+            30,
+            32,
+            32,
+            41,
+            47,
+            47.5,
+            50,
+            50,
+            58,
+            79,
+            90
+          ],
+          "models": 22
+        },
+        "week": {
+          "firmMedians": [
+            30,
+            32,
+            35.43,
+            41,
+            45,
+            46,
+            46,
+            46,
+            47.5,
+            75,
+            80
+          ],
+          "models": 23
+        }
+      }
+    },
+    {
+      "id": "suv",
+      "durations": {
+        "short": {
+          "firmMedians": [
+            32,
+            35,
+            35,
+            40,
+            40.5,
+            40.5,
+            45,
+            50,
+            59,
+            60,
+            64,
+            88,
+            95,
+            100
+          ],
+          "models": 59
+        },
+        "week": {
+          "firmMedians": [
+            32,
+            32.4,
+            33.14,
+            35,
+            38,
+            40,
+            40,
+            42,
+            45,
+            50,
+            56,
+            59,
+            90
+          ],
+          "models": 70
+        }
+      }
+    },
+    {
+      "id": "premium",
+      "durations": {
+        "short": {
+          "firmMedians": [
+            34,
+            45,
+            60,
+            85,
+            90,
+            170,
+            175,
+            185
+          ],
+          "models": 34
+        },
+        "week": {
+          "firmMedians": [
+            32,
+            40.72,
+            45,
+            65.7,
+            80,
+            90,
+            165,
+            170
+          ],
+          "models": 34
+        }
+      }
+    },
+    {
+      "id": "monovolum",
+      "durations": {
+        "short": {
+          "firmMedians": [
+            30,
+            34,
+            35,
+            39,
+            50
+          ],
+          "models": 7
+        },
+        "week": {
+          "firmMedians": [
+            27,
+            28,
+            31.2,
+            34,
+            35,
+            45
+          ],
+          "models": 8
+        }
+      }
+    },
+    {
+      "id": "microbuz",
+      "durations": {
+        "short": {
+          "firmMedians": [
+            51.5,
+            61,
+            75,
+            80,
+            80,
+            87.5,
+            100,
+            101,
+            127,
+            150,
+            157.5,
+            160
+          ],
+          "models": 26
+        },
+        "week": {
+          "firmMedians": [
+            41.2,
+            49.22,
+            58,
+            59,
+            70,
+            75,
+            75,
+            80,
+            82,
+            100,
+            102,
+            142.5,
+            150
+          ],
+          "models": 28
+        }
+      }
+    }
+  ]
+}
