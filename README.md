@@ -1,22 +1,33 @@
-# Prețul pieței de închirieri auto, cu casco inclus
+# Prețul pieței de închirieri auto în România
 
-Prețul median pe zi pentru fiecare categorie de mașini, din tarifele pe care firmele de
-închirieri din România le publică pe site-ul lor. Doar prețuri cu casco inclus și TVA,
-pentru închirieri de 1–3 zile (`short`) și de 7 zile (`week`), în euro.
+Prețul median pe zi, pe categoriile ACRISS, pentru închirieri de 1–3, 4–7, 8–15 și peste 15
+zile, plus curba de sezon pe următoarele 12 luni. Prețurile vin din ofertele cerute pe
+site-urile firmelor de închirieri, ca un client, fără rezervare. Unde o firmă nu are
+rezervare online, folosim tarifele publicate pe site. Toate prețurile sunt cu TVA, în euro, și
+corespund protecției cu garanția cea mai mică: 0 sau cel mult 200 €.
 
-Cifrele se văd pe [rentiva.ro/unelte/pret-piata](https://rentiva.ro/unelte/pret-piata),
-care citește fișierul `market-prices.json` de aici. Se actualizează în fiecare luni
-dimineață.
+Cifrele se văd pe [rentiva.ro/unelte/pret-piata](https://rentiva.ro/unelte/pret-piata), care
+citește fișierul `market-prices.json` de aici. Se actualizează în fiecare luni dimineață.
 
 ## Ce e în fișier
 
-- `updatedAt`: ziua în care au fost citite tarifele.
-- `eurRon`: cursul BNR din ziua aceea, folosit pentru firmele care au prețuri în lei.
-- `firmsChecked` / `firmsUsed`: câte firme am verificat și câte au casco inclus și tarife
-  complete.
-- `categories[].durations.{short,week}.firmMedians`: mediana fiecărei firme pe categorie,
-  în euro pe zi, fără nume de firme. Pagina calculează din ele mediana și jumătatea din
-  mijloc.
+- `updatedAt`: ziua în care au fost cerute ofertele.
+- `eurRon`: cursul BNR din ziua aceea, pentru firmele cu prețuri în lei.
+- `firmsChecked`, `firmsUsed` și `firmsQuoted`: câte firme am verificat, câte au intrat în
+  calcul și câte dintre ele prin oferte cerute pe site.
+- `categories[]`: categoriile macro ACRISS (`economy`, `compact-suv`, `passenger-van-9` etc.),
+  fiecare cu:
+  - `label`: numele ACRISS;
+  - `family`: `car`, `suv`, `mpv`, `passenger-van` sau `cargo-van`;
+  - `examples`: modele din categorie;
+  - `thin` și `reference`: sub 3 firme categoria e subțire, iar reperul vine din categoria
+    vecină.
+- `categories[].durations.{short,week,twoWeeks,long}.firmMedians`: mediana fiecărei firme pe
+  categorie, în euro pe zi, fără nume de firme. Duratele sunt 2, 5, 10 și 21 de zile, cu
+  ridicarea peste o săptămână.
+- `season`: pentru fiecare lună, prețul față de media anului (1 = medie), pe durate, cu vara,
+  Crăciunul și Paștele marcate. Rămâne `null` până avem destule luni măsurate.
 
-Categoria o stabilim după model, nu după eticheta firmei, iar fiecare firmă contează o
-singură dată. Metoda completă e pe pagină, la „De unde vin cifrele”.
+Categoria o stabilim după modelul mașinii (codul SIPP), nu după cum o numește fiecare firmă,
+iar fiecare firmă contează o singură dată. Metoda completă e pe pagină, la „De unde vin
+cifrele”.
