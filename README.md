@@ -23,8 +23,8 @@ citește fișierul `market-prices.json` de aici. Se actualizează în fiecare lu
   - `thin` și `reference`: sub 3 firme categoria e subțire, iar reperul vine din categoria
     vecină.
 - `categories[].durations.{short,week,twoWeeks,long}.firmMedians`: mediana fiecărei firme pe
-  categorie, în euro pe zi, fără nume de firme. Duratele sunt 2, 5, 10 și 21 de zile, cu
-  ridicarea peste o săptămână.
+  categorie, în euro pe zi, fără nume de firme. Duratele sunt 2, 4, 10 și 21 de zile, cu
+  ridicarea într-o zi de luni, peste cel puțin o săptămână (predarea cade în zi lucrătoare).
 - `season`: pentru fiecare lună, prețul față de media anului (1 = medie), pe durate, cu vara,
   Crăciunul și Paștele marcate. Rămâne `null` până avem destule luni măsurate.
 
