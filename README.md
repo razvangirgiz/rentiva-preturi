@@ -1,6 +1,6 @@
 # Prețul pieței de închirieri auto în România
 
-Prețul median pe zi, pe categoriile ACRISS, pentru închirieri de 1–3, 4–7, 8–15 și peste 15
+Prețul median pe zi, pe categoriile estimate de Rentiva în format SIPP/ACRISS, pentru închirieri de 1–3, 4–7, 8–15 și peste 15
 zile, plus curba de sezon pe următoarele 12 luni. Prețurile vin din ofertele cerute pe
 site-urile firmelor de închirieri, ca un client, fără rezervare. Unde o firmă nu are
 rezervare online, folosim tarifele publicate pe site. Toate prețurile sunt cu TVA, în euro, și
@@ -12,6 +12,10 @@ citește fișierul `market-prices.json` de aici. Se actualizează în fiecare lu
 ## Ce e în fișier
 
 - `updatedAt`: ziua în care au fost cerute ofertele.
+- `classificationVersion`: versiunea regulilor și a catalogului folosit. Colectările cu
+  clasificări diferite nu se compară ca evoluție de preț; data colectării rămâne aceeași
+  când corectăm doar clasificarea.
+- `categories[].durations.*.approxModels`: câte oferte au o categorie estimată.
 - `eurRon`: cursul BNR din ziua aceea, pentru firmele cu prețuri în lei.
 - `firmsChecked`, `firmsUsed` și `firmsQuoted`: câte firme am verificat, câte au intrat în
   calcul și câte dintre ele prin oferte cerute pe site.
@@ -29,5 +33,6 @@ citește fișierul `market-prices.json` de aici. Se actualizează în fiecare lu
   Crăciunul și Paștele marcate. Rămâne `null` până avem destule luni măsurate.
 
 Categoria o stabilim după modelul mașinii (codul SIPP), nu după cum o numește fiecare firmă,
-iar fiecare firmă contează o singură dată. Metoda completă e pe pagină, la „De unde vin
-cifrele”.
+iar fiecare firmă contează o singură dată. Încadrările sunt estimări Rentiva, nu atribuiri
+oficiale ACRISS. Ofertele contradictorii sau fără suficiente date pentru încadrare sunt
+excluse. Metoda completă e pe pagină, la „De unde vin cifrele”.
