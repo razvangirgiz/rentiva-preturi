@@ -1,0 +1,4772 @@
+{
+  "about": "Serviciile, condițiile și prețurile lunare declarate public de firmele de închirieri și de leasing din România pentru abonamentele auto (o lună și mai mult): procente pe firme, mediane pe categoriile ACRISS și pe coșul de durate × km pe lună, în euro fără TVA, cu efectul duratei și al km. O celulă cu `estimated` e calculată din alta, nu observată. Fără nume de firme.",
+  "page": "https://rentiva.ro/indicele-rentiva/abonamente",
+  "collectedAt": "2026-09-30",
+  "eurRon": 5.278,
+  "minFirms": 5,
+  "firms": {
+    "total": 25,
+    "tracked": 64,
+    "mare": 10,
+    "local": 15,
+    "tcPublic": 23,
+    "subscriptionTc": 3,
+    "contractModel": 3
+  },
+  "services": [
+    {
+      "code": "rca",
+      "label": "RCA",
+      "n": 25,
+      "inclus": 23,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 2,
+      "declared": 23,
+      "declaredPct": 92,
+      "includedPct": 92,
+      "fromGeneral": 6,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 90
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 93.3
+        }
+      }
+    },
+    {
+      "code": "casco",
+      "label": "CASCO",
+      "n": 25,
+      "inclus": 25,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 0,
+      "declared": 25,
+      "declaredPct": 100,
+      "includedPct": 100,
+      "fromGeneral": 3,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 100
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 100
+        }
+      }
+    },
+    {
+      "code": "rovinieta",
+      "label": "Rovinietă",
+      "n": 25,
+      "inclus": 22,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 3,
+      "declared": 22,
+      "declaredPct": 88,
+      "includedPct": 88,
+      "fromGeneral": 9,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 80
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 93.3
+        }
+      }
+    },
+    {
+      "code": "itp",
+      "label": "ITP",
+      "n": 25,
+      "inclus": 13,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 12,
+      "declared": 13,
+      "declaredPct": 52,
+      "includedPct": 52,
+      "fromGeneral": 1,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 50
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 53.3
+        }
+      }
+    },
+    {
+      "code": "impozit_auto",
+      "label": "Impozit auto",
+      "n": 25,
+      "inclus": 8,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 17,
+      "declared": 8,
+      "declaredPct": 32,
+      "includedPct": 32,
+      "fromGeneral": 1,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 30
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 33.3
+        }
+      }
+    },
+    {
+      "code": "revizii",
+      "label": "Revizii",
+      "n": 25,
+      "inclus": 24,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 1,
+      "declared": 24,
+      "declaredPct": 96,
+      "includedPct": 96,
+      "fromGeneral": 2,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 100
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 93.3
+        }
+      }
+    },
+    {
+      "code": "reparatii_uzura",
+      "label": "Reparații de uzură",
+      "n": 25,
+      "inclus": 14,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 11,
+      "declared": 14,
+      "declaredPct": 56,
+      "includedPct": 56,
+      "fromGeneral": 1,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 60
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 53.3
+        }
+      }
+    },
+    {
+      "code": "anvelope_sezon",
+      "label": "Anvelope de sezon",
+      "n": 25,
+      "inclus": 19,
+      "contra_cost": 1,
+      "nu": 1,
+      "nepublicat": 4,
+      "declared": 20,
+      "declaredPct": 80,
+      "includedPct": 76,
+      "fromGeneral": 4,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 80
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 80
+        }
+      }
+    },
+    {
+      "code": "depozitare_anvelope",
+      "label": "Depozitarea anvelopelor",
+      "n": 25,
+      "inclus": 3,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 22,
+      "declared": 3,
+      "declaredPct": 12,
+      "includedPct": 12,
+      "fromGeneral": 1,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 30
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 0
+        }
+      }
+    },
+    {
+      "code": "asistenta_rutiera",
+      "label": "Asistență rutieră",
+      "n": 25,
+      "inclus": 23,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 2,
+      "declared": 23,
+      "declaredPct": 92,
+      "includedPct": 92,
+      "fromGeneral": 4,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 100
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 86.7
+        }
+      }
+    },
+    {
+      "code": "masina_schimb_defect",
+      "label": "Mașină de schimb la defect",
+      "n": 25,
+      "inclus": 18,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 7,
+      "declared": 18,
+      "declaredPct": 72,
+      "includedPct": 72,
+      "fromGeneral": 4,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 80
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 66.7
+        }
+      }
+    },
+    {
+      "code": "masina_schimb_dauna",
+      "label": "Mașină de schimb la daună",
+      "n": 25,
+      "inclus": 12,
+      "contra_cost": 3,
+      "nu": 1,
+      "nepublicat": 9,
+      "declared": 15,
+      "declaredPct": 60,
+      "includedPct": 48,
+      "fromGeneral": 9,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 60
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 60
+        }
+      }
+    },
+    {
+      "code": "livrare",
+      "label": "Livrare",
+      "n": 25,
+      "inclus": 16,
+      "contra_cost": 6,
+      "nu": 0,
+      "nepublicat": 3,
+      "declared": 22,
+      "declaredPct": 88,
+      "includedPct": 64,
+      "fromGeneral": 9,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 90
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 86.7
+        }
+      }
+    },
+    {
+      "code": "ridicare_returnare",
+      "label": "Ridicare la returnare",
+      "n": 25,
+      "inclus": 8,
+      "contra_cost": 4,
+      "nu": 0,
+      "nepublicat": 13,
+      "declared": 12,
+      "declaredPct": 48,
+      "includedPct": 32,
+      "fromGeneral": 9,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 30
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 60
+        }
+      }
+    },
+    {
+      "code": "schimb_model",
+      "label": "Schimbarea modelului în contract",
+      "n": 25,
+      "inclus": 12,
+      "contra_cost": 0,
+      "nu": 1,
+      "nepublicat": 12,
+      "declared": 12,
+      "declaredPct": 48,
+      "includedPct": 48,
+      "fromGeneral": 0,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 40
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 53.3
+        }
+      }
+    },
+    {
+      "code": "sofer_aditional",
+      "label": "Șofer adițional",
+      "n": 25,
+      "inclus": 6,
+      "contra_cost": 9,
+      "nu": 1,
+      "nepublicat": 9,
+      "declared": 15,
+      "declaredPct": 60,
+      "includedPct": 24,
+      "fromGeneral": 10,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 40
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 73.3
+        }
+      }
+    },
+    {
+      "code": "iesire_tara",
+      "label": "Ieșire din țară",
+      "n": 25,
+      "inclus": 7,
+      "contra_cost": 11,
+      "nu": 3,
+      "nepublicat": 4,
+      "declared": 18,
+      "declaredPct": 72,
+      "includedPct": 28,
+      "fromGeneral": 12,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 70
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 73.3
+        }
+      }
+    },
+    {
+      "code": "km_nelimitati",
+      "label": "Km nelimitați",
+      "n": 25,
+      "inclus": 5,
+      "contra_cost": 1,
+      "nu": 14,
+      "nepublicat": 5,
+      "declared": 6,
+      "declaredPct": 24,
+      "includedPct": 20,
+      "fromGeneral": 5,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 0
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 40
+        }
+      }
+    },
+    {
+      "code": "scaun_copil",
+      "label": "Scaun de copil",
+      "n": 25,
+      "inclus": 1,
+      "contra_cost": 12,
+      "nu": 0,
+      "nepublicat": 12,
+      "declared": 13,
+      "declaredPct": 52,
+      "includedPct": 4,
+      "fromGeneral": 8,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 30
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 66.7
+        }
+      }
+    },
+    {
+      "code": "lanturi_echipament_iarna",
+      "label": "Lanțuri, echipament de iarnă",
+      "n": 25,
+      "inclus": 0,
+      "contra_cost": 8,
+      "nu": 0,
+      "nepublicat": 17,
+      "declared": 8,
+      "declaredPct": 32,
+      "includedPct": 0,
+      "fromGeneral": 6,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 20
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 40
+        }
+      }
+    },
+    {
+      "code": "card_incarcare_ev",
+      "label": "Card de încărcare EV",
+      "n": 25,
+      "inclus": 0,
+      "contra_cost": 2,
+      "nu": 0,
+      "nepublicat": 23,
+      "declared": 2,
+      "declaredPct": 8,
+      "includedPct": 0,
+      "fromGeneral": 2,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 10
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 6.7
+        }
+      }
+    },
+    {
+      "code": "spalare_curatenie_periodica",
+      "label": "Spălare periodică",
+      "n": 25,
+      "inclus": 1,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 24,
+      "declared": 1,
+      "declaredPct": 4,
+      "includedPct": 4,
+      "fromGeneral": 0,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 0
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 6.7
+        }
+      }
+    },
+    {
+      "code": "platforma_client",
+      "label": "Cont online pentru client",
+      "n": 25,
+      "inclus": 5,
+      "contra_cost": 0,
+      "nu": 0,
+      "nepublicat": 20,
+      "declared": 5,
+      "declaredPct": 20,
+      "includedPct": 20,
+      "fromGeneral": 1,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 50
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 0
+        }
+      }
+    },
+    {
+      "code": "factura_lunara",
+      "label": "Factură lunară",
+      "n": 25,
+      "inclus": 8,
+      "contra_cost": 0,
+      "nu": 1,
+      "nepublicat": 16,
+      "declared": 8,
+      "declaredPct": 32,
+      "includedPct": 32,
+      "fromGeneral": 1,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 30
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 33.3
+        }
+      }
+    },
+    {
+      "code": "administrare_amenzi",
+      "label": "Administrarea amenzilor",
+      "n": 25,
+      "inclus": 3,
+      "contra_cost": 10,
+      "nu": 3,
+      "nepublicat": 9,
+      "declared": 13,
+      "declaredPct": 52,
+      "includedPct": 12,
+      "fromGeneral": 11,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 40
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 60
+        }
+      }
+    },
+    {
+      "code": "carte_verde",
+      "label": "Carte verde",
+      "n": 25,
+      "inclus": 1,
+      "contra_cost": 2,
+      "nu": 0,
+      "nepublicat": 22,
+      "declared": 3,
+      "declaredPct": 12,
+      "includedPct": 4,
+      "fromGeneral": 1,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 10
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 13.3
+        }
+      }
+    },
+    {
+      "code": "parbriz_geamuri",
+      "label": "Parbriz și geamuri",
+      "n": 25,
+      "inclus": 0,
+      "contra_cost": 4,
+      "nu": 2,
+      "nepublicat": 19,
+      "declared": 4,
+      "declaredPct": 16,
+      "includedPct": 0,
+      "fromGeneral": 4,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 20
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 13.3
+        }
+      }
+    },
+    {
+      "code": "anvelope_jante_acoperite_casco",
+      "label": "Anvelope și jante acoperite de CASCO",
+      "n": 25,
+      "inclus": 0,
+      "contra_cost": 3,
+      "nu": 11,
+      "nepublicat": 11,
+      "declared": 3,
+      "declaredPct": 12,
+      "includedPct": 0,
+      "fromGeneral": 3,
+      "bySegment": {
+        "mare": {
+          "n": 10,
+          "declaredPct": 20
+        },
+        "local": {
+          "n": 15,
+          "declaredPct": 6.7
+        }
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "code": "durata_minima_luni",
+      "label": "Durata minimă",
+      "unit": "luni",
+      "published": 25,
+      "publishedPct": 100,
+      "fromGeneral": 0,
+      "values": 25,
+      "otherUnits": {},
+      "median": 1,
+      "p25": 1,
+      "p75": 3,
+      "zeroPct": 0,
+      "zero": 0,
+      "fixed": {
+        "values": 25,
+        "median": 1,
+        "fromGeneral": 0
+      }
+    },
+    {
+      "code": "durata_maxima_luni",
+      "label": "Durata maximă",
+      "unit": "luni",
+      "published": 16,
+      "publishedPct": 64,
+      "fromGeneral": 0,
+      "values": 15,
+      "otherUnits": {},
+      "median": 24,
+      "p25": 24,
+      "p75": 30,
+      "zeroPct": 0,
+      "zero": 0,
+      "fixed": {
+        "values": 15,
+        "median": 24,
+        "fromGeneral": 0
+      }
+    },
+    {
+      "code": "preaviz_zile",
+      "label": "Preaviz",
+      "unit": "zile",
+      "published": 4,
+      "publishedPct": 16,
+      "fromGeneral": 1,
+      "values": 4,
+      "otherUnits": {},
+      "median": null,
+      "p25": null,
+      "p75": null,
+      "zeroPct": null,
+      "zero": 0,
+      "fixed": {
+        "values": 4,
+        "median": null,
+        "fromGeneral": 1
+      }
+    },
+    {
+      "code": "penalitate_reziliere",
+      "label": "Returnare înainte de termen",
+      "unit": null,
+      "published": 18,
+      "publishedPct": 72,
+      "fromGeneral": 8
+    },
+    {
+      "code": "prelungire_automata",
+      "label": "Prelungire automată",
+      "unit": null,
+      "published": 12,
+      "publishedPct": 48,
+      "fromGeneral": 9
+    },
+    {
+      "code": "km_inclusi_luna",
+      "label": "Km incluși pe lună",
+      "unit": "km",
+      "published": 19,
+      "publishedPct": 76,
+      "fromGeneral": 4,
+      "values": 14,
+      "otherUnits": {},
+      "median": 1500,
+      "p25": 1000,
+      "p75": 2000,
+      "zeroPct": 0,
+      "zero": 0,
+      "fixed": {
+        "values": 14,
+        "median": 1500,
+        "fromGeneral": 0
+      }
+    },
+    {
+      "code": "cost_km_extra",
+      "label": "Cost km suplimentar",
+      "unit": "EUR/km",
+      "published": 13,
+      "publishedPct": 52,
+      "fromGeneral": 6,
+      "values": 10,
+      "otherUnits": {},
+      "median": 0.12,
+      "p25": 0.11,
+      "p75": 0.19,
+      "zeroPct": 10,
+      "zero": 1,
+      "fixed": {
+        "values": 9,
+        "median": 0.12,
+        "fromGeneral": 5
+      }
+    },
+    {
+      "code": "avans",
+      "label": "Avans",
+      "unit": "EUR",
+      "published": 9,
+      "publishedPct": 36,
+      "fromGeneral": 0,
+      "values": 9,
+      "otherUnits": {},
+      "median": 0,
+      "p25": 0,
+      "p75": 0,
+      "zeroPct": 100,
+      "zero": 9,
+      "fixed": {
+        "values": 0,
+        "median": null,
+        "fromGeneral": 0
+      }
+    },
+    {
+      "code": "garantie",
+      "label": "Garanție",
+      "unit": "EUR",
+      "published": 22,
+      "publishedPct": 88,
+      "fromGeneral": 9,
+      "values": 13,
+      "otherUnits": {
+        "rate": 5
+      },
+      "median": 150,
+      "p25": 0,
+      "p75": 300,
+      "zeroPct": 38.5,
+      "zero": 5,
+      "fixed": {
+        "values": 8,
+        "median": 250,
+        "fromGeneral": 7
+      },
+      "rates": {
+        "firms": 5,
+        "median": 1,
+        "min": 1,
+        "max": 3
+      }
+    },
+    {
+      "code": "franciza_casco",
+      "label": "Franciză CASCO",
+      "unit": "EUR",
+      "published": 16,
+      "publishedPct": 64,
+      "fromGeneral": 11,
+      "values": 13,
+      "otherUnits": {},
+      "median": 150,
+      "p25": 100,
+      "p75": 600,
+      "zeroPct": 15.4,
+      "zero": 2,
+      "fixed": {
+        "values": 11,
+        "median": 200,
+        "fromGeneral": 8
+      }
+    },
+    {
+      "code": "franciza_exceptii",
+      "label": "Excepții de la CASCO",
+      "unit": null,
+      "published": 19,
+      "publishedPct": 76,
+      "fromGeneral": 19
+    },
+    {
+      "code": "taxa_administrare_amenzi",
+      "label": "Taxă de administrare a amenzilor",
+      "unit": "EUR",
+      "published": 8,
+      "publishedPct": 32,
+      "fromGeneral": 8,
+      "values": 7,
+      "otherUnits": {},
+      "median": 50,
+      "p25": 49.2,
+      "p75": 50,
+      "zeroPct": 0,
+      "zero": 0,
+      "fixed": {
+        "values": 7,
+        "median": 50,
+        "fromGeneral": 7
+      }
+    },
+    {
+      "code": "taxa_fumat",
+      "label": "Taxă de fumat",
+      "unit": "EUR",
+      "published": 12,
+      "publishedPct": 48,
+      "fromGeneral": 12,
+      "values": 11,
+      "otherUnits": {},
+      "median": 50,
+      "p25": 50,
+      "p75": 190.75,
+      "zeroPct": 0,
+      "zero": 0,
+      "fixed": {
+        "values": 11,
+        "median": 50,
+        "fromGeneral": 11
+      }
+    },
+    {
+      "code": "taxa_curatenie",
+      "label": "Taxă de curățenie",
+      "unit": "EUR",
+      "published": 12,
+      "publishedPct": 48,
+      "fromGeneral": 12,
+      "values": 10,
+      "otherUnits": {},
+      "median": 40,
+      "p25": 22.5,
+      "p75": 57.5,
+      "zeroPct": 0,
+      "zero": 0,
+      "fixed": {
+        "values": 10,
+        "median": 40,
+        "fromGeneral": 10
+      }
+    },
+    {
+      "code": "penalitate_intarziere_returnare",
+      "label": "Întârziere la returnare",
+      "unit": null,
+      "published": 18,
+      "publishedPct": 72,
+      "fromGeneral": 18
+    },
+    {
+      "code": "varsta_minima_sofer",
+      "label": "Vârsta minimă a șoferului",
+      "unit": "ani",
+      "published": 17,
+      "publishedPct": 68,
+      "fromGeneral": 15,
+      "values": 17,
+      "otherUnits": {},
+      "median": 21,
+      "p25": 21,
+      "p75": 21,
+      "zeroPct": 0,
+      "zero": 0,
+      "fixed": {
+        "values": 17,
+        "median": 21,
+        "fromGeneral": 15
+      }
+    },
+    {
+      "code": "vechime_minima_permis_ani",
+      "label": "Vechimea minimă a permisului",
+      "unit": "ani",
+      "published": 21,
+      "publishedPct": 84,
+      "fromGeneral": 17,
+      "values": 21,
+      "otherUnits": {},
+      "median": 1,
+      "p25": 1,
+      "p75": 1,
+      "zeroPct": 14.3,
+      "zero": 3,
+      "fixed": {
+        "values": 18,
+        "median": 1,
+        "fromGeneral": 15
+      }
+    },
+    {
+      "code": "clienti_acceptati",
+      "label": "Clienți acceptați",
+      "unit": null,
+      "published": 23,
+      "publishedPct": 92,
+      "fromGeneral": 1
+    },
+    {
+      "code": "acte_cerute",
+      "label": "Acte cerute",
+      "unit": null,
+      "published": 22,
+      "publishedPct": 88,
+      "fromGeneral": 17
+    },
+    {
+      "code": "verificare_financiara",
+      "label": "Verificare financiară",
+      "unit": null,
+      "published": 9,
+      "publishedPct": 36,
+      "fromGeneral": 1
+    },
+    {
+      "code": "indexare_pret",
+      "label": "Indexarea prețului",
+      "unit": null,
+      "published": 7,
+      "publishedPct": 28,
+      "fromGeneral": 3
+    },
+    {
+      "code": "moneda_facturare",
+      "label": "Moneda facturării",
+      "unit": null,
+      "published": 20,
+      "publishedPct": 80,
+      "fromGeneral": 14
+    },
+    {
+      "code": "plata",
+      "label": "Plata",
+      "unit": null,
+      "published": 25,
+      "publishedPct": 100,
+      "fromGeneral": 10
+    },
+    {
+      "code": "interdictii",
+      "label": "Interdicții",
+      "unit": null,
+      "published": 19,
+      "publishedPct": 76,
+      "fromGeneral": 19
+    },
+    {
+      "code": "instanta_competenta",
+      "label": "Instanța competentă",
+      "unit": null,
+      "published": 13,
+      "publishedPct": 52,
+      "fromGeneral": 11
+    },
+    {
+      "code": "livrare_termen_zile",
+      "label": "Termen de livrare",
+      "unit": "zile",
+      "published": 7,
+      "publishedPct": 28,
+      "fromGeneral": 1,
+      "values": 6,
+      "otherUnits": {},
+      "median": 1,
+      "p25": 1,
+      "p75": 1.75,
+      "zeroPct": 0,
+      "zero": 0,
+      "fixed": {
+        "values": 6,
+        "median": 1,
+        "fromGeneral": 1
+      }
+    },
+    {
+      "code": "vechime_flota",
+      "label": "Vechimea flotei",
+      "unit": null,
+      "published": 15,
+      "publishedPct": 60,
+      "fromGeneral": 1
+    },
+    {
+      "code": "ev_disponibil",
+      "label": "Mașini electrice",
+      "unit": null,
+      "published": 8,
+      "publishedPct": 32,
+      "fromGeneral": 1
+    }
+  ],
+  "refund": {
+    "published": 18,
+    "classes": {
+      "fara_penalitate": 33.3,
+      "recalculare": 11.1,
+      "garantie_retinuta": 11.1,
+      "procent_din_rest": 5.6,
+      "voucher": 5.6,
+      "fara_restituire": 22.2,
+      "doar_cu_acord": 0,
+      "penalitate_nepublicata": 11.1
+    }
+  },
+  "clients": {
+    "published": 23,
+    "accepts": {
+      "PF": 69.6,
+      "PFA": 13,
+      "PJ": 100,
+      "PJ_noua": 17.4
+    }
+  },
+  "changes": {
+    "firmsAdded": 0,
+    "firmsRemoved": 0,
+    "fields": [
+      {
+        "code": "franciza_casco",
+        "change": "scazut",
+        "firms": 1
+      },
+      {
+        "code": "franciza_casco",
+        "change": "nepublicat",
+        "firms": 1
+      }
+    ]
+  },
+  "subscriptions": {
+    "basket": {
+      "months": [
+        1,
+        3,
+        6,
+        12,
+        24
+      ],
+      "km": [
+        1000,
+        1500,
+        2000,
+        2500,
+        3000,
+        3500
+      ]
+    },
+    "firmsWithPrices": 25,
+    "firmsInBasket": 11,
+    "effects": {
+      "reference": {
+        "months": 12,
+        "km": 1500
+      },
+      "duration": {
+        "1": {
+          "factor": 1.137,
+          "firms": 6
+        },
+        "3": {
+          "factor": 1.137,
+          "firms": 11
+        },
+        "6": {
+          "factor": 1.068,
+          "firms": 12
+        },
+        "12": {
+          "factor": 1,
+          "firms": null
+        },
+        "24": {
+          "factor": 1,
+          "firms": 15
+        }
+      },
+      "km": {
+        "1000": {
+          "factor": 0.969,
+          "firms": 3
+        },
+        "1500": {
+          "factor": 1,
+          "firms": null
+        },
+        "2000": {
+          "factor": 1.049,
+          "firms": 4
+        },
+        "2500": {
+          "factor": 1.108,
+          "firms": 4
+        },
+        "3000": {
+          "factor": 1.184,
+          "firms": 4
+        },
+        "3500": {
+          "factor": 1.256,
+          "firms": 4
+        }
+      }
+    },
+    "categories": [
+      {
+        "id": "economy",
+        "label": "Economy",
+        "firms": 18,
+        "from": 383,
+        "examples": [
+          "Dacia Logan",
+          "Renault Clio",
+          "VW Polo"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": 426,
+            "firms": 1,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|1500": {
+            "median": 439,
+            "firms": 1,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2000": {
+            "median": 461,
+            "firms": 1,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2500": {
+            "median": 487,
+            "firms": 0,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3000": {
+            "median": 520,
+            "firms": 0,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3500": {
+            "median": 552,
+            "firms": 0,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1000": {
+            "median": 426,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1500": {
+            "median": 439,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2000": {
+            "median": 461,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2500": {
+            "median": 487,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3000": {
+            "median": 520,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3500": {
+            "median": 552,
+            "firms": 1,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1000": {
+            "median": 400,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1500": {
+            "median": 413,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2000": {
+            "median": 433,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2500": {
+            "median": 457,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3000": {
+            "median": 489,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3500": {
+            "median": 518,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1000": {
+            "median": 375,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1500": {
+            "median": 387,
+            "p25": 359,
+            "p75": 405,
+            "firms": 6,
+            "tentative": false
+          },
+          "12|2000": {
+            "median": 409,
+            "p25": 378,
+            "p75": 420,
+            "firms": 5,
+            "tentative": false
+          },
+          "12|2500": {
+            "median": 428,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3000": {
+            "median": 458,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3500": {
+            "median": 485,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1000": {
+            "median": 375,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1500": {
+            "median": 385,
+            "p25": 350,
+            "p75": 388,
+            "firms": 5,
+            "tentative": false
+          },
+          "24|2000": {
+            "median": 405,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|2500": {
+            "median": 428,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3000": {
+            "median": 458,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3500": {
+            "median": 485,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          }
+        }
+      },
+      {
+        "id": "compact",
+        "label": "Compact",
+        "firms": 16,
+        "from": 479,
+        "examples": [
+          "Hyundai i30",
+          "Toyota Corolla",
+          "Renault Megane"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": 546,
+            "firms": 0,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|1500": {
+            "median": 564,
+            "firms": 1,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2000": {
+            "median": 592,
+            "firms": 1,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2500": {
+            "median": 625,
+            "firms": 0,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3000": {
+            "median": 668,
+            "firms": 0,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3500": {
+            "median": 708,
+            "firms": 0,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1000": {
+            "median": 546,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1500": {
+            "median": 564,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2000": {
+            "median": 592,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2500": {
+            "median": 625,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3000": {
+            "median": 668,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3500": {
+            "median": 708,
+            "firms": 1,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1000": {
+            "median": 513,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1500": {
+            "median": 530,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2000": {
+            "median": 556,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2500": {
+            "median": 587,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3000": {
+            "median": 627,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3500": {
+            "median": 665,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1000": {
+            "median": 481,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1500": {
+            "median": 496,
+            "p25": 434,
+            "p75": 521,
+            "firms": 5,
+            "tentative": false
+          },
+          "12|2000": {
+            "median": 520,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|2500": {
+            "median": 550,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3000": {
+            "median": 587,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3500": {
+            "median": 623,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1000": {
+            "median": 481,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1500": {
+            "median": 486,
+            "p25": 434,
+            "p75": 496,
+            "firms": 5,
+            "tentative": false
+          },
+          "24|2000": {
+            "median": 520,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|2500": {
+            "median": 550,
+            "firms": 4,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3000": {
+            "median": 587,
+            "firms": 3,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3500": {
+            "median": 623,
+            "firms": 2,
+            "tentative": false,
+            "estimated": true,
+            "basis": "12|1500"
+          }
+        }
+      },
+      {
+        "id": "intermediate-suv",
+        "label": "Intermediate SUV",
+        "firms": 11,
+        "from": 674,
+        "examples": [
+          "Kia Sportage",
+          "Dacia Bigster",
+          "Nissan Qashqai"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": 694,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|1500": {
+            "median": 716,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2000": {
+            "median": 751,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2500": {
+            "median": 794,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3000": {
+            "median": 848,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3500": {
+            "median": 900,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1000": {
+            "median": 694,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1500": {
+            "median": 716,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2000": {
+            "median": 751,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2500": {
+            "median": 794,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3000": {
+            "median": 848,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3500": {
+            "median": 900,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1000": {
+            "median": 652,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1500": {
+            "median": 673,
+            "firms": 3,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2000": {
+            "median": 706,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2500": {
+            "median": 746,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3000": {
+            "median": 797,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3500": {
+            "median": 845,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1000": {
+            "median": 610,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1500": {
+            "median": 630,
+            "p25": 512,
+            "p75": 754,
+            "firms": 4,
+            "tentative": true
+          },
+          "12|2000": {
+            "median": 661,
+            "firms": 3,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|2500": {
+            "median": 698,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3000": {
+            "median": 746,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3500": {
+            "median": 791,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1000": {
+            "median": 610,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1500": {
+            "median": 581,
+            "p25": 485,
+            "p75": 706,
+            "firms": 4,
+            "tentative": true
+          },
+          "24|2000": {
+            "median": 661,
+            "firms": 3,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|2500": {
+            "median": 698,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3000": {
+            "median": 746,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3500": {
+            "median": 791,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          }
+        }
+      },
+      {
+        "id": "compact-suv",
+        "label": "Compact SUV",
+        "firms": 8,
+        "from": 466,
+        "examples": [
+          "Seat Arona",
+          "Skoda Kamiq",
+          "Nissan Ariya"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": 489,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|1500": {
+            "median": 504,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2000": {
+            "median": 529,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2500": {
+            "median": 559,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3000": {
+            "median": 597,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3500": {
+            "median": 633,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1000": {
+            "median": 489,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1500": {
+            "median": 504,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2000": {
+            "median": 529,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2500": {
+            "median": 559,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3000": {
+            "median": 597,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3500": {
+            "median": 633,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1000": {
+            "median": 459,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1500": {
+            "median": 474,
+            "firms": 3,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2000": {
+            "median": 497,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2500": {
+            "median": 525,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3000": {
+            "median": 561,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3500": {
+            "median": 595,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1000": {
+            "median": 430,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1500": {
+            "median": 444,
+            "p25": 409,
+            "p75": 483,
+            "firms": 4,
+            "tentative": true
+          },
+          "12|2000": {
+            "median": 465,
+            "firms": 3,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|2500": {
+            "median": 491,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3000": {
+            "median": 525,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3500": {
+            "median": 557,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1000": {
+            "median": 430,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1500": {
+            "median": 444,
+            "p25": 401,
+            "p75": 472,
+            "firms": 4,
+            "tentative": true
+          },
+          "24|2000": {
+            "median": 465,
+            "firms": 3,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|2500": {
+            "median": 491,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3000": {
+            "median": 525,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3500": {
+            "median": 557,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          }
+        }
+      },
+      {
+        "id": "standard-suv",
+        "label": "Standard SUV",
+        "firms": 8,
+        "from": 688,
+        "examples": [
+          "Dacia Duster",
+          "Ford Kuga",
+          "Dacia Duster GPL"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": 870,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|1500": {
+            "median": 898,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2000": {
+            "median": 942,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|2500": {
+            "median": 995,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3000": {
+            "median": 1064,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "1|3500": {
+            "median": 1128,
+            "firms": 0,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1000": {
+            "median": 870,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|1500": {
+            "median": 898,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2000": {
+            "median": 942,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|2500": {
+            "median": 995,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3000": {
+            "median": 1064,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "3|3500": {
+            "median": 1128,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1000": {
+            "median": 818,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|1500": {
+            "median": 814,
+            "p25": 770,
+            "p75": 834,
+            "firms": 3,
+            "tentative": true
+          },
+          "6|2000": {
+            "median": 885,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|2500": {
+            "median": 935,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3000": {
+            "median": 999,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "6|3500": {
+            "median": 1060,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1000": {
+            "median": 766,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|1500": {
+            "median": 790,
+            "p25": 735,
+            "p75": 797,
+            "firms": 3,
+            "tentative": true
+          },
+          "12|2000": {
+            "median": 829,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|2500": {
+            "median": 875,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3000": {
+            "median": 935,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "12|3500": {
+            "median": 992,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1000": {
+            "median": 766,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|1500": {
+            "median": 749,
+            "p25": 715,
+            "p75": 757,
+            "firms": 3,
+            "tentative": true
+          },
+          "24|2000": {
+            "median": 829,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|2500": {
+            "median": 875,
+            "firms": 2,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3000": {
+            "median": 935,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          },
+          "24|3500": {
+            "median": 992,
+            "firms": 1,
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|1500"
+          }
+        }
+      },
+      {
+        "id": "premium",
+        "label": "Premium",
+        "firms": 5,
+        "from": 1100,
+        "examples": [
+          "Audi A4",
+          "BMW 4 Series Grancoupe",
+          "BMW X6"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "standard",
+        "label": "Standard",
+        "firms": 5,
+        "from": 730,
+        "examples": [
+          "Peugeot 508",
+          "BYD Seal 5",
+          "ŠKODA Superb"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 2
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 2
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 2
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "fullsize",
+        "label": "Fullsize",
+        "firms": 4,
+        "from": 1240,
+        "examples": [
+          "BMW Serie 5",
+          "BMW Seria 3",
+          "BMW Seria 5"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "intermediate",
+        "label": "Intermediate",
+        "firms": 4,
+        "from": 606,
+        "examples": [
+          "Skoda Rapid 1.2 TSI",
+          "Skoda Octavia III 2.0 TDI DSG",
+          "BMW 2 Series GranCoupe"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 2
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 2
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 2
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 2
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 2
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 2
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 2
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 1
+          }
+        }
+      },
+      {
+        "id": "passenger-van-9",
+        "label": "Passenger Van, 9 seats",
+        "firms": 4,
+        "from": 727,
+        "examples": [
+          "Renault Express",
+          "Ford Custom 8+1 locuri",
+          "Mercedes Vito 9 locuri automat"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "cargo-van-large",
+        "label": "Cargo Van, large",
+        "firms": 3,
+        "from": 1300,
+        "examples": [
+          "Ford Transit"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "cargo-van-medium",
+        "label": "Cargo Van, medium",
+        "firms": 2,
+        "from": null,
+        "examples": [
+          "FIAT Ducato",
+          "PEUGEOT Boxer",
+          "Citroen Jumper Furgon L4H3 (sau similar)"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 1
+          }
+        }
+      },
+      {
+        "id": "economy-suv",
+        "label": "Economy SUV",
+        "firms": 2,
+        "from": null,
+        "examples": [
+          "Dacia Sandero Stepway automat",
+          "Dacia Sandero Stepway",
+          "DACIA Sandero Stepway"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 2
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 2
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 2
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 2
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 2
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 2
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 2
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 2
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 2
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 2
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 2
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 2
+          }
+        }
+      },
+      {
+        "id": "fullsize-suv",
+        "label": "Fullsize SUV",
+        "firms": 2,
+        "from": null,
+        "examples": [
+          "Toyota RAV4 Hybrid",
+          "Renault Austral Hybrid 2025"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "luxury",
+        "label": "Luxury",
+        "firms": 2,
+        "from": null,
+        "examples": [
+          "BMW Seria 7 M Sport",
+          "Mercedes-Benz E-Class"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "luxury-suv",
+        "label": "Luxury SUV",
+        "firms": 2,
+        "from": null,
+        "examples": [
+          "BMW X5",
+          "Mercedes-Benz GLE"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "mini",
+        "label": "Mini",
+        "firms": 2,
+        "from": null,
+        "examples": [
+          "Toyota Aygo",
+          "Fiat 500"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "cargo-van-small",
+        "label": "Cargo Van, small",
+        "firms": 1,
+        "from": null,
+        "examples": [
+          "FORD Transit Custom"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 1
+          }
+        }
+      },
+      {
+        "id": "compact-monospace",
+        "label": "Compact Monospace",
+        "firms": 1,
+        "from": null,
+        "examples": [
+          "Dacia Dokker"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        }
+      },
+      {
+        "id": "intermediate-monospace",
+        "label": "Intermediate Monospace",
+        "firms": 1,
+        "from": null,
+        "examples": [
+          "DACIA Jogger"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 1
+          }
+        }
+      },
+      {
+        "id": "passenger-van-8",
+        "label": "Passenger Van, 8 seats",
+        "firms": 1,
+        "from": null,
+        "examples": [
+          "Renault Trafic",
+          "RENAULT Trafic"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 1
+          }
+        }
+      },
+      {
+        "id": "premium-suv",
+        "label": "Premium SUV",
+        "firms": 1,
+        "from": null,
+        "examples": [
+          "Volkswagen Touareg",
+          "VOLKSWAGEN Touareg"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 1
+          }
+        }
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-09-30",
+      "firms": 25,
+      "declared": {
+        "rca": 92,
+        "casco": 100,
+        "rovinieta": 88,
+        "itp": 52,
+        "impozit_auto": 32,
+        "revizii": 96,
+        "reparatii_uzura": 56,
+        "anvelope_sezon": 80,
+        "depozitare_anvelope": 12,
+        "asistenta_rutiera": 92,
+        "masina_schimb_defect": 72,
+        "masina_schimb_dauna": 60,
+        "livrare": 88,
+        "ridicare_returnare": 48,
+        "schimb_model": 48,
+        "sofer_aditional": 60,
+        "iesire_tara": 72,
+        "km_nelimitati": 24,
+        "scaun_copil": 52,
+        "lanturi_echipament_iarna": 32,
+        "card_incarcare_ev": 8,
+        "spalare_curatenie_periodica": 4,
+        "platforma_client": 20,
+        "factura_lunara": 32,
+        "administrare_amenzi": 52,
+        "carte_verde": 12,
+        "parbriz_geamuri": 16,
+        "anvelope_jante_acoperite_casco": 12
+      },
+      "medians": {
+        "durata_minima_luni": 1,
+        "durata_maxima_luni": 24,
+        "preaviz_zile": null,
+        "km_inclusi_luna": 1500,
+        "cost_km_extra": 0.12,
+        "avans": 0,
+        "garantie": 150,
+        "franciza_casco": 150,
+        "taxa_administrare_amenzi": 50,
+        "taxa_fumat": 50,
+        "taxa_curatenie": 40,
+        "varsta_minima_sofer": 21,
+        "vechime_minima_permis_ani": 1,
+        "livrare_termen_zile": 1
+      },
+      "basket": {
+        "economy": {
+          "1|1000": 426,
+          "1|1500": 439,
+          "1|2000": 461,
+          "1|2500": 487,
+          "1|3000": 520,
+          "1|3500": 552,
+          "3|1000": 426,
+          "3|1500": 439,
+          "3|2000": 461,
+          "3|2500": 487,
+          "3|3000": 520,
+          "3|3500": 552,
+          "6|1000": 400,
+          "6|1500": 413,
+          "6|2000": 433,
+          "6|2500": 457,
+          "6|3000": 489,
+          "6|3500": 518,
+          "12|1000": 375,
+          "12|1500": 387,
+          "12|2000": 409,
+          "12|2500": 428,
+          "12|3000": 458,
+          "12|3500": 485,
+          "24|1000": 375,
+          "24|1500": 385,
+          "24|2000": 405,
+          "24|2500": 428,
+          "24|3000": 458,
+          "24|3500": 485
+        },
+        "compact": {
+          "1|1000": 546,
+          "1|1500": 564,
+          "1|2000": 592,
+          "1|2500": 625,
+          "1|3000": 668,
+          "1|3500": 708,
+          "3|1000": 546,
+          "3|1500": 564,
+          "3|2000": 592,
+          "3|2500": 625,
+          "3|3000": 668,
+          "3|3500": 708,
+          "6|1000": 513,
+          "6|1500": 530,
+          "6|2000": 556,
+          "6|2500": 587,
+          "6|3000": 627,
+          "6|3500": 665,
+          "12|1000": 481,
+          "12|1500": 496,
+          "12|2000": 520,
+          "12|2500": 550,
+          "12|3000": 587,
+          "12|3500": 623,
+          "24|1000": 481,
+          "24|1500": 486,
+          "24|2000": 520,
+          "24|2500": 550,
+          "24|3000": 587,
+          "24|3500": 623
+        },
+        "intermediate-suv": {
+          "1|1000": 694,
+          "1|1500": 716,
+          "1|2000": 751,
+          "1|2500": 794,
+          "1|3000": 848,
+          "1|3500": 900,
+          "3|1000": 694,
+          "3|1500": 716,
+          "3|2000": 751,
+          "3|2500": 794,
+          "3|3000": 848,
+          "3|3500": 900,
+          "6|1000": 652,
+          "6|1500": 673,
+          "6|2000": 706,
+          "6|2500": 746,
+          "6|3000": 797,
+          "6|3500": 845,
+          "12|1000": 610,
+          "12|1500": 630,
+          "12|2000": 661,
+          "12|2500": 698,
+          "12|3000": 746,
+          "12|3500": 791,
+          "24|1000": 610,
+          "24|1500": 581,
+          "24|2000": 661,
+          "24|2500": 698,
+          "24|3000": 746,
+          "24|3500": 791
+        },
+        "compact-suv": {
+          "1|1000": 489,
+          "1|1500": 504,
+          "1|2000": 529,
+          "1|2500": 559,
+          "1|3000": 597,
+          "1|3500": 633,
+          "3|1000": 489,
+          "3|1500": 504,
+          "3|2000": 529,
+          "3|2500": 559,
+          "3|3000": 597,
+          "3|3500": 633,
+          "6|1000": 459,
+          "6|1500": 474,
+          "6|2000": 497,
+          "6|2500": 525,
+          "6|3000": 561,
+          "6|3500": 595,
+          "12|1000": 430,
+          "12|1500": 444,
+          "12|2000": 465,
+          "12|2500": 491,
+          "12|3000": 525,
+          "12|3500": 557,
+          "24|1000": 430,
+          "24|1500": 444,
+          "24|2000": 465,
+          "24|2500": 491,
+          "24|3000": 525,
+          "24|3500": 557
+        },
+        "standard-suv": {
+          "1|1000": 870,
+          "1|1500": 898,
+          "1|2000": 942,
+          "1|2500": 995,
+          "1|3000": 1064,
+          "1|3500": 1128,
+          "3|1000": 870,
+          "3|1500": 898,
+          "3|2000": 942,
+          "3|2500": 995,
+          "3|3000": 1064,
+          "3|3500": 1128,
+          "6|1000": 818,
+          "6|1500": 814,
+          "6|2000": 885,
+          "6|2500": 935,
+          "6|3000": 999,
+          "6|3500": 1060,
+          "12|1000": 766,
+          "12|1500": 790,
+          "12|2000": 829,
+          "12|2500": 875,
+          "12|3000": 935,
+          "12|3500": 992,
+          "24|1000": 766,
+          "24|1500": 749,
+          "24|2000": 829,
+          "24|2500": 875,
+          "24|3000": 935,
+          "24|3500": 992
+        },
+        "premium": {},
+        "standard": {},
+        "fullsize": {},
+        "intermediate": {},
+        "passenger-van-9": {},
+        "cargo-van-large": {},
+        "cargo-van-medium": {},
+        "economy-suv": {},
+        "fullsize-suv": {},
+        "luxury": {},
+        "luxury-suv": {},
+        "mini": {},
+        "cargo-van-small": {},
+        "compact-monospace": {},
+        "intermediate-monospace": {},
+        "passenger-van-8": {},
+        "premium-suv": {}
+      }
+    }
+  ]
+}
