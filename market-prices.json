@@ -4,10 +4,10 @@
   "classificationVersion": "rentiva-2026-10-v3-36a3790f:bec41fcd91b1:44136fa355b3",
   "updatedAt": "2026-10-02",
   "eurRon": 5.3447,
-  "firmsChecked": 132,
-  "firmsUsed": 59,
-  "firmsQuoted": 57,
-  "carsUsed": 654,
+  "firmsChecked": 133,
+  "firmsUsed": 60,
+  "firmsQuoted": 58,
+  "carsUsed": 657,
   "categories": [
     {
       "id": "mini",
@@ -108,6 +108,7 @@
             34,
             35.01,
             35.5,
+            37.5,
             38.5,
             39,
             39.1,
@@ -140,8 +141,8 @@
             82.25,
             103
           ],
-          "models": 113,
-          "approxModels": 113
+          "models": 116,
+          "approxModels": 116
         },
         "week": {
           "firmMedians": [
@@ -171,6 +172,7 @@
             33.5,
             33.75,
             34.23,
+            35,
             35.5,
             36.41,
             37,
@@ -193,8 +195,8 @@
             70,
             70.5
           ],
-          "models": 115,
-          "approxModels": 115
+          "models": 118,
+          "approxModels": 118
         },
         "twoWeeks": {
           "firmMedians": [
@@ -227,6 +229,7 @@
             31.5,
             32.02,
             32.4,
+            32.7,
             33,
             33,
             33.5,
@@ -247,8 +250,8 @@
             52.5,
             65
           ],
-          "models": 117,
-          "approxModels": 117
+          "models": 120,
+          "approxModels": 120
         },
         "long": {
           "firmMedians": [
@@ -278,6 +281,7 @@
             25.76,
             27,
             27,
+            27.9,
             27.93,
             28.05,
             29,
@@ -301,8 +305,8 @@
             46,
             60
           ],
-          "models": 116,
-          "approxModels": 116
+          "models": 119,
+          "approxModels": 119
         }
       },
       "reference": null
@@ -2411,10 +2415,10 @@
           22
         ],
         "economy": [
-          41.92,
-          33.5,
-          30.18,
-          26.38
+          41.84,
+          33.63,
+          30.25,
+          27
         ],
         "compact": [
           50.5,
