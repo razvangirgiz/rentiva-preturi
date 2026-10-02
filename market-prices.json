@@ -5,9 +5,9 @@
   "updatedAt": "2026-10-02",
   "eurRon": 5.3447,
   "firmsChecked": 140,
-  "firmsUsed": 68,
-  "firmsQuoted": 66,
-  "carsUsed": 683,
+  "firmsUsed": 69,
+  "firmsQuoted": 67,
+  "carsUsed": 684,
   "categories": [
     {
       "id": "mini",
@@ -1115,6 +1115,7 @@
           "firmMedians": [
             34.85,
             39.15,
+            40.73,
             41.6,
             42,
             44,
@@ -1147,8 +1148,8 @@
             140,
             165.75
           ],
-          "models": 96,
-          "approxModels": 96
+          "models": 97,
+          "approxModels": 97
         },
         "week": {
           "firmMedians": [
@@ -2558,7 +2559,7 @@
           29.34
         ],
         "compact-suv": [
-          57.5,
+          56.75,
           49,
           41.77,
           36
