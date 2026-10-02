@@ -4,10 +4,10 @@
   "classificationVersion": "rentiva-2026-10-v3-36a3790f:bec41fcd91b1:44136fa355b3",
   "updatedAt": "2026-10-02",
   "eurRon": 5.3447,
-  "firmsChecked": 139,
-  "firmsUsed": 66,
-  "firmsQuoted": 64,
-  "carsUsed": 677,
+  "firmsChecked": 140,
+  "firmsUsed": 68,
+  "firmsQuoted": 66,
+  "carsUsed": 683,
   "categories": [
     {
       "id": "mini",
@@ -138,6 +138,7 @@
             49.5,
             52.5,
             54,
+            57.12,
             58.75,
             59,
             64.55,
@@ -148,8 +149,8 @@
             89,
             103
           ],
-          "models": 120,
-          "approxModels": 120
+          "models": 121,
+          "approxModels": 121
         },
         "week": {
           "firmMedians": [
@@ -178,6 +179,7 @@
             32,
             32.17,
             33.5,
+            33.66,
             33.75,
             34.23,
             35,
@@ -205,8 +207,8 @@
             70.5,
             74
           ],
-          "models": 122,
-          "approxModels": 122
+          "models": 123,
+          "approxModels": 123
         },
         "twoWeeks": {
           "firmMedians": [
@@ -245,6 +247,7 @@
             33,
             33.5,
             33.8,
+            34.68,
             35,
             35,
             35,
@@ -263,8 +266,8 @@
             60,
             65
           ],
-          "models": 124,
-          "approxModels": 124
+          "models": 125,
+          "approxModels": 125
         },
         "long": {
           "firmMedians": [
@@ -305,6 +308,7 @@
             31.1,
             31.25,
             32.48,
+            32.64,
             32.86,
             33.24,
             34.88,
@@ -321,8 +325,8 @@
             48.71,
             60
           ],
-          "models": 123,
-          "approxModels": 123
+          "models": 124,
+          "approxModels": 124
         }
       },
       "reference": null
@@ -968,38 +972,42 @@
         "short": {
           "firmMedians": [
             235,
+            303,
             373.75,
             390
           ],
-          "models": 4,
-          "approxModels": 4
+          "models": 5,
+          "approxModels": 5
         },
         "week": {
           "firmMedians": [
             235,
+            295.43,
             355.25,
             380
           ],
-          "models": 4,
-          "approxModels": 4
+          "models": 5,
+          "approxModels": 5
         },
         "twoWeeks": {
           "firmMedians": [
             210,
+            288.86,
             327.5,
             370
           ],
-          "models": 4,
-          "approxModels": 4
+          "models": 5,
+          "approxModels": 5
         },
         "long": {
           "firmMedians": [
             170,
+            243.6,
             290.5,
             350
           ],
-          "models": 4,
-          "approxModels": 4
+          "models": 5,
+          "approxModels": 5
         }
       },
       "reference": null
@@ -1299,6 +1307,7 @@
             112,
             114.13,
             116.5,
+            121.2,
             137,
             145,
             150,
@@ -1307,8 +1316,8 @@
             229.28,
             268
           ],
-          "models": 48,
-          "approxModels": 48
+          "models": 49,
+          "approxModels": 49
         },
         "week": {
           "firmMedians": [
@@ -1332,6 +1341,7 @@
             90,
             100,
             107,
+            118.68,
             120,
             125,
             125,
@@ -1339,8 +1349,8 @@
             168.5,
             175.94
           ],
-          "models": 50,
-          "approxModels": 50
+          "models": 51,
+          "approxModels": 51
         },
         "twoWeeks": {
           "firmMedians": [
@@ -1368,12 +1378,13 @@
             100,
             108.8,
             109,
+            112.11,
             115,
             122,
             148.17
           ],
-          "models": 52,
-          "approxModels": 52
+          "models": 53,
+          "approxModels": 53
         },
         "long": {
           "firmMedians": [
@@ -1400,12 +1411,13 @@
             85.67,
             86,
             86,
+            92.82,
             107.86,
             119.9,
             134.78
           ],
-          "models": 50,
-          "approxModels": 50
+          "models": 51,
+          "approxModels": 51
         }
       },
       "reference": null
@@ -1455,10 +1467,11 @@
             183.9,
             185.5,
             212,
+            212.1,
             217
           ],
-          "models": 67,
-          "approxModels": 67
+          "models": 68,
+          "approxModels": 68
         },
         "week": {
           "firmMedians": [
@@ -1495,10 +1508,11 @@
             144,
             144.5,
             145.69,
+            209.58,
             212
           ],
-          "models": 68,
-          "approxModels": 68
+          "models": 69,
+          "approxModels": 69
         },
         "twoWeeks": {
           "firmMedians": [
@@ -1536,10 +1550,11 @@
             121.55,
             130.13,
             132.3,
-            187
+            187,
+            203.01
           ],
-          "models": 69,
-          "approxModels": 69
+          "models": 70,
+          "approxModels": 70
         },
         "long": {
           "firmMedians": [
@@ -1577,10 +1592,11 @@
             109.42,
             123.24,
             125.52,
-            152
+            152,
+            163.04
           ],
-          "models": 69,
-          "approxModels": 69
+          "models": 70,
+          "approxModels": 70
         }
       },
       "reference": null
@@ -1592,49 +1608,53 @@
       "examples": [
         "Volkswagen Touareg",
         "Nissan Navara Double Cab",
-        "Volvo XC60"
+        "Toyota RAV4"
       ],
       "thin": false,
       "durations": {
         "short": {
           "firmMedians": [
             67.5,
+            101,
             104.79,
             297,
             297.5
           ],
-          "models": 5,
-          "approxModels": 5
+          "models": 6,
+          "approxModels": 6
         },
         "week": {
           "firmMedians": [
             53.75,
             89.49,
+            98.48,
             201,
             203
           ],
-          "models": 5,
-          "approxModels": 5
+          "models": 6,
+          "approxModels": 6
         },
         "twoWeeks": {
           "firmMedians": [
             51.5,
             80.09,
+            96.96,
             137,
             145
           ],
-          "models": 5,
-          "approxModels": 5
+          "models": 6,
+          "approxModels": 6
         },
         "long": {
           "firmMedians": [
             50.71,
             78.89,
+            82.72,
             107.17,
             117.29
           ],
-          "models": 5,
-          "approxModels": 5
+          "models": 6,
+          "approxModels": 6
         }
       },
       "reference": null
@@ -1660,14 +1680,15 @@
             165,
             243.55,
             260,
+            267.65,
             275,
             319.75,
             384,
             385,
             400
           ],
-          "models": 25,
-          "approxModels": 25
+          "models": 26,
+          "approxModels": 26
         },
         "week": {
           "firmMedians": [
@@ -1682,11 +1703,12 @@
             245,
             252.5,
             256,
+            260.08,
             275,
             379
           ],
-          "models": 24,
-          "approxModels": 24
+          "models": 25,
+          "approxModels": 25
         },
         "twoWeeks": {
           "firmMedians": [
@@ -1702,10 +1724,11 @@
             185.73,
             230,
             250,
+            253.51,
             358
           ],
-          "models": 24,
-          "approxModels": 24
+          "models": 25,
+          "approxModels": 25
         },
         "long": {
           "firmMedians": [
@@ -1719,12 +1742,13 @@
             155.2,
             163,
             168.23,
+            187.04,
             201.14,
             220,
             330
           ],
-          "models": 24,
-          "approxModels": 24
+          "models": 25,
+          "approxModels": 25
         }
       },
       "reference": null
@@ -2486,9 +2510,9 @@
           22
         ],
         "economy": [
-          41.92,
-          33.75,
-          30.48,
+          42,
+          33.71,
+          30.7,
           27
         ],
         "compact": [
@@ -2522,10 +2546,10 @@
           73.75
         ],
         "luxury": [
-          373.75,
-          355.25,
-          327.5,
-          290.5
+          338.38,
+          325.34,
+          308.18,
+          267.05
         ],
         "economy-suv": [
           47.7,
@@ -2540,28 +2564,28 @@
           36
         ],
         "intermediate-suv": [
-          84,
-          68.75,
-          61,
-          55.31
+          84.5,
+          70,
+          62.66,
+          55.71
         ],
         "standard-suv": [
-          91.5,
-          65.72,
-          59.09,
-          52
+          91.75,
+          66.44,
+          59.55,
+          53.5
         ],
         "fullsize-suv": [
-          200.9,
-          145.25,
-          108.55,
-          93.03
+          104.79,
+          98.48,
+          96.96,
+          82.72
         ],
         "luxury-suv": [
-          243.55,
-          199.88,
-          177.8,
-          146.05
+          251.78,
+          216.13,
+          178.03,
+          150.63
         ],
         "passenger-van-7": [
           71.75,
