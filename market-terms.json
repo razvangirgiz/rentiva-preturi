@@ -1,35 +1,35 @@
 {
   "about": "Serviciile, condițiile și prețurile lunare declarate public de firmele de închirieri și de leasing din România pentru abonamentele auto (o lună și mai mult): procente pe firme, mediane pe categoriile ACRISS și pe coșul de durate × km pe lună, în euro fără TVA, cu efectul duratei și al km. O celulă cu `estimated` e calculată din alta, nu observată. Fără nume de firme.",
   "page": "https://rentiva.ro/indicele-rentiva/abonamente",
-  "collectedAt": "2026-10-12",
-  "eurRon": 5.3414,
+  "collectedAt": "2026-11-09",
+  "eurRon": 5.3408,
   "minFirms": 5,
   "firms": {
-    "total": 25,
+    "total": 26,
     "tracked": 64,
-    "mare": 10,
+    "mare": 11,
     "local": 15,
-    "tcPublic": 23,
-    "subscriptionTc": 3,
+    "tcPublic": 24,
+    "subscriptionTc": 4,
     "contractModel": 3
   },
   "services": [
     {
       "code": "rca",
       "label": "RCA",
-      "n": 25,
-      "inclus": 23,
+      "n": 26,
+      "inclus": 24,
       "contra_cost": 0,
       "nu": 0,
       "nepublicat": 2,
-      "declared": 23,
-      "declaredPct": 92,
-      "includedPct": 92,
+      "declared": 24,
+      "declaredPct": 92.3,
+      "includedPct": 92.3,
       "fromGeneral": 6,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 90
+          "n": 11,
+          "declaredPct": 90.9
         },
         "local": {
           "n": 15,
@@ -40,18 +40,18 @@
     {
       "code": "casco",
       "label": "CASCO",
-      "n": 25,
-      "inclus": 25,
+      "n": 26,
+      "inclus": 26,
       "contra_cost": 0,
       "nu": 0,
       "nepublicat": 0,
-      "declared": 25,
+      "declared": 26,
       "declaredPct": 100,
       "includedPct": 100,
       "fromGeneral": 3,
       "bySegment": {
         "mare": {
-          "n": 10,
+          "n": 11,
           "declaredPct": 100
         },
         "local": {
@@ -63,19 +63,19 @@
     {
       "code": "rovinieta",
       "label": "Rovinietă",
-      "n": 25,
-      "inclus": 22,
+      "n": 26,
+      "inclus": 23,
       "contra_cost": 0,
       "nu": 0,
       "nepublicat": 3,
-      "declared": 22,
-      "declaredPct": 88,
-      "includedPct": 88,
+      "declared": 23,
+      "declaredPct": 88.5,
+      "includedPct": 88.5,
       "fromGeneral": 9,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 80
+          "n": 11,
+          "declaredPct": 81.8
         },
         "local": {
           "n": 15,
@@ -86,19 +86,19 @@
     {
       "code": "itp",
       "label": "ITP",
-      "n": 25,
+      "n": 26,
       "inclus": 13,
       "contra_cost": 0,
       "nu": 0,
-      "nepublicat": 12,
+      "nepublicat": 13,
       "declared": 13,
-      "declaredPct": 52,
-      "includedPct": 52,
+      "declaredPct": 50,
+      "includedPct": 50,
       "fromGeneral": 1,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 50
+          "n": 11,
+          "declaredPct": 45.5
         },
         "local": {
           "n": 15,
@@ -109,19 +109,19 @@
     {
       "code": "impozit_auto",
       "label": "Impozit auto",
-      "n": 25,
+      "n": 26,
       "inclus": 8,
       "contra_cost": 0,
       "nu": 0,
-      "nepublicat": 17,
+      "nepublicat": 18,
       "declared": 8,
-      "declaredPct": 32,
-      "includedPct": 32,
+      "declaredPct": 30.8,
+      "includedPct": 30.8,
       "fromGeneral": 1,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 30
+          "n": 11,
+          "declaredPct": 27.3
         },
         "local": {
           "n": 15,
@@ -132,18 +132,18 @@
     {
       "code": "revizii",
       "label": "Revizii",
-      "n": 25,
-      "inclus": 24,
+      "n": 26,
+      "inclus": 25,
       "contra_cost": 0,
       "nu": 0,
       "nepublicat": 1,
-      "declared": 24,
-      "declaredPct": 96,
-      "includedPct": 96,
+      "declared": 25,
+      "declaredPct": 96.2,
+      "includedPct": 96.2,
       "fromGeneral": 2,
       "bySegment": {
         "mare": {
-          "n": 10,
+          "n": 11,
           "declaredPct": 100
         },
         "local": {
@@ -155,19 +155,19 @@
     {
       "code": "reparatii_uzura",
       "label": "Reparații de uzură",
-      "n": 25,
-      "inclus": 14,
+      "n": 26,
+      "inclus": 15,
       "contra_cost": 0,
       "nu": 0,
       "nepublicat": 11,
-      "declared": 14,
-      "declaredPct": 56,
-      "includedPct": 56,
+      "declared": 15,
+      "declaredPct": 57.7,
+      "includedPct": 57.7,
       "fromGeneral": 1,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 60
+          "n": 11,
+          "declaredPct": 63.6
         },
         "local": {
           "n": 15,
@@ -178,19 +178,19 @@
     {
       "code": "anvelope_sezon",
       "label": "Anvelope de sezon",
-      "n": 25,
-      "inclus": 19,
+      "n": 26,
+      "inclus": 20,
       "contra_cost": 1,
       "nu": 1,
       "nepublicat": 4,
-      "declared": 20,
-      "declaredPct": 80,
-      "includedPct": 76,
+      "declared": 21,
+      "declaredPct": 80.8,
+      "includedPct": 76.9,
       "fromGeneral": 4,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 80
+          "n": 11,
+          "declaredPct": 81.8
         },
         "local": {
           "n": 15,
@@ -201,19 +201,19 @@
     {
       "code": "depozitare_anvelope",
       "label": "Depozitarea anvelopelor",
-      "n": 25,
+      "n": 26,
       "inclus": 3,
       "contra_cost": 0,
       "nu": 0,
-      "nepublicat": 22,
+      "nepublicat": 23,
       "declared": 3,
-      "declaredPct": 12,
-      "includedPct": 12,
+      "declaredPct": 11.5,
+      "includedPct": 11.5,
       "fromGeneral": 1,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 30
+          "n": 11,
+          "declaredPct": 27.3
         },
         "local": {
           "n": 15,
@@ -224,18 +224,18 @@
     {
       "code": "asistenta_rutiera",
       "label": "Asistență rutieră",
-      "n": 25,
+      "n": 26,
       "inclus": 23,
-      "contra_cost": 0,
+      "contra_cost": 1,
       "nu": 0,
       "nepublicat": 2,
-      "declared": 23,
-      "declaredPct": 92,
-      "includedPct": 92,
+      "declared": 24,
+      "declaredPct": 92.3,
+      "includedPct": 88.5,
       "fromGeneral": 4,
       "bySegment": {
         "mare": {
-          "n": 10,
+          "n": 11,
           "declaredPct": 100
         },
         "local": {
@@ -247,19 +247,19 @@
     {
       "code": "masina_schimb_defect",
       "label": "Mașină de schimb la defect",
-      "n": 25,
-      "inclus": 18,
+      "n": 26,
+      "inclus": 19,
       "contra_cost": 0,
       "nu": 0,
       "nepublicat": 7,
-      "declared": 18,
-      "declaredPct": 72,
-      "includedPct": 72,
+      "declared": 19,
+      "declaredPct": 73.1,
+      "includedPct": 73.1,
       "fromGeneral": 4,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 80
+          "n": 11,
+          "declaredPct": 81.8
         },
         "local": {
           "n": 15,
@@ -270,19 +270,19 @@
     {
       "code": "masina_schimb_dauna",
       "label": "Mașină de schimb la daună",
-      "n": 25,
+      "n": 26,
       "inclus": 12,
       "contra_cost": 3,
       "nu": 1,
-      "nepublicat": 9,
+      "nepublicat": 10,
       "declared": 15,
-      "declaredPct": 60,
-      "includedPct": 48,
+      "declaredPct": 57.7,
+      "includedPct": 46.2,
       "fromGeneral": 9,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 60
+          "n": 11,
+          "declaredPct": 54.5
         },
         "local": {
           "n": 15,
@@ -293,19 +293,19 @@
     {
       "code": "livrare",
       "label": "Livrare",
-      "n": 25,
-      "inclus": 16,
+      "n": 26,
+      "inclus": 17,
       "contra_cost": 6,
       "nu": 0,
       "nepublicat": 3,
-      "declared": 22,
-      "declaredPct": 88,
-      "includedPct": 64,
+      "declared": 23,
+      "declaredPct": 88.5,
+      "includedPct": 65.4,
       "fromGeneral": 9,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 90
+          "n": 11,
+          "declaredPct": 90.9
         },
         "local": {
           "n": 15,
@@ -316,19 +316,19 @@
     {
       "code": "ridicare_returnare",
       "label": "Ridicare la returnare",
-      "n": 25,
+      "n": 26,
       "inclus": 8,
-      "contra_cost": 4,
+      "contra_cost": 5,
       "nu": 0,
       "nepublicat": 13,
-      "declared": 12,
-      "declaredPct": 48,
-      "includedPct": 32,
+      "declared": 13,
+      "declaredPct": 50,
+      "includedPct": 30.8,
       "fromGeneral": 9,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 30
+          "n": 11,
+          "declaredPct": 36.4
         },
         "local": {
           "n": 15,
@@ -339,19 +339,19 @@
     {
       "code": "schimb_model",
       "label": "Schimbarea modelului în contract",
-      "n": 25,
+      "n": 26,
       "inclus": 12,
       "contra_cost": 0,
       "nu": 1,
-      "nepublicat": 12,
+      "nepublicat": 13,
       "declared": 12,
-      "declaredPct": 48,
-      "includedPct": 48,
+      "declaredPct": 46.2,
+      "includedPct": 46.2,
       "fromGeneral": 0,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 40
+          "n": 11,
+          "declaredPct": 36.4
         },
         "local": {
           "n": 15,
@@ -362,19 +362,19 @@
     {
       "code": "sofer_aditional",
       "label": "Șofer adițional",
-      "n": 25,
-      "inclus": 6,
+      "n": 26,
+      "inclus": 7,
       "contra_cost": 9,
       "nu": 1,
       "nepublicat": 9,
-      "declared": 15,
-      "declaredPct": 60,
-      "includedPct": 24,
+      "declared": 16,
+      "declaredPct": 61.5,
+      "includedPct": 26.9,
       "fromGeneral": 10,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 40
+          "n": 11,
+          "declaredPct": 45.5
         },
         "local": {
           "n": 15,
@@ -385,19 +385,19 @@
     {
       "code": "iesire_tara",
       "label": "Ieșire din țară",
-      "n": 25,
+      "n": 26,
       "inclus": 7,
-      "contra_cost": 11,
+      "contra_cost": 12,
       "nu": 3,
       "nepublicat": 4,
-      "declared": 18,
-      "declaredPct": 72,
-      "includedPct": 28,
+      "declared": 19,
+      "declaredPct": 73.1,
+      "includedPct": 26.9,
       "fromGeneral": 12,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 70
+          "n": 11,
+          "declaredPct": 72.7
         },
         "local": {
           "n": 15,
@@ -408,18 +408,18 @@
     {
       "code": "km_nelimitati",
       "label": "Km nelimitați",
-      "n": 25,
+      "n": 26,
       "inclus": 6,
       "contra_cost": 1,
-      "nu": 13,
+      "nu": 14,
       "nepublicat": 5,
       "declared": 7,
-      "declaredPct": 28,
-      "includedPct": 24,
+      "declaredPct": 26.9,
+      "includedPct": 23.1,
       "fromGeneral": 5,
       "bySegment": {
         "mare": {
-          "n": 10,
+          "n": 11,
           "declaredPct": 0
         },
         "local": {
@@ -431,19 +431,19 @@
     {
       "code": "scaun_copil",
       "label": "Scaun de copil",
-      "n": 25,
-      "inclus": 1,
-      "contra_cost": 12,
+      "n": 26,
+      "inclus": 0,
+      "contra_cost": 13,
       "nu": 0,
-      "nepublicat": 12,
+      "nepublicat": 13,
       "declared": 13,
-      "declaredPct": 52,
-      "includedPct": 4,
+      "declaredPct": 50,
+      "includedPct": 0,
       "fromGeneral": 8,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 30
+          "n": 11,
+          "declaredPct": 27.3
         },
         "local": {
           "n": 15,
@@ -454,19 +454,19 @@
     {
       "code": "lanturi_echipament_iarna",
       "label": "Lanțuri, echipament de iarnă",
-      "n": 25,
+      "n": 26,
       "inclus": 0,
       "contra_cost": 8,
       "nu": 0,
-      "nepublicat": 17,
+      "nepublicat": 18,
       "declared": 8,
-      "declaredPct": 32,
+      "declaredPct": 30.8,
       "includedPct": 0,
       "fromGeneral": 6,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 20
+          "n": 11,
+          "declaredPct": 18.2
         },
         "local": {
           "n": 15,
@@ -477,19 +477,19 @@
     {
       "code": "card_incarcare_ev",
       "label": "Card de încărcare EV",
-      "n": 25,
+      "n": 26,
       "inclus": 0,
       "contra_cost": 2,
       "nu": 0,
-      "nepublicat": 23,
+      "nepublicat": 24,
       "declared": 2,
-      "declaredPct": 8,
+      "declaredPct": 7.7,
       "includedPct": 0,
       "fromGeneral": 2,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 10
+          "n": 11,
+          "declaredPct": 9.1
         },
         "local": {
           "n": 15,
@@ -500,18 +500,18 @@
     {
       "code": "spalare_curatenie_periodica",
       "label": "Spălare periodică",
-      "n": 25,
+      "n": 26,
       "inclus": 1,
       "contra_cost": 0,
       "nu": 0,
-      "nepublicat": 24,
+      "nepublicat": 25,
       "declared": 1,
-      "declaredPct": 4,
-      "includedPct": 4,
+      "declaredPct": 3.8,
+      "includedPct": 3.8,
       "fromGeneral": 0,
       "bySegment": {
         "mare": {
-          "n": 10,
+          "n": 11,
           "declaredPct": 0
         },
         "local": {
@@ -523,19 +523,19 @@
     {
       "code": "platforma_client",
       "label": "Cont online pentru client",
-      "n": 25,
+      "n": 26,
       "inclus": 5,
       "contra_cost": 0,
       "nu": 0,
-      "nepublicat": 20,
+      "nepublicat": 21,
       "declared": 5,
-      "declaredPct": 20,
-      "includedPct": 20,
+      "declaredPct": 19.2,
+      "includedPct": 19.2,
       "fromGeneral": 1,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 50
+          "n": 11,
+          "declaredPct": 45.5
         },
         "local": {
           "n": 15,
@@ -546,19 +546,19 @@
     {
       "code": "factura_lunara",
       "label": "Factură lunară",
-      "n": 25,
+      "n": 26,
       "inclus": 8,
       "contra_cost": 0,
       "nu": 1,
-      "nepublicat": 16,
+      "nepublicat": 17,
       "declared": 8,
-      "declaredPct": 32,
-      "includedPct": 32,
+      "declaredPct": 30.8,
+      "includedPct": 30.8,
       "fromGeneral": 1,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 30
+          "n": 11,
+          "declaredPct": 27.3
         },
         "local": {
           "n": 15,
@@ -569,19 +569,19 @@
     {
       "code": "administrare_amenzi",
       "label": "Administrarea amenzilor",
-      "n": 25,
+      "n": 26,
       "inclus": 3,
-      "contra_cost": 10,
+      "contra_cost": 11,
       "nu": 3,
       "nepublicat": 9,
-      "declared": 13,
-      "declaredPct": 52,
-      "includedPct": 12,
+      "declared": 14,
+      "declaredPct": 53.8,
+      "includedPct": 11.5,
       "fromGeneral": 11,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 40
+          "n": 11,
+          "declaredPct": 45.5
         },
         "local": {
           "n": 15,
@@ -592,19 +592,19 @@
     {
       "code": "carte_verde",
       "label": "Carte verde",
-      "n": 25,
-      "inclus": 1,
+      "n": 26,
+      "inclus": 2,
       "contra_cost": 2,
       "nu": 0,
       "nepublicat": 22,
-      "declared": 3,
-      "declaredPct": 12,
-      "includedPct": 4,
+      "declared": 4,
+      "declaredPct": 15.4,
+      "includedPct": 7.7,
       "fromGeneral": 1,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 10
+          "n": 11,
+          "declaredPct": 18.2
         },
         "local": {
           "n": 15,
@@ -615,19 +615,19 @@
     {
       "code": "parbriz_geamuri",
       "label": "Parbriz și geamuri",
-      "n": 25,
+      "n": 26,
       "inclus": 0,
       "contra_cost": 4,
       "nu": 2,
-      "nepublicat": 19,
+      "nepublicat": 20,
       "declared": 4,
-      "declaredPct": 16,
+      "declaredPct": 15.4,
       "includedPct": 0,
       "fromGeneral": 4,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 20
+          "n": 11,
+          "declaredPct": 18.2
         },
         "local": {
           "n": 15,
@@ -638,19 +638,19 @@
     {
       "code": "anvelope_jante_acoperite_casco",
       "label": "Anvelope și jante acoperite de CASCO",
-      "n": 25,
+      "n": 26,
       "inclus": 0,
       "contra_cost": 3,
       "nu": 11,
-      "nepublicat": 11,
+      "nepublicat": 12,
       "declared": 3,
-      "declaredPct": 12,
+      "declaredPct": 11.5,
       "includedPct": 0,
       "fromGeneral": 3,
       "bySegment": {
         "mare": {
-          "n": 10,
-          "declaredPct": 20
+          "n": 11,
+          "declaredPct": 18.2
         },
         "local": {
           "n": 15,
@@ -664,10 +664,10 @@
       "code": "durata_minima_luni",
       "label": "Durata minimă",
       "unit": "luni",
-      "published": 25,
+      "published": 26,
       "publishedPct": 100,
       "fromGeneral": 0,
-      "values": 25,
+      "values": 26,
       "otherUnits": {},
       "median": 1,
       "p25": 1,
@@ -675,7 +675,7 @@
       "zeroPct": 0,
       "zero": 0,
       "fixed": {
-        "values": 25,
+        "values": 26,
         "median": 1,
         "fromGeneral": 0
       }
@@ -684,18 +684,18 @@
       "code": "durata_maxima_luni",
       "label": "Durata maximă",
       "unit": "luni",
-      "published": 16,
-      "publishedPct": 64,
+      "published": 17,
+      "publishedPct": 65.4,
       "fromGeneral": 0,
-      "values": 15,
+      "values": 16,
       "otherUnits": {},
       "median": 24,
-      "p25": 24,
-      "p75": 30,
+      "p25": 22.5,
+      "p75": 27,
       "zeroPct": 0,
       "zero": 0,
       "fixed": {
-        "values": 15,
+        "values": 16,
         "median": 24,
         "fromGeneral": 0
       }
@@ -704,19 +704,19 @@
       "code": "preaviz_zile",
       "label": "Preaviz",
       "unit": "zile",
-      "published": 4,
-      "publishedPct": 16,
+      "published": 5,
+      "publishedPct": 19.2,
       "fromGeneral": 1,
-      "values": 4,
+      "values": 5,
       "otherUnits": {},
-      "median": null,
-      "p25": null,
-      "p75": null,
-      "zeroPct": null,
+      "median": 14,
+      "p25": 6,
+      "p75": 14,
+      "zeroPct": 0,
       "zero": 0,
       "fixed": {
-        "values": 4,
-        "median": null,
+        "values": 5,
+        "median": 14,
         "fromGeneral": 1
       }
     },
@@ -724,8 +724,8 @@
       "code": "penalitate_reziliere",
       "label": "Returnare înainte de termen",
       "unit": null,
-      "published": 18,
-      "publishedPct": 72,
+      "published": 19,
+      "publishedPct": 73.1,
       "fromGeneral": 8
     },
     {
@@ -733,17 +733,17 @@
       "label": "Prelungire automată",
       "unit": null,
       "published": 12,
-      "publishedPct": 48,
+      "publishedPct": 46.2,
       "fromGeneral": 9
     },
     {
       "code": "km_inclusi_luna",
       "label": "Km incluși pe lună",
       "unit": "km",
-      "published": 18,
-      "publishedPct": 72,
+      "published": 19,
+      "publishedPct": 73.1,
       "fromGeneral": 3,
-      "values": 14,
+      "values": 15,
       "otherUnits": {},
       "median": 1500,
       "p25": 1000,
@@ -751,7 +751,7 @@
       "zeroPct": 0,
       "zero": 0,
       "fixed": {
-        "values": 14,
+        "values": 15,
         "median": 1500,
         "fromGeneral": 0
       }
@@ -760,19 +760,19 @@
       "code": "cost_km_extra",
       "label": "Cost km suplimentar",
       "unit": "EUR/km",
-      "published": 13,
-      "publishedPct": 52,
+      "published": 14,
+      "publishedPct": 53.8,
       "fromGeneral": 6,
-      "values": 10,
+      "values": 11,
       "otherUnits": {},
       "median": 0.12,
-      "p25": 0.11,
-      "p75": 0.19,
-      "zeroPct": 10,
+      "p25": 0.12,
+      "p75": 0.2,
+      "zeroPct": 9.1,
       "zero": 1,
       "fixed": {
-        "values": 9,
-        "median": 0.12,
+        "values": 10,
+        "median": 0.14,
         "fromGeneral": 5
       }
     },
@@ -780,32 +780,32 @@
       "code": "avans",
       "label": "Avans",
       "unit": "EUR",
-      "published": 10,
-      "publishedPct": 40,
+      "published": 11,
+      "publishedPct": 42.3,
       "fromGeneral": 1,
-      "values": 9,
+      "values": 11,
       "otherUnits": {},
       "median": 0,
       "p25": 0,
       "p75": 0,
-      "zeroPct": 100,
-      "zero": 9,
+      "zeroPct": 90.9,
+      "zero": 10,
       "fixed": {
-        "values": 0,
+        "values": 1,
         "median": null,
-        "fromGeneral": 0
+        "fromGeneral": 1
       }
     },
     {
       "code": "garantie",
       "label": "Garanție",
       "unit": "EUR",
-      "published": 22,
-      "publishedPct": 88,
+      "published": 23,
+      "publishedPct": 88.5,
       "fromGeneral": 9,
       "values": 13,
       "otherUnits": {
-        "rate": 5
+        "rate": 6
       },
       "median": 150,
       "p25": 0,
@@ -818,7 +818,7 @@
         "fromGeneral": 7
       },
       "rates": {
-        "firms": 5,
+        "firms": 6,
         "median": 1,
         "min": 1,
         "max": 3
@@ -829,15 +829,15 @@
       "label": "Franciză CASCO",
       "unit": "EUR",
       "published": 16,
-      "publishedPct": 64,
+      "publishedPct": 61.5,
       "fromGeneral": 12,
-      "values": 13,
+      "values": 12,
       "otherUnits": {},
-      "median": 150,
+      "median": 175,
       "p25": 100,
       "p75": 600,
-      "zeroPct": 15.4,
-      "zero": 2,
+      "zeroPct": 8.3,
+      "zero": 1,
       "fixed": {
         "values": 11,
         "median": 200,
@@ -848,26 +848,26 @@
       "code": "franciza_exceptii",
       "label": "Excepții de la CASCO",
       "unit": null,
-      "published": 19,
-      "publishedPct": 76,
+      "published": 20,
+      "publishedPct": 76.9,
       "fromGeneral": 19
     },
     {
       "code": "taxa_administrare_amenzi",
       "label": "Taxă de administrare a amenzilor",
       "unit": "EUR",
-      "published": 8,
-      "publishedPct": 32,
+      "published": 9,
+      "publishedPct": 34.6,
       "fromGeneral": 8,
-      "values": 7,
+      "values": 8,
       "otherUnits": {},
       "median": 50,
-      "p25": 49.2,
+      "p25": 43.8,
       "p75": 50,
       "zeroPct": 0,
       "zero": 0,
       "fixed": {
-        "values": 7,
+        "values": 8,
         "median": 50,
         "fromGeneral": 7
       }
@@ -876,19 +876,19 @@
       "code": "taxa_fumat",
       "label": "Taxă de fumat",
       "unit": "EUR",
-      "published": 12,
-      "publishedPct": 48,
+      "published": 13,
+      "publishedPct": 50,
       "fromGeneral": 12,
-      "values": 11,
+      "values": 12,
       "otherUnits": {},
-      "median": 50,
+      "median": 75,
       "p25": 50,
-      "p75": 190.75,
+      "p75": 186.13,
       "zeroPct": 0,
       "zero": 0,
       "fixed": {
-        "values": 11,
-        "median": 50,
+        "values": 12,
+        "median": 75,
         "fromGeneral": 11
       }
     },
@@ -896,18 +896,18 @@
       "code": "taxa_curatenie",
       "label": "Taxă de curățenie",
       "unit": "EUR",
-      "published": 12,
-      "publishedPct": 48,
+      "published": 13,
+      "publishedPct": 50,
       "fromGeneral": 12,
-      "values": 10,
+      "values": 11,
       "otherUnits": {},
       "median": 40,
-      "p25": 22.5,
-      "p75": 57.5,
+      "p25": 25,
+      "p75": 55,
       "zeroPct": 0,
       "zero": 0,
       "fixed": {
-        "values": 10,
+        "values": 11,
         "median": 40,
         "fromGeneral": 10
       }
@@ -916,18 +916,18 @@
       "code": "penalitate_intarziere_returnare",
       "label": "Întârziere la returnare",
       "unit": null,
-      "published": 18,
-      "publishedPct": 72,
+      "published": 19,
+      "publishedPct": 73.1,
       "fromGeneral": 18
     },
     {
       "code": "varsta_minima_sofer",
       "label": "Vârsta minimă a șoferului",
       "unit": "ani",
-      "published": 17,
-      "publishedPct": 68,
+      "published": 18,
+      "publishedPct": 69.2,
       "fromGeneral": 15,
-      "values": 17,
+      "values": 18,
       "otherUnits": {},
       "median": 21,
       "p25": 21,
@@ -935,7 +935,7 @@
       "zeroPct": 0,
       "zero": 0,
       "fixed": {
-        "values": 17,
+        "values": 18,
         "median": 21,
         "fromGeneral": 15
       }
@@ -944,18 +944,18 @@
       "code": "vechime_minima_permis_ani",
       "label": "Vechimea minimă a permisului",
       "unit": "ani",
-      "published": 21,
-      "publishedPct": 84,
+      "published": 22,
+      "publishedPct": 84.6,
       "fromGeneral": 17,
-      "values": 21,
+      "values": 22,
       "otherUnits": {},
       "median": 1,
       "p25": 1,
-      "p75": 1,
-      "zeroPct": 14.3,
+      "p75": 1.38,
+      "zeroPct": 13.6,
       "zero": 3,
       "fixed": {
-        "values": 18,
+        "values": 19,
         "median": 1,
         "fromGeneral": 15
       }
@@ -964,16 +964,16 @@
       "code": "clienti_acceptati",
       "label": "Clienți acceptați",
       "unit": null,
-      "published": 23,
-      "publishedPct": 92,
+      "published": 24,
+      "publishedPct": 92.3,
       "fromGeneral": 1
     },
     {
       "code": "acte_cerute",
       "label": "Acte cerute",
       "unit": null,
-      "published": 22,
-      "publishedPct": 88,
+      "published": 23,
+      "publishedPct": 88.5,
       "fromGeneral": 17
     },
     {
@@ -981,7 +981,7 @@
       "label": "Verificare financiară",
       "unit": null,
       "published": 9,
-      "publishedPct": 36,
+      "publishedPct": 34.6,
       "fromGeneral": 1
     },
     {
@@ -989,7 +989,7 @@
       "label": "Indexarea prețului",
       "unit": null,
       "published": 7,
-      "publishedPct": 28,
+      "publishedPct": 26.9,
       "fromGeneral": 3
     },
     {
@@ -997,14 +997,14 @@
       "label": "Moneda facturării",
       "unit": null,
       "published": 20,
-      "publishedPct": 80,
+      "publishedPct": 76.9,
       "fromGeneral": 14
     },
     {
       "code": "plata",
       "label": "Plata",
       "unit": null,
-      "published": 25,
+      "published": 26,
       "publishedPct": 100,
       "fromGeneral": 10
     },
@@ -1012,16 +1012,16 @@
       "code": "interdictii",
       "label": "Interdicții",
       "unit": null,
-      "published": 19,
-      "publishedPct": 76,
+      "published": 20,
+      "publishedPct": 76.9,
       "fromGeneral": 19
     },
     {
       "code": "instanta_competenta",
       "label": "Instanța competentă",
       "unit": null,
-      "published": 13,
-      "publishedPct": 52,
+      "published": 14,
+      "publishedPct": 53.8,
       "fromGeneral": 11
     },
     {
@@ -1029,7 +1029,7 @@
       "label": "Termen de livrare",
       "unit": "zile",
       "published": 7,
-      "publishedPct": 28,
+      "publishedPct": 26.9,
       "fromGeneral": 1,
       "values": 6,
       "otherUnits": {},
@@ -1049,7 +1049,7 @@
       "label": "Vechimea flotei",
       "unit": null,
       "published": 15,
-      "publishedPct": 60,
+      "publishedPct": 57.7,
       "fromGeneral": 1
     },
     {
@@ -1057,36 +1057,107 @@
       "label": "Mașini electrice",
       "unit": null,
       "published": 8,
-      "publishedPct": 32,
-      "fromGeneral": 1
+      "publishedPct": 30.8,
+      "fromGeneral": 2
     }
   ],
   "refund": {
-    "published": 18,
+    "published": 19,
     "classes": {
-      "fara_penalitate": 33.3,
-      "recalculare": 11.1,
-      "garantie_retinuta": 11.1,
-      "procent_din_rest": 11.1,
-      "voucher": 5.6,
-      "fara_restituire": 16.7,
+      "fara_penalitate": 31.6,
+      "recalculare": 10.5,
+      "garantie_retinuta": 15.8,
+      "procent_din_rest": 5.3,
+      "voucher": 5.3,
+      "fara_restituire": 21.1,
       "doar_cu_acord": 0,
-      "penalitate_nepublicata": 11.1
+      "penalitate_nepublicata": 10.5
     }
   },
   "clients": {
-    "published": 23,
+    "published": 24,
     "accepts": {
-      "PF": 69.6,
-      "PFA": 13,
+      "PF": 70.8,
+      "PFA": 12.5,
       "PJ": 100,
-      "PJ_noua": 17.4
+      "PJ_noua": 16.7
     }
   },
   "changes": {
-    "firmsAdded": 0,
+    "firmsAdded": 1,
     "firmsRemoved": 0,
-    "fields": []
+    "fields": [
+      {
+        "code": "avans",
+        "change": "publicat",
+        "firms": 2
+      },
+      {
+        "code": "asistenta_rutiera",
+        "change": "contra_cost",
+        "firms": 1
+      },
+      {
+        "code": "cost_km_extra",
+        "change": "crescut",
+        "firms": 1
+      },
+      {
+        "code": "franciza_casco",
+        "change": "nepublicat",
+        "firms": 1
+      },
+      {
+        "code": "franciza_casco",
+        "change": "crescut",
+        "firms": 1
+      },
+      {
+        "code": "penalitate_reziliere",
+        "change": "fara_restituire",
+        "firms": 1
+      },
+      {
+        "code": "pret:compact",
+        "change": "scazut",
+        "firms": 1
+      },
+      {
+        "code": "pret:economy",
+        "change": "crescut",
+        "firms": 1
+      },
+      {
+        "code": "pret:fullsize-suv",
+        "change": "scazut",
+        "firms": 1
+      },
+      {
+        "code": "pret:intermediate-suv",
+        "change": "crescut",
+        "firms": 1
+      },
+      {
+        "code": "pret:intermediate-suv",
+        "change": "scazut",
+        "firms": 1
+      },
+      {
+        "code": "pret:luxury-suv",
+        "change": "crescut",
+        "firms": 1
+      },
+      {
+        "code": "pret:standard",
+        "change": "crescut",
+        "firms": 1
+      },
+      {
+        "code": "scaun_copil",
+        "change": "contra_cost",
+        "firms": 1
+      }
+    ]
   },
   "subscriptions": {
     "basket": {
@@ -1106,8 +1177,8 @@
         3500
       ]
     },
-    "firmsWithPrices": 25,
-    "firmsInBasket": 11,
+    "firmsWithPrices": 26,
+    "firmsInBasket": 12,
     "effects": {
       "reference": {
         "months": 12,
@@ -1117,19 +1188,19 @@
         "1": {
           "factor": 1.137,
           "low": 1,
-          "high": 1.466,
+          "high": 1.425,
           "firms": 6
         },
         "3": {
           "factor": 1.137,
           "low": 1,
-          "high": 1.319,
+          "high": 1.296,
           "firms": 11
         },
         "6": {
           "factor": 1.068,
           "low": 1,
-          "high": 1.14,
+          "high": 1.111,
           "firms": 12
         },
         "12": {
@@ -1167,7 +1238,7 @@
         "2500": {
           "factor": 1.108,
           "low": 1.061,
-          "high": 1.147,
+          "high": 1.145,
           "firms": 4
         },
         "3000": {
@@ -1184,7 +1255,7 @@
         }
       },
       "gearbox": {
-        "factor": 1.288,
+        "factor": 1.264,
         "low": 1.047,
         "high": 1.367,
         "firms": 5
@@ -1194,8 +1265,8 @@
       {
         "id": "economy",
         "label": "Economy",
-        "firms": 18,
-        "from": 383,
+        "firms": 19,
+        "from": 399,
         "examples": [
           "Dacia Logan",
           "Renault Clio",
@@ -1205,7 +1276,7 @@
           "1|1000": {
             "median": 428,
             "low": 367,
-            "high": 555,
+            "high": 540,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -1214,7 +1285,7 @@
           "1|1500": {
             "median": 441,
             "low": 388,
-            "high": 569,
+            "high": 553,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -1223,7 +1294,7 @@
           "1|2000": {
             "median": 463,
             "low": 397,
-            "high": 600,
+            "high": 583,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -1232,7 +1303,7 @@
           "1|2500": {
             "median": 489,
             "low": 412,
-            "high": 652,
+            "high": 633,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -1241,7 +1312,7 @@
           "1|3000": {
             "median": 523,
             "low": 426,
-            "high": 705,
+            "high": 685,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -1250,7 +1321,7 @@
           "1|3500": {
             "median": 554,
             "low": 440,
-            "high": 758,
+            "high": 736,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -1259,7 +1330,7 @@
           "3|1000": {
             "median": 428,
             "low": 367,
-            "high": 499,
+            "high": 491,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -1268,7 +1339,7 @@
           "3|1500": {
             "median": 441,
             "low": 388,
-            "high": 512,
+            "high": 503,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -1277,7 +1348,7 @@
           "3|2000": {
             "median": 463,
             "low": 397,
-            "high": 539,
+            "high": 530,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -1286,7 +1357,7 @@
           "3|2500": {
             "median": 489,
             "low": 412,
-            "high": 587,
+            "high": 576,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -1295,7 +1366,7 @@
           "3|3000": {
             "median": 523,
             "low": 426,
-            "high": 634,
+            "high": 623,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -1304,7 +1375,7 @@
           "3|3500": {
             "median": 554,
             "low": 440,
-            "high": 682,
+            "high": 670,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -1313,7 +1384,7 @@
           "6|1000": {
             "median": 402,
             "low": 367,
-            "high": 432,
+            "high": 421,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -1322,7 +1393,7 @@
           "6|1500": {
             "median": 414,
             "low": 388,
-            "high": 442,
+            "high": 431,
             "firms": 4,
             "tentative": false,
             "estimated": true,
@@ -1331,7 +1402,7 @@
           "6|2000": {
             "median": 435,
             "low": 397,
-            "high": 466,
+            "high": 454,
             "firms": 4,
             "tentative": false,
             "estimated": true,
@@ -1340,7 +1411,7 @@
           "6|2500": {
             "median": 459,
             "low": 412,
-            "high": 507,
+            "high": 494,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -1349,7 +1420,7 @@
           "6|3000": {
             "median": 491,
             "low": 426,
-            "high": 548,
+            "high": 534,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -1358,7 +1429,7 @@
           "6|3500": {
             "median": 520,
             "low": 440,
-            "high": 589,
+            "high": 574,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -1381,16 +1452,16 @@
             "tentative": false
           },
           "12|2000": {
-            "median": 412,
-            "p25": 365,
-            "p75": 420,
-            "firms": 5,
+            "median": 416,
+            "p25": 377,
+            "p75": 477,
+            "firms": 6,
             "tentative": false
           },
           "12|2500": {
             "median": 430,
             "low": 412,
-            "high": 445,
+            "high": 444,
             "firms": 4,
             "tentative": false,
             "estimated": true,
@@ -1442,7 +1513,7 @@
           "24|2500": {
             "median": 430,
             "low": 333,
-            "high": 445,
+            "high": 444,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -1724,7 +1795,7 @@
               "1|1000": {
                 "median": 433,
                 "low": 370,
-                "high": 576,
+                "high": 560,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -1733,7 +1804,7 @@
               "1|1500": {
                 "median": 446,
                 "low": 391,
-                "high": 590,
+                "high": 573,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -1742,7 +1813,7 @@
               "1|2000": {
                 "median": 468,
                 "low": 412,
-                "high": 604,
+                "high": 587,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -1751,7 +1822,7 @@
               "1|2500": {
                 "median": 494,
                 "low": 415,
-                "high": 677,
+                "high": 656,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -1760,7 +1831,7 @@
               "1|3000": {
                 "median": 529,
                 "low": 429,
-                "high": 731,
+                "high": 710,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -1769,7 +1840,7 @@
               "1|3500": {
                 "median": 560,
                 "low": 443,
-                "high": 786,
+                "high": 764,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -1778,7 +1849,7 @@
               "3|1000": {
                 "median": 433,
                 "low": 370,
-                "high": 518,
+                "high": 509,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -1787,7 +1858,7 @@
               "3|1500": {
                 "median": 446,
                 "low": 391,
-                "high": 531,
+                "high": 521,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -1796,7 +1867,7 @@
               "3|2000": {
                 "median": 468,
                 "low": 412,
-                "high": 543,
+                "high": 534,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -1805,7 +1876,7 @@
               "3|2500": {
                 "median": 494,
                 "low": 415,
-                "high": 609,
+                "high": 597,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -1814,7 +1885,7 @@
               "3|3000": {
                 "median": 529,
                 "low": 429,
-                "high": 658,
+                "high": 646,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -1823,7 +1894,7 @@
               "3|3500": {
                 "median": 560,
                 "low": 443,
-                "high": 707,
+                "high": 695,
                 "firms": 1,
                 "tentative": false,
                 "estimated": true,
@@ -1832,7 +1903,7 @@
               "6|1000": {
                 "median": 406,
                 "low": 370,
-                "high": 448,
+                "high": 436,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -1841,7 +1912,7 @@
               "6|1500": {
                 "median": 419,
                 "low": 391,
-                "high": 459,
+                "high": 447,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -1850,7 +1921,7 @@
               "6|2000": {
                 "median": 440,
                 "low": 412,
-                "high": 470,
+                "high": 458,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -1859,7 +1930,7 @@
               "6|2500": {
                 "median": 464,
                 "low": 415,
-                "high": 526,
+                "high": 512,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -1868,7 +1939,7 @@
               "6|3000": {
                 "median": 497,
                 "low": 429,
-                "high": 568,
+                "high": 554,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -1877,7 +1948,7 @@
               "6|3500": {
                 "median": 526,
                 "low": 443,
-                "high": 611,
+                "high": 595,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -2245,9 +2316,9 @@
             "firms": 2,
             "cells": {
               "1|1000": {
-                "median": 559,
+                "median": 558,
                 "low": 413,
-                "high": 787,
+                "high": 765,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -2255,9 +2326,9 @@
                 "imputed": 3
               },
               "1|1500": {
-                "median": 576,
+                "median": 575,
                 "low": 436,
-                "high": 806,
+                "high": 784,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -2265,9 +2336,9 @@
                 "imputed": 3
               },
               "1|2000": {
-                "median": 605,
+                "median": 604,
                 "low": 460,
-                "high": 826,
+                "high": 803,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -2275,9 +2346,9 @@
                 "imputed": 3
               },
               "1|2500": {
-                "median": 638,
+                "median": 637,
                 "low": 463,
-                "high": 925,
+                "high": 897,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -2285,9 +2356,9 @@
                 "imputed": 3
               },
               "1|3000": {
-                "median": 683,
+                "median": 681,
                 "low": 479,
-                "high": 999,
+                "high": 971,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -2295,9 +2366,9 @@
                 "imputed": 3
               },
               "1|3500": {
-                "median": 724,
+                "median": 722,
                 "low": 495,
-                "high": 1074,
+                "high": 1044,
                 "firms": 0,
                 "tentative": false,
                 "estimated": true,
@@ -2305,9 +2376,9 @@
                 "imputed": 3
               },
               "3|1000": {
-                "median": 559,
+                "median": 558,
                 "low": 413,
-                "high": 708,
+                "high": 696,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -2315,9 +2386,9 @@
                 "imputed": 3
               },
               "3|1500": {
-                "median": 576,
+                "median": 575,
                 "low": 436,
-                "high": 725,
+                "high": 713,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -2325,9 +2396,9 @@
                 "imputed": 3
               },
               "3|2000": {
-                "median": 605,
+                "median": 604,
                 "low": 460,
-                "high": 743,
+                "high": 730,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -2335,9 +2406,9 @@
                 "imputed": 3
               },
               "3|2500": {
-                "median": 638,
+                "median": 637,
                 "low": 463,
-                "high": 832,
+                "high": 816,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -2345,9 +2416,9 @@
                 "imputed": 3
               },
               "3|3000": {
-                "median": 683,
+                "median": 681,
                 "low": 479,
-                "high": 899,
+                "high": 883,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -2355,9 +2426,9 @@
                 "imputed": 3
               },
               "3|3500": {
-                "median": 724,
+                "median": 722,
                 "low": 495,
-                "high": 966,
+                "high": 949,
                 "firms": 1,
                 "tentative": false,
                 "estimated": true,
@@ -2365,9 +2436,9 @@
                 "imputed": 3
               },
               "6|1000": {
-                "median": 525,
+                "median": 524,
                 "low": 413,
-                "high": 612,
+                "high": 596,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -2375,9 +2446,9 @@
                 "imputed": 3
               },
               "6|1500": {
-                "median": 541,
+                "median": 540,
                 "low": 436,
-                "high": 627,
+                "high": 611,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -2385,9 +2456,9 @@
                 "imputed": 3
               },
               "6|2000": {
-                "median": 568,
+                "median": 567,
                 "low": 460,
-                "high": 642,
+                "high": 626,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -2395,9 +2466,9 @@
                 "imputed": 3
               },
               "6|2500": {
-                "median": 600,
+                "median": 598,
                 "low": 463,
-                "high": 719,
+                "high": 700,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -2405,9 +2476,9 @@
                 "imputed": 3
               },
               "6|3000": {
-                "median": 641,
+                "median": 640,
                 "low": 479,
-                "high": 777,
+                "high": 757,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -2415,9 +2486,9 @@
                 "imputed": 3
               },
               "6|3500": {
-                "median": 680,
+                "median": 678,
                 "low": 495,
-                "high": 835,
+                "high": 814,
                 "firms": 2,
                 "tentative": false,
                 "estimated": true,
@@ -2425,7 +2496,7 @@
                 "imputed": 3
               },
               "12|1000": {
-                "median": 491,
+                "median": 490,
                 "low": 413,
                 "high": 537,
                 "firms": 2,
@@ -2435,7 +2506,7 @@
                 "imputed": 3
               },
               "12|1500": {
-                "median": 507,
+                "median": 506,
                 "low": 436,
                 "high": 550,
                 "firms": 4,
@@ -2445,7 +2516,7 @@
                 "imputed": 3
               },
               "12|2000": {
-                "median": 532,
+                "median": 531,
                 "low": 460,
                 "high": 563,
                 "firms": 5,
@@ -2454,9 +2525,9 @@
                 "imputed": 3
               },
               "12|2500": {
-                "median": 561,
+                "median": 560,
                 "low": 463,
-                "high": 631,
+                "high": 630,
                 "firms": 4,
                 "tentative": false,
                 "estimated": true,
@@ -2464,7 +2535,7 @@
                 "imputed": 3
               },
               "12|3000": {
-                "median": 600,
+                "median": 599,
                 "low": 479,
                 "high": 681,
                 "firms": 4,
@@ -2474,7 +2545,7 @@
                 "imputed": 3
               },
               "12|3500": {
-                "median": 636,
+                "median": 635,
                 "low": 495,
                 "high": 733,
                 "firms": 3,
@@ -2484,7 +2555,7 @@
                 "imputed": 3
               },
               "24|1000": {
-                "median": 491,
+                "median": 490,
                 "low": 335,
                 "high": 537,
                 "firms": 2,
@@ -2494,7 +2565,7 @@
                 "imputed": 3
               },
               "24|1500": {
-                "median": 507,
+                "median": 506,
                 "low": 354,
                 "high": 550,
                 "firms": 3,
@@ -2504,7 +2575,7 @@
                 "imputed": 3
               },
               "24|2000": {
-                "median": 532,
+                "median": 531,
                 "low": 373,
                 "high": 563,
                 "firms": 4,
@@ -2514,9 +2585,9 @@
                 "imputed": 3
               },
               "24|2500": {
-                "median": 561,
+                "median": 560,
                 "low": 375,
-                "high": 631,
+                "high": 630,
                 "firms": 3,
                 "tentative": false,
                 "estimated": true,
@@ -2524,7 +2595,7 @@
                 "imputed": 3
               },
               "24|3000": {
-                "median": 600,
+                "median": 599,
                 "low": 388,
                 "high": 681,
                 "firms": 3,
@@ -2534,7 +2605,7 @@
                 "imputed": 3
               },
               "24|3500": {
-                "median": 636,
+                "median": 635,
                 "low": 401,
                 "high": 733,
                 "firms": 2,
@@ -2679,8 +2750,8 @@
       {
         "id": "compact",
         "label": "Compact",
-        "firms": 13,
-        "from": 460,
+        "firms": 14,
+        "from": 469,
         "examples": [
           "ŠKODA Scala",
           "Hyundai i30",
@@ -2690,7 +2761,7 @@
           "1|1000": {
             "median": 527,
             "low": 453,
-            "high": 684,
+            "high": 665,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -2699,7 +2770,7 @@
           "1|1500": {
             "median": 543,
             "low": 478,
-            "high": 701,
+            "high": 681,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -2708,7 +2779,7 @@
           "1|2000": {
             "median": 571,
             "low": 489,
-            "high": 739,
+            "high": 718,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -2717,7 +2788,7 @@
           "1|2500": {
             "median": 602,
             "low": 507,
-            "high": 804,
+            "high": 780,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -2726,7 +2797,7 @@
           "1|3000": {
             "median": 644,
             "low": 525,
-            "high": 868,
+            "high": 844,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -2735,7 +2806,7 @@
           "1|3500": {
             "median": 683,
             "low": 542,
-            "high": 933,
+            "high": 907,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -2744,7 +2815,7 @@
           "3|1000": {
             "median": 527,
             "low": 453,
-            "high": 615,
+            "high": 605,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -2753,7 +2824,7 @@
           "3|1500": {
             "median": 543,
             "low": 478,
-            "high": 630,
+            "high": 619,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -2762,7 +2833,7 @@
           "3|2000": {
             "median": 571,
             "low": 489,
-            "high": 665,
+            "high": 653,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -2771,7 +2842,7 @@
           "3|2500": {
             "median": 602,
             "low": 507,
-            "high": 723,
+            "high": 709,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -2780,7 +2851,7 @@
           "3|3000": {
             "median": 644,
             "low": 525,
-            "high": 781,
+            "high": 768,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -2789,7 +2860,7 @@
           "3|3500": {
             "median": 683,
             "low": 542,
-            "high": 840,
+            "high": 825,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -2798,7 +2869,7 @@
           "6|1000": {
             "median": 495,
             "low": 453,
-            "high": 532,
+            "high": 518,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -2807,7 +2878,7 @@
           "6|1500": {
             "median": 511,
             "low": 478,
-            "high": 545,
+            "high": 531,
             "firms": 4,
             "tentative": false,
             "estimated": true,
@@ -2816,7 +2887,7 @@
           "6|2000": {
             "median": 536,
             "low": 489,
-            "high": 574,
+            "high": 560,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -2825,7 +2896,7 @@
           "6|2500": {
             "median": 566,
             "low": 507,
-            "high": 625,
+            "high": 608,
             "firms": 4,
             "tentative": false,
             "estimated": true,
@@ -2834,7 +2905,7 @@
           "6|3000": {
             "median": 605,
             "low": 525,
-            "high": 675,
+            "high": 658,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -2843,7 +2914,7 @@
           "6|3500": {
             "median": 641,
             "low": 542,
-            "high": 726,
+            "high": 707,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -2867,17 +2938,15 @@
           },
           "12|2000": {
             "median": 502,
-            "low": 489,
-            "high": 504,
-            "firms": 4,
-            "tentative": false,
-            "estimated": true,
-            "basis": "12|1500"
+            "p25": 480,
+            "p75": 545,
+            "firms": 5,
+            "tentative": false
           },
           "12|2500": {
             "median": 530,
             "low": 507,
-            "high": 548,
+            "high": 547,
             "firms": 4,
             "tentative": false,
             "estimated": true,
@@ -2929,7 +2998,7 @@
           "24|2500": {
             "median": 530,
             "low": 411,
-            "high": 548,
+            "high": 547,
             "firms": 4,
             "tentative": false,
             "estimated": true,
@@ -3211,7 +3280,7 @@
               "1|1000": {
                 "median": 497,
                 "low": 425,
-                "high": 662,
+                "high": 643,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3220,7 +3289,7 @@
               "1|1500": {
                 "median": 513,
                 "low": 449,
-                "high": 678,
+                "high": 659,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3229,7 +3298,7 @@
               "1|2000": {
                 "median": 538,
                 "low": 474,
-                "high": 694,
+                "high": 675,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3238,7 +3307,7 @@
               "1|2500": {
                 "median": 568,
                 "low": 477,
-                "high": 778,
+                "high": 754,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3247,7 +3316,7 @@
               "1|3000": {
                 "median": 608,
                 "low": 493,
-                "high": 840,
+                "high": 816,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3256,7 +3325,7 @@
               "1|3500": {
                 "median": 644,
                 "low": 509,
-                "high": 903,
+                "high": 878,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3265,7 +3334,7 @@
               "3|1000": {
                 "median": 497,
                 "low": 425,
-                "high": 595,
+                "high": 585,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3274,7 +3343,7 @@
               "3|1500": {
                 "median": 513,
                 "low": 449,
-                "high": 610,
+                "high": 599,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3283,7 +3352,7 @@
               "3|2000": {
                 "median": 538,
                 "low": 474,
-                "high": 625,
+                "high": 614,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3292,7 +3361,7 @@
               "3|2500": {
                 "median": 568,
                 "low": 477,
-                "high": 700,
+                "high": 686,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3301,7 +3370,7 @@
               "3|3000": {
                 "median": 608,
                 "low": 493,
-                "high": 756,
+                "high": 742,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3310,7 +3379,7 @@
               "3|3500": {
                 "median": 644,
                 "low": 509,
-                "high": 812,
+                "high": 798,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -3319,7 +3388,7 @@
               "6|1000": {
                 "median": 467,
                 "low": 425,
-                "high": 514,
+                "high": 501,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3328,7 +3397,7 @@
               "6|1500": {
                 "median": 482,
                 "low": 449,
-                "high": 527,
+                "high": 514,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3337,7 +3406,7 @@
               "6|2000": {
                 "median": 506,
                 "low": 474,
-                "high": 540,
+                "high": 526,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3346,7 +3415,7 @@
               "6|2500": {
                 "median": 534,
                 "low": 477,
-                "high": 605,
+                "high": 588,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3355,7 +3424,7 @@
               "6|3000": {
                 "median": 571,
                 "low": 493,
-                "high": 653,
+                "high": 637,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3364,7 +3433,7 @@
               "6|3500": {
                 "median": 605,
                 "low": 509,
-                "high": 702,
+                "high": 684,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3398,7 +3467,7 @@
               "12|2500": {
                 "median": 500,
                 "low": 477,
-                "high": 530,
+                "high": 529,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3450,7 +3519,7 @@
               "24|2500": {
                 "median": 500,
                 "low": 386,
-                "high": 530,
+                "high": 529,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3730,9 +3799,9 @@
             "firms": 6,
             "cells": {
               "1|1000": {
-                "median": 664,
+                "median": 652,
                 "low": 462,
-                "high": 918,
+                "high": 892,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3740,9 +3809,9 @@
                 "imputed": 2
               },
               "1|1500": {
-                "median": 685,
+                "median": 672,
                 "low": 488,
-                "high": 941,
+                "high": 914,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3750,9 +3819,9 @@
                 "imputed": 2
               },
               "1|2000": {
-                "median": 719,
+                "median": 706,
                 "low": 514,
-                "high": 963,
+                "high": 936,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3760,9 +3829,9 @@
                 "imputed": 2
               },
               "1|2500": {
-                "median": 759,
+                "median": 745,
                 "low": 517,
-                "high": 1079,
+                "high": 1047,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3770,9 +3839,9 @@
                 "imputed": 2
               },
               "1|3000": {
-                "median": 811,
+                "median": 796,
                 "low": 536,
-                "high": 1166,
+                "high": 1133,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3780,9 +3849,9 @@
                 "imputed": 2
               },
               "1|3500": {
-                "median": 860,
+                "median": 844,
                 "low": 553,
-                "high": 1253,
+                "high": 1218,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -3790,9 +3859,9 @@
                 "imputed": 2
               },
               "3|1000": {
-                "median": 664,
+                "median": 652,
                 "low": 462,
-                "high": 826,
+                "high": 812,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3800,9 +3869,9 @@
                 "imputed": 2
               },
               "3|1500": {
-                "median": 685,
+                "median": 672,
                 "low": 488,
-                "high": 846,
+                "high": 832,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3810,9 +3879,9 @@
                 "imputed": 2
               },
               "3|2000": {
-                "median": 719,
+                "median": 706,
                 "low": 514,
-                "high": 867,
+                "high": 852,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3820,9 +3889,9 @@
                 "imputed": 2
               },
               "3|2500": {
-                "median": 759,
+                "median": 745,
                 "low": 517,
-                "high": 971,
+                "high": 952,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3830,9 +3899,9 @@
                 "imputed": 2
               },
               "3|3000": {
-                "median": 811,
+                "median": 796,
                 "low": 536,
-                "high": 1049,
+                "high": 1030,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3840,9 +3909,9 @@
                 "imputed": 2
               },
               "3|3500": {
-                "median": 860,
+                "median": 844,
                 "low": 553,
-                "high": 1127,
+                "high": 1108,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -3850,9 +3919,9 @@
                 "imputed": 2
               },
               "6|1000": {
-                "median": 624,
+                "median": 612,
                 "low": 462,
-                "high": 714,
+                "high": 696,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3860,9 +3929,9 @@
                 "imputed": 2
               },
               "6|1500": {
-                "median": 643,
+                "median": 631,
                 "low": 488,
-                "high": 732,
+                "high": 713,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3870,9 +3939,9 @@
                 "imputed": 2
               },
               "6|2000": {
-                "median": 675,
+                "median": 663,
                 "low": 514,
-                "high": 749,
+                "high": 730,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3880,9 +3949,9 @@
                 "imputed": 2
               },
               "6|2500": {
-                "median": 713,
+                "median": 699,
                 "low": 517,
-                "high": 839,
+                "high": 816,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3890,9 +3959,9 @@
                 "imputed": 2
               },
               "6|3000": {
-                "median": 762,
+                "median": 748,
                 "low": 536,
-                "high": 906,
+                "high": 883,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3900,9 +3969,9 @@
                 "imputed": 2
               },
               "6|3500": {
-                "median": 808,
+                "median": 793,
                 "low": 553,
-                "high": 974,
+                "high": 950,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -3910,7 +3979,7 @@
                 "imputed": 2
               },
               "12|1000": {
-                "median": 584,
+                "median": 573,
                 "low": 462,
                 "high": 626,
                 "firms": 2,
@@ -3920,7 +3989,7 @@
                 "imputed": 2
               },
               "12|1500": {
-                "median": 602,
+                "median": 591,
                 "low": 488,
                 "high": 642,
                 "firms": 3,
@@ -3930,7 +3999,7 @@
                 "imputed": 2
               },
               "12|2000": {
-                "median": 632,
+                "median": 621,
                 "low": 514,
                 "high": 657,
                 "firms": 4,
@@ -3939,9 +4008,9 @@
                 "imputed": 2
               },
               "12|2500": {
-                "median": 667,
+                "median": 655,
                 "low": 517,
-                "high": 736,
+                "high": 735,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -3949,7 +4018,7 @@
                 "imputed": 2
               },
               "12|3000": {
-                "median": 714,
+                "median": 700,
                 "low": 536,
                 "high": 795,
                 "firms": 3,
@@ -3959,7 +4028,7 @@
                 "imputed": 2
               },
               "12|3500": {
-                "median": 756,
+                "median": 742,
                 "low": 553,
                 "high": 855,
                 "firms": 2,
@@ -3969,7 +4038,7 @@
                 "imputed": 2
               },
               "24|1000": {
-                "median": 584,
+                "median": 573,
                 "low": 374,
                 "high": 626,
                 "firms": 2,
@@ -3979,7 +4048,7 @@
                 "imputed": 2
               },
               "24|1500": {
-                "median": 602,
+                "median": 591,
                 "low": 395,
                 "high": 642,
                 "firms": 3,
@@ -3989,7 +4058,7 @@
                 "imputed": 2
               },
               "24|2000": {
-                "median": 582,
+                "median": 571,
                 "low": 496,
                 "high": 602,
                 "firms": 4,
@@ -3998,9 +4067,9 @@
                 "imputed": 2
               },
               "24|2500": {
-                "median": 667,
+                "median": 655,
                 "low": 419,
-                "high": 736,
+                "high": 735,
                 "firms": 3,
                 "tentative": true,
                 "estimated": true,
@@ -4008,7 +4077,7 @@
                 "imputed": 2
               },
               "24|3000": {
-                "median": 714,
+                "median": 700,
                 "low": 434,
                 "high": 795,
                 "firms": 3,
@@ -4018,7 +4087,7 @@
                 "imputed": 2
               },
               "24|3500": {
-                "median": 756,
+                "median": 742,
                 "low": 448,
                 "high": 855,
                 "firms": 2,
@@ -4163,8 +4232,8 @@
       {
         "id": "compact-suv",
         "label": "Compact SUV",
-        "firms": 10,
-        "from": 520,
+        "firms": 11,
+        "from": 560,
         "examples": [
           "SEAT Arona",
           "ŠKODA Kamiq",
@@ -4174,7 +4243,7 @@
           "1|1000": {
             "median": 515,
             "low": 442,
-            "high": 668,
+            "high": 650,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -4183,7 +4252,7 @@
           "1|1500": {
             "median": 531,
             "low": 467,
-            "high": 685,
+            "high": 665,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -4192,7 +4261,7 @@
           "1|2000": {
             "median": 558,
             "low": 478,
-            "high": 722,
+            "high": 701,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -4201,7 +4270,7 @@
           "1|2500": {
             "median": 588,
             "low": 495,
-            "high": 785,
+            "high": 762,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -4210,7 +4279,7 @@
           "1|3000": {
             "median": 629,
             "low": 513,
-            "high": 848,
+            "high": 825,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -4219,7 +4288,7 @@
           "1|3500": {
             "median": 667,
             "low": 530,
-            "high": 912,
+            "high": 886,
             "firms": 0,
             "tentative": false,
             "estimated": true,
@@ -4228,7 +4297,7 @@
           "3|1000": {
             "median": 515,
             "low": 442,
-            "high": 601,
+            "high": 591,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4237,7 +4306,7 @@
           "3|1500": {
             "median": 531,
             "low": 467,
-            "high": 616,
+            "high": 605,
             "firms": 3,
             "tentative": false,
             "estimated": true,
@@ -4246,7 +4315,7 @@
           "3|2000": {
             "median": 558,
             "low": 478,
-            "high": 649,
+            "high": 638,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4255,7 +4324,7 @@
           "3|2500": {
             "median": 588,
             "low": 495,
-            "high": 707,
+            "high": 693,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4264,7 +4333,7 @@
           "3|3000": {
             "median": 629,
             "low": 513,
-            "high": 763,
+            "high": 750,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4273,7 +4342,7 @@
           "3|3500": {
             "median": 667,
             "low": 530,
-            "high": 820,
+            "high": 806,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -4282,7 +4351,7 @@
           "6|1000": {
             "median": 484,
             "low": 442,
-            "high": 520,
+            "high": 506,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4291,7 +4360,7 @@
           "6|1500": {
             "median": 499,
             "low": 467,
-            "high": 532,
+            "high": 519,
             "firms": 4,
             "tentative": false,
             "estimated": true,
@@ -4300,7 +4369,7 @@
           "6|2000": {
             "median": 524,
             "low": 478,
-            "high": 561,
+            "high": 547,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4309,7 +4378,7 @@
           "6|2500": {
             "median": 553,
             "low": 495,
-            "high": 611,
+            "high": 594,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4318,7 +4387,7 @@
           "6|3000": {
             "median": 591,
             "low": 513,
-            "high": 660,
+            "high": 643,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4327,7 +4396,7 @@
           "6|3500": {
             "median": 626,
             "low": 530,
-            "high": 709,
+            "high": 691,
             "firms": 1,
             "tentative": false,
             "estimated": true,
@@ -4353,7 +4422,7 @@
             "median": 490,
             "low": 478,
             "high": 492,
-            "firms": 3,
+            "firms": 4,
             "tentative": false,
             "estimated": true,
             "basis": "12|1500"
@@ -4361,7 +4430,7 @@
           "12|2500": {
             "median": 517,
             "low": 495,
-            "high": 536,
+            "high": 535,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4413,7 +4482,7 @@
           "24|2500": {
             "median": 517,
             "low": 401,
-            "high": 536,
+            "high": 535,
             "firms": 2,
             "tentative": false,
             "estimated": true,
@@ -4695,7 +4764,7 @@
               "1|1000": {
                 "median": 415,
                 "low": 356,
-                "high": 638,
+                "high": 620,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -4705,7 +4774,7 @@
               "1|1500": {
                 "median": 428,
                 "low": 376,
-                "high": 654,
+                "high": 636,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -4715,7 +4784,7 @@
               "1|2000": {
                 "median": 449,
                 "low": 385,
-                "high": 689,
+                "high": 670,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -4725,7 +4794,7 @@
               "1|2500": {
                 "median": 474,
                 "low": 399,
-                "high": 750,
+                "high": 728,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -4735,7 +4804,7 @@
               "1|3000": {
                 "median": 507,
                 "low": 413,
-                "high": 810,
+                "high": 788,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -4745,7 +4814,7 @@
               "1|3500": {
                 "median": 537,
                 "low": 426,
-                "high": 871,
+                "high": 847,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -4755,7 +4824,7 @@
               "3|1000": {
                 "median": 415,
                 "low": 356,
-                "high": 574,
+                "high": 564,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -4765,7 +4834,7 @@
               "3|1500": {
                 "median": 428,
                 "low": 376,
-                "high": 588,
+                "high": 578,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -4775,7 +4844,7 @@
               "3|2000": {
                 "median": 449,
                 "low": 385,
-                "high": 620,
+                "high": 609,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -4785,7 +4854,7 @@
               "3|2500": {
                 "median": 474,
                 "low": 399,
-                "high": 675,
+                "high": 662,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -4795,7 +4864,7 @@
               "3|3000": {
                 "median": 507,
                 "low": 413,
-                "high": 729,
+                "high": 716,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -4805,7 +4874,7 @@
               "3|3500": {
                 "median": 537,
                 "low": 426,
-                "high": 784,
+                "high": 770,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -4815,7 +4884,7 @@
               "6|1000": {
                 "median": 390,
                 "low": 356,
-                "high": 496,
+                "high": 484,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -4834,7 +4903,7 @@
               "6|2000": {
                 "median": 422,
                 "low": 385,
-                "high": 536,
+                "high": 522,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -4844,7 +4913,7 @@
               "6|2500": {
                 "median": 445,
                 "low": 399,
-                "high": 583,
+                "high": 567,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -4854,7 +4923,7 @@
               "6|3000": {
                 "median": 476,
                 "low": 413,
-                "high": 630,
+                "high": 614,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -4864,7 +4933,7 @@
               "6|3500": {
                 "median": 504,
                 "low": 426,
-                "high": 677,
+                "high": 660,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -4902,7 +4971,7 @@
               "12|2500": {
                 "median": 417,
                 "low": 399,
-                "high": 512,
+                "high": 511,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -4940,7 +5009,7 @@
                 "imputed": 2
               },
               "24|1500": {
-                "median": 363,
+                "median": 369,
                 "low": 342,
                 "high": 446,
                 "firms": 3,
@@ -4949,7 +5018,7 @@
                 "imputed": 2
               },
               "24|2000": {
-                "median": 382,
+                "median": 389,
                 "low": 360,
                 "high": 440,
                 "firms": 3,
@@ -4960,7 +5029,7 @@
               "24|2500": {
                 "median": 417,
                 "low": 323,
-                "high": 512,
+                "high": 511,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5245,7 +5314,7 @@
               "1|1000": {
                 "median": 515,
                 "low": 442,
-                "high": 668,
+                "high": 650,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -5254,7 +5323,7 @@
               "1|1500": {
                 "median": 531,
                 "low": 467,
-                "high": 685,
+                "high": 665,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -5263,7 +5332,7 @@
               "1|2000": {
                 "median": 558,
                 "low": 478,
-                "high": 722,
+                "high": 701,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -5272,7 +5341,7 @@
               "1|2500": {
                 "median": 588,
                 "low": 495,
-                "high": 785,
+                "high": 762,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -5281,7 +5350,7 @@
               "1|3000": {
                 "median": 629,
                 "low": 513,
-                "high": 848,
+                "high": 825,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -5290,7 +5359,7 @@
               "1|3500": {
                 "median": 667,
                 "low": 530,
-                "high": 912,
+                "high": 886,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -5299,7 +5368,7 @@
               "3|1000": {
                 "median": 515,
                 "low": 442,
-                "high": 601,
+                "high": 591,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -5308,7 +5377,7 @@
               "3|1500": {
                 "median": 531,
                 "low": 467,
-                "high": 616,
+                "high": 605,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5317,7 +5386,7 @@
               "3|2000": {
                 "median": 558,
                 "low": 478,
-                "high": 649,
+                "high": 638,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5326,7 +5395,7 @@
               "3|2500": {
                 "median": 588,
                 "low": 495,
-                "high": 707,
+                "high": 693,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5335,7 +5404,7 @@
               "3|3000": {
                 "median": 629,
                 "low": 513,
-                "high": 763,
+                "high": 750,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5344,7 +5413,7 @@
               "3|3500": {
                 "median": 667,
                 "low": 530,
-                "high": 820,
+                "high": 806,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -5353,7 +5422,7 @@
               "6|1000": {
                 "median": 484,
                 "low": 442,
-                "high": 520,
+                "high": 506,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -5369,7 +5438,7 @@
               "6|2000": {
                 "median": 524,
                 "low": 478,
-                "high": 561,
+                "high": 547,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5378,7 +5447,7 @@
               "6|2500": {
                 "median": 553,
                 "low": 495,
-                "high": 611,
+                "high": 594,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5387,7 +5456,7 @@
               "6|3000": {
                 "median": 591,
                 "low": 513,
-                "high": 660,
+                "high": 643,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5396,7 +5465,7 @@
               "6|3500": {
                 "median": 626,
                 "low": 530,
-                "high": 709,
+                "high": 691,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -5428,7 +5497,7 @@
               "12|2500": {
                 "median": 517,
                 "low": 495,
-                "high": 536,
+                "high": 535,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5478,7 +5547,7 @@
               "24|2500": {
                 "median": 517,
                 "low": 401,
-                "high": 536,
+                "high": 535,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -5759,273 +5828,273 @@
       {
         "id": "intermediate-suv",
         "label": "Intermediate SUV",
-        "firms": 10,
-        "from": 657,
+        "firms": 9,
+        "from": 674,
         "examples": [
-          "Kia Sportage",
           "Nissan Qashqai",
+          "Kia Sportage",
           "Toyota C-HR Hybrid"
         ],
         "cells": {
           "1|1000": {
-            "median": 751,
-            "low": 645,
-            "high": 974,
+            "median": 760,
+            "low": 653,
+            "high": 959,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "1|1500": {
-            "median": 774,
-            "low": 681,
-            "high": 998,
+            "median": 784,
+            "low": 690,
+            "high": 983,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "1|2000": {
-            "median": 813,
-            "low": 697,
-            "high": 1052,
+            "median": 823,
+            "low": 706,
+            "high": 1036,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "1|2500": {
-            "median": 858,
-            "low": 723,
-            "high": 1145,
+            "median": 869,
+            "low": 732,
+            "high": 1125,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "1|3000": {
-            "median": 918,
-            "low": 748,
-            "high": 1237,
+            "median": 929,
+            "low": 757,
+            "high": 1217,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "1|3500": {
-            "median": 973,
-            "low": 772,
-            "high": 1330,
+            "median": 985,
+            "low": 782,
+            "high": 1309,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "3|1000": {
-            "median": 751,
-            "low": 645,
-            "high": 877,
+            "median": 760,
+            "low": 653,
+            "high": 872,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "3|1500": {
-            "median": 774,
-            "low": 681,
-            "high": 898,
+            "median": 784,
+            "low": 690,
+            "high": 894,
             "firms": 3,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "3|2000": {
-            "median": 813,
-            "low": 697,
-            "high": 947,
+            "median": 823,
+            "low": 706,
+            "high": 942,
             "firms": 3,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "3|2500": {
-            "median": 858,
-            "low": 723,
-            "high": 1030,
+            "median": 869,
+            "low": 732,
+            "high": 1023,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "3|3000": {
-            "median": 918,
-            "low": 748,
-            "high": 1113,
+            "median": 929,
+            "low": 757,
+            "high": 1107,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "3|3500": {
-            "median": 973,
-            "low": 772,
-            "high": 1196,
+            "median": 985,
+            "low": 782,
+            "high": 1190,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "6|1000": {
-            "median": 705,
-            "low": 645,
-            "high": 758,
+            "median": 714,
+            "low": 653,
+            "high": 748,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "6|1500": {
-            "median": 757,
-            "p25": 641,
-            "p75": 849,
+            "median": 747,
+            "p25": 626,
+            "p75": 877,
             "firms": 4,
             "tentative": true
           },
           "6|2000": {
-            "median": 764,
-            "low": 697,
-            "high": 818,
+            "median": 773,
+            "low": 706,
+            "high": 807,
             "firms": 3,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "6|2500": {
-            "median": 806,
-            "low": 723,
-            "high": 890,
+            "median": 816,
+            "low": 732,
+            "high": 877,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "6|3000": {
-            "median": 862,
-            "low": 748,
-            "high": 962,
+            "median": 873,
+            "low": 757,
+            "high": 949,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "6|3500": {
-            "median": 913,
-            "low": 772,
-            "high": 1034,
+            "median": 925,
+            "low": 782,
+            "high": 1020,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "12|1000": {
-            "median": 661,
-            "low": 645,
-            "high": 665,
+            "median": 669,
+            "low": 653,
+            "high": 673,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "12|1500": {
-            "median": 681,
-            "p25": 599,
-            "p75": 754,
+            "median": 690,
+            "p25": 585,
+            "p75": 780,
             "firms": 4,
             "tentative": true
           },
           "12|2000": {
-            "median": 715,
-            "low": 697,
-            "high": 718,
+            "median": 724,
+            "low": 706,
+            "high": 727,
             "firms": 3,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "12|2500": {
-            "median": 755,
-            "low": 723,
-            "high": 781,
+            "median": 764,
+            "low": 732,
+            "high": 789,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "12|3000": {
-            "median": 807,
-            "low": 748,
-            "high": 844,
+            "median": 817,
+            "low": 757,
+            "high": 854,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "12|3500": {
-            "median": 855,
-            "low": 772,
-            "high": 907,
+            "median": 866,
+            "low": 782,
+            "high": 918,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "24|1000": {
-            "median": 661,
-            "low": 522,
-            "high": 665,
+            "median": 669,
+            "low": 529,
+            "high": 673,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "24|1500": {
-            "median": 649,
-            "p25": 590,
-            "p75": 706,
+            "median": 645,
+            "p25": 576,
+            "p75": 713,
             "firms": 4,
             "tentative": true
           },
           "24|2000": {
-            "median": 715,
-            "low": 565,
-            "high": 718,
+            "median": 724,
+            "low": 572,
+            "high": 727,
             "firms": 3,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "24|2500": {
-            "median": 755,
-            "low": 585,
-            "high": 781,
+            "median": 764,
+            "low": 593,
+            "high": 789,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "24|3000": {
-            "median": 807,
-            "low": 606,
-            "high": 844,
+            "median": 817,
+            "low": 613,
+            "high": 854,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
           },
           "24|3500": {
-            "median": 855,
-            "low": 626,
-            "high": 907,
+            "median": 866,
+            "low": 633,
+            "high": 918,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -6034,7 +6103,7 @@
         },
         "segments": {
           "oricare|noua": {
-            "firms": 3,
+            "firms": 2,
             "cells": {
               "1|1000": {
                 "median": null,
@@ -6296,263 +6365,263 @@
             "cells": {}
           },
           "automata|oricare": {
-            "firms": 6,
+            "firms": 5,
             "cells": {
               "1|1000": {
-                "median": 688,
-                "low": 591,
-                "high": 893,
+                "median": 668,
+                "low": 574,
+                "high": 843,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "1|1500": {
-                "median": 709,
-                "low": 624,
-                "high": 915,
+                "median": 689,
+                "low": 606,
+                "high": 864,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "1|2000": {
-                "median": 745,
-                "low": 639,
-                "high": 964,
+                "median": 723,
+                "low": 621,
+                "high": 910,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "1|2500": {
-                "median": 786,
-                "low": 662,
-                "high": 1049,
+                "median": 763,
+                "low": 643,
+                "high": 989,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "1|3000": {
-                "median": 841,
-                "low": 685,
-                "high": 1133,
+                "median": 816,
+                "low": 665,
+                "high": 1070,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "1|3500": {
-                "median": 891,
-                "low": 708,
-                "high": 1218,
+                "median": 865,
+                "low": 687,
+                "high": 1150,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "3|1000": {
-                "median": 688,
-                "low": 591,
-                "high": 803,
+                "median": 668,
+                "low": 574,
+                "high": 767,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "3|1500": {
-                "median": 709,
-                "low": 624,
-                "high": 823,
+                "median": 689,
+                "low": 606,
+                "high": 785,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "3|2000": {
-                "median": 745,
-                "low": 639,
-                "high": 868,
+                "median": 723,
+                "low": 621,
+                "high": 828,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "3|2500": {
-                "median": 786,
-                "low": 662,
-                "high": 944,
+                "median": 763,
+                "low": 643,
+                "high": 899,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "3|3000": {
-                "median": 841,
-                "low": 685,
-                "high": 1020,
+                "median": 816,
+                "low": 665,
+                "high": 973,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "3|3500": {
-                "median": 891,
-                "low": 708,
-                "high": 1096,
+                "median": 865,
+                "low": 687,
+                "high": 1046,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "6|1000": {
-                "median": 646,
-                "low": 591,
-                "high": 694,
+                "median": 628,
+                "low": 574,
+                "high": 657,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "6|1500": {
-                "median": 666,
-                "p25": 615,
-                "p75": 760,
+                "median": 647,
+                "p25": 606,
+                "p75": 751,
                 "firms": 3,
                 "tentative": true
               },
               "6|2000": {
-                "median": 700,
-                "low": 639,
-                "high": 750,
+                "median": 680,
+                "low": 621,
+                "high": 710,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "6|2500": {
-                "median": 738,
-                "low": 662,
-                "high": 816,
+                "median": 717,
+                "low": 643,
+                "high": 771,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "6|3000": {
-                "median": 790,
-                "low": 685,
-                "high": 881,
+                "median": 767,
+                "low": 665,
+                "high": 834,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "6|3500": {
-                "median": 837,
-                "low": 708,
-                "high": 948,
+                "median": 813,
+                "low": 687,
+                "high": 897,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "12|1000": {
-                "median": 605,
-                "low": 591,
-                "high": 609,
+                "median": 588,
+                "low": 574,
+                "high": 591,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "12|1500": {
-                "median": 624,
-                "p25": 573,
-                "p75": 681,
+                "median": 606,
+                "p25": 564,
+                "p75": 672,
                 "firms": 3,
                 "tentative": true
               },
               "12|2000": {
-                "median": 658,
-                "p25": 604,
-                "p75": 719,
+                "median": 639,
+                "p25": 595,
+                "p75": 710,
                 "firms": 3,
                 "tentative": true
               },
               "12|2500": {
-                "median": 691,
-                "low": 662,
-                "high": 716,
+                "median": 671,
+                "low": 643,
+                "high": 694,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "12|3000": {
-                "median": 739,
-                "low": 685,
-                "high": 773,
+                "median": 718,
+                "low": 665,
+                "high": 751,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "12|3500": {
-                "median": 784,
-                "low": 708,
-                "high": 831,
+                "median": 761,
+                "low": 687,
+                "high": 807,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "24|1000": {
-                "median": 605,
-                "low": 479,
-                "high": 609,
+                "median": 588,
+                "low": 465,
+                "high": 591,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "24|1500": {
-                "median": 624,
-                "p25": 556,
-                "p75": 649,
+                "median": 606,
+                "p25": 547,
+                "p75": 640,
                 "firms": 3,
                 "tentative": true
               },
               "24|2000": {
-                "median": 658,
-                "p25": 586,
-                "p75": 719,
+                "median": 639,
+                "p25": 577,
+                "p75": 710,
                 "firms": 3,
                 "tentative": true
               },
               "24|2500": {
-                "median": 691,
-                "low": 536,
-                "high": 716,
+                "median": 671,
+                "low": 521,
+                "high": 694,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "24|3000": {
-                "median": 739,
-                "low": 555,
-                "high": 773,
+                "median": 718,
+                "low": 539,
+                "high": 751,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
                 "basis": "12|1500"
               },
               "24|3500": {
-                "median": 784,
-                "low": 573,
-                "high": 831,
+                "median": 761,
+                "low": 557,
+                "high": 807,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -6561,7 +6630,7 @@
             }
           },
           "automata|noua": {
-            "firms": 3,
+            "firms": 2,
             "cells": {
               "1|1000": {
                 "median": null,
@@ -6815,8 +6884,8 @@
       {
         "id": "standard-suv",
         "label": "Standard SUV",
-        "firms": 8,
-        "from": 775,
+        "firms": 9,
+        "from": 749,
         "examples": [
           "Ford Kuga",
           "ŠKODA Kodiaq",
@@ -6824,274 +6893,272 @@
         ],
         "cells": {
           "1|1000": {
-            "median": 870,
-            "low": 734,
-            "high": 1155,
+            "median": 850,
+            "low": 727,
+            "high": 1099,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "1|1500": {
-            "median": 897,
-            "low": 775,
-            "high": 1183,
+            "median": 876,
+            "low": 768,
+            "high": 1126,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "1|2000": {
-            "median": 942,
-            "low": 794,
-            "high": 1247,
+            "median": 920,
+            "low": 809,
+            "high": 1153,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "1|2500": {
-            "median": 994,
-            "low": 823,
-            "high": 1357,
+            "median": 971,
+            "low": 814,
+            "high": 1289,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "1|3000": {
-            "median": 1063,
-            "low": 851,
-            "high": 1466,
+            "median": 1038,
+            "low": 843,
+            "high": 1395,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "1|3500": {
-            "median": 1127,
-            "low": 879,
-            "high": 1576,
+            "median": 1100,
+            "low": 870,
+            "high": 1500,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "3|1000": {
-            "median": 870,
-            "low": 734,
-            "high": 1039,
+            "median": 850,
+            "low": 727,
+            "high": 999,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "3|1500": {
-            "median": 897,
-            "low": 775,
-            "high": 1065,
+            "median": 876,
+            "low": 768,
+            "high": 1024,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "3|2000": {
-            "median": 942,
-            "low": 794,
-            "high": 1122,
+            "median": 920,
+            "low": 809,
+            "high": 1048,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "3|2500": {
-            "median": 994,
-            "low": 823,
-            "high": 1221,
+            "median": 971,
+            "low": 814,
+            "high": 1172,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "3|3000": {
-            "median": 1063,
-            "low": 851,
-            "high": 1319,
+            "median": 1038,
+            "low": 843,
+            "high": 1269,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "3|3500": {
-            "median": 1127,
-            "low": 879,
-            "high": 1418,
+            "median": 1100,
+            "low": 870,
+            "high": 1364,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "6|1000": {
-            "median": 818,
-            "low": 734,
-            "high": 898,
+            "median": 798,
+            "low": 727,
+            "high": 857,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "6|1500": {
-            "median": 843,
-            "low": 775,
-            "high": 920,
+            "median": 823,
+            "low": 768,
+            "high": 878,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "6|2000": {
-            "median": 885,
-            "low": 794,
-            "high": 970,
+            "median": 864,
+            "low": 809,
+            "high": 899,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "6|2500": {
-            "median": 934,
-            "low": 823,
-            "high": 1055,
+            "median": 912,
+            "low": 814,
+            "high": 1005,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "6|3000": {
-            "median": 999,
-            "low": 851,
-            "high": 1140,
+            "median": 975,
+            "low": 843,
+            "high": 1088,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "6|3500": {
-            "median": 1059,
-            "low": 879,
-            "high": 1226,
+            "median": 1034,
+            "low": 870,
+            "high": 1169,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "12|1000": {
-            "median": 765,
-            "low": 734,
-            "high": 788,
+            "median": 747,
+            "low": 727,
+            "high": 771,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "12|1500": {
-            "median": 789,
-            "low": 775,
-            "high": 807,
+            "median": 770,
+            "low": 768,
+            "high": 790,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "12|2000": {
-            "median": 829,
-            "low": 794,
-            "high": 851,
-            "firms": 2,
-            "tentative": true,
-            "estimated": true,
-            "pooled": 4
+            "median": 809,
+            "p25": 774,
+            "p75": 1130,
+            "firms": 3,
+            "tentative": true
           },
           "12|2500": {
-            "median": 874,
-            "low": 823,
-            "high": 926,
+            "median": 854,
+            "low": 814,
+            "high": 905,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "12|3000": {
-            "median": 935,
-            "low": 851,
-            "high": 1000,
+            "median": 913,
+            "low": 843,
+            "high": 979,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "12|3500": {
-            "median": 991,
-            "low": 879,
-            "high": 1075,
+            "median": 968,
+            "low": 870,
+            "high": 1052,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "24|1000": {
-            "median": 765,
-            "low": 595,
-            "high": 788,
+            "median": 747,
+            "low": 589,
+            "high": 771,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "24|1500": {
-            "median": 789,
-            "low": 628,
-            "high": 807,
+            "median": 770,
+            "low": 622,
+            "high": 790,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "24|2000": {
-            "median": 829,
-            "low": 643,
-            "high": 851,
+            "median": 809,
+            "low": 655,
+            "high": 809,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "24|2500": {
-            "median": 874,
-            "low": 666,
-            "high": 926,
+            "median": 854,
+            "low": 660,
+            "high": 905,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "24|3000": {
-            "median": 935,
-            "low": 690,
-            "high": 1000,
+            "median": 913,
+            "low": 683,
+            "high": 979,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           },
           "24|3500": {
-            "median": 991,
-            "low": 712,
-            "high": 1075,
+            "median": 968,
+            "low": 705,
+            "high": 1052,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 4
+            "basis": "12|2000"
           }
         },
         "segments": {
@@ -7484,17 +7551,17 @@
         "id": "intermediate",
         "label": "Intermediate",
         "firms": 6,
-        "from": 606,
+        "from": 605,
         "examples": [
-          "Renault Mégane Sedan",
           "ŠKODA Octavia",
+          "Renault Mégane Sedan",
           "TOYOTA Corolla Sedan"
         ],
         "cells": {
           "1|1000": {
             "median": 696,
             "low": 598,
-            "high": 903,
+            "high": 878,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -7503,7 +7570,7 @@
           "1|1500": {
             "median": 717,
             "low": 631,
-            "high": 925,
+            "high": 899,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -7512,8 +7579,8 @@
           "1|2000": {
             "median": 753,
             "low": 646,
-            "high": 975,
-            "firms": 1,
+            "high": 948,
+            "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
@@ -7521,7 +7588,7 @@
           "1|2500": {
             "median": 795,
             "low": 669,
-            "high": 1061,
+            "high": 1030,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -7530,7 +7597,7 @@
           "1|3000": {
             "median": 850,
             "low": 693,
-            "high": 1146,
+            "high": 1114,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -7539,7 +7606,7 @@
           "1|3500": {
             "median": 901,
             "low": 716,
-            "high": 1232,
+            "high": 1198,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -7548,7 +7615,7 @@
           "3|1000": {
             "median": 696,
             "low": 598,
-            "high": 812,
+            "high": 798,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -7557,7 +7624,7 @@
           "3|1500": {
             "median": 717,
             "low": 631,
-            "high": 832,
+            "high": 818,
             "firms": 2,
             "tentative": true,
             "estimated": true,
@@ -7566,8 +7633,8 @@
           "3|2000": {
             "median": 753,
             "low": 646,
-            "high": 877,
-            "firms": 2,
+            "high": 862,
+            "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
@@ -7575,7 +7642,7 @@
           "3|2500": {
             "median": 795,
             "low": 669,
-            "high": 955,
+            "high": 936,
             "firms": 2,
             "tentative": true,
             "estimated": true,
@@ -7584,7 +7651,7 @@
           "3|3000": {
             "median": 850,
             "low": 693,
-            "high": 1031,
+            "high": 1013,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -7593,7 +7660,7 @@
           "3|3500": {
             "median": 901,
             "low": 716,
-            "high": 1109,
+            "high": 1089,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -7602,7 +7669,7 @@
           "6|1000": {
             "median": 654,
             "low": 598,
-            "high": 702,
+            "high": 684,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -7618,8 +7685,8 @@
           "6|2000": {
             "median": 708,
             "low": 646,
-            "high": 758,
-            "firms": 2,
+            "high": 739,
+            "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
@@ -7627,7 +7694,7 @@
           "6|2500": {
             "median": 747,
             "low": 669,
-            "high": 825,
+            "high": 803,
             "firms": 2,
             "tentative": true,
             "estimated": true,
@@ -7636,7 +7703,7 @@
           "6|3000": {
             "median": 799,
             "low": 693,
-            "high": 891,
+            "high": 869,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -7645,7 +7712,7 @@
           "6|3500": {
             "median": 846,
             "low": 716,
-            "high": 958,
+            "high": 934,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -7679,7 +7746,7 @@
           "12|2500": {
             "median": 699,
             "low": 669,
-            "high": 724,
+            "high": 722,
             "firms": 2,
             "tentative": true,
             "estimated": true,
@@ -7723,7 +7790,7 @@
             "median": 663,
             "low": 523,
             "high": 665,
-            "firms": 2,
+            "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|1500"
@@ -7731,7 +7798,7 @@
           "24|2500": {
             "median": 699,
             "low": 542,
-            "high": 724,
+            "high": 722,
             "firms": 2,
             "tentative": true,
             "estimated": true,
@@ -8156,7 +8223,7 @@
           "1|1000": {
             "median": 801,
             "low": 688,
-            "high": 1039,
+            "high": 1010,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -8165,7 +8232,7 @@
           "1|1500": {
             "median": 825,
             "low": 726,
-            "high": 1064,
+            "high": 1035,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8174,7 +8241,7 @@
           "1|2000": {
             "median": 867,
             "low": 743,
-            "high": 1122,
+            "high": 1090,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -8183,7 +8250,7 @@
           "1|2500": {
             "median": 915,
             "low": 770,
-            "high": 1221,
+            "high": 1185,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -8192,7 +8259,7 @@
           "1|3000": {
             "median": 978,
             "low": 797,
-            "high": 1319,
+            "high": 1282,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -8201,7 +8268,7 @@
           "1|3500": {
             "median": 1037,
             "low": 823,
-            "high": 1418,
+            "high": 1378,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -8210,7 +8277,7 @@
           "3|1000": {
             "median": 801,
             "low": 688,
-            "high": 935,
+            "high": 918,
             "firms": 2,
             "tentative": true,
             "estimated": true,
@@ -8219,7 +8286,7 @@
           "3|1500": {
             "median": 825,
             "low": 726,
-            "high": 958,
+            "high": 941,
             "firms": 2,
             "tentative": true,
             "estimated": true,
@@ -8228,7 +8295,7 @@
           "3|2000": {
             "median": 867,
             "low": 743,
-            "high": 1009,
+            "high": 992,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8237,7 +8304,7 @@
           "3|2500": {
             "median": 915,
             "low": 770,
-            "high": 1098,
+            "high": 1077,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8246,7 +8313,7 @@
           "3|3000": {
             "median": 978,
             "low": 797,
-            "high": 1186,
+            "high": 1166,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8255,7 +8322,7 @@
           "3|3500": {
             "median": 1037,
             "low": 823,
-            "high": 1276,
+            "high": 1253,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -8264,7 +8331,7 @@
           "6|1000": {
             "median": 752,
             "low": 688,
-            "high": 808,
+            "high": 787,
             "firms": 2,
             "tentative": true,
             "estimated": true,
@@ -8272,7 +8339,7 @@
           },
           "6|1500": {
             "median": 768,
-            "p25": 722,
+            "p25": 733,
             "p75": 777,
             "firms": 3,
             "tentative": true
@@ -8280,7 +8347,7 @@
           "6|2000": {
             "median": 814,
             "low": 743,
-            "high": 872,
+            "high": 850,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8289,7 +8356,7 @@
           "6|2500": {
             "median": 859,
             "low": 770,
-            "high": 949,
+            "high": 924,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8298,7 +8365,7 @@
           "6|3000": {
             "median": 919,
             "low": 797,
-            "high": 1025,
+            "high": 999,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8307,7 +8374,7 @@
           "6|3500": {
             "median": 974,
             "low": 823,
-            "high": 1102,
+            "high": 1074,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -8324,7 +8391,7 @@
           },
           "12|1500": {
             "median": 726,
-            "p25": 680,
+            "p25": 690,
             "p75": 736,
             "firms": 3,
             "tentative": true
@@ -8341,7 +8408,7 @@
           "12|2500": {
             "median": 804,
             "low": 770,
-            "high": 833,
+            "high": 831,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8376,7 +8443,7 @@
           },
           "24|1500": {
             "median": 708,
-            "p25": 671,
+            "p25": 681,
             "p75": 717,
             "firms": 3,
             "tentative": true
@@ -8393,7 +8460,7 @@
           "24|2500": {
             "median": 804,
             "low": 624,
-            "high": 833,
+            "high": 831,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8558,7 +8625,7 @@
               "1|1000": {
                 "median": 823,
                 "low": 706,
-                "high": 1067,
+                "high": 1038,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -8567,7 +8634,7 @@
               "1|1500": {
                 "median": 848,
                 "low": 746,
-                "high": 1094,
+                "high": 1063,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -8576,7 +8643,7 @@
               "1|2000": {
                 "median": 891,
                 "low": 764,
-                "high": 1153,
+                "high": 1120,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -8585,7 +8652,7 @@
               "1|2500": {
                 "median": 940,
                 "low": 792,
-                "high": 1254,
+                "high": 1217,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -8594,7 +8661,7 @@
               "1|3000": {
                 "median": 1005,
                 "low": 819,
-                "high": 1355,
+                "high": 1317,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -8603,7 +8670,7 @@
               "1|3500": {
                 "median": 1065,
                 "low": 846,
-                "high": 1457,
+                "high": 1416,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -8612,7 +8679,7 @@
               "3|1000": {
                 "median": 823,
                 "low": 706,
-                "high": 960,
+                "high": 944,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -8621,7 +8688,7 @@
               "3|1500": {
                 "median": 848,
                 "low": 746,
-                "high": 984,
+                "high": 967,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8630,7 +8697,7 @@
               "3|2000": {
                 "median": 891,
                 "low": 764,
-                "high": 1037,
+                "high": 1019,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8639,7 +8706,7 @@
               "3|2500": {
                 "median": 940,
                 "low": 792,
-                "high": 1129,
+                "high": 1107,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8648,7 +8715,7 @@
               "3|3000": {
                 "median": 1005,
                 "low": 819,
-                "high": 1219,
+                "high": 1198,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8657,7 +8724,7 @@
               "3|3500": {
                 "median": 1065,
                 "low": 846,
-                "high": 1311,
+                "high": 1288,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -8666,7 +8733,7 @@
               "6|1000": {
                 "median": 773,
                 "low": 706,
-                "high": 830,
+                "high": 809,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -8675,7 +8742,7 @@
               "6|1500": {
                 "median": 797,
                 "low": 746,
-                "high": 850,
+                "high": 829,
                 "firms": 2,
                 "tentative": true,
                 "estimated": true,
@@ -8684,7 +8751,7 @@
               "6|2000": {
                 "median": 837,
                 "low": 764,
-                "high": 896,
+                "high": 874,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8693,7 +8760,7 @@
               "6|2500": {
                 "median": 883,
                 "low": 792,
-                "high": 975,
+                "high": 949,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8702,7 +8769,7 @@
               "6|3000": {
                 "median": 944,
                 "low": 819,
-                "high": 1054,
+                "high": 1027,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8711,7 +8778,7 @@
               "6|3500": {
                 "median": 1001,
                 "low": 846,
-                "high": 1133,
+                "high": 1104,
                 "firms": 0,
                 "tentative": true,
                 "estimated": true,
@@ -8747,7 +8814,7 @@
               "12|2500": {
                 "median": 827,
                 "low": 792,
-                "high": 856,
+                "high": 854,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8801,7 +8868,7 @@
               "24|2500": {
                 "median": 827,
                 "low": 641,
-                "high": 856,
+                "high": 854,
                 "firms": 1,
                 "tentative": true,
                 "estimated": true,
@@ -8967,8 +9034,8 @@
         "cells": {
           "1|1000": {
             "median": 1580,
-            "low": 1332,
-            "high": 2098,
+            "low": 1333,
+            "high": 2040,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8976,8 +9043,8 @@
           },
           "1|1500": {
             "median": 1629,
-            "low": 1407,
-            "high": 2150,
+            "low": 1408,
+            "high": 2090,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8985,8 +9052,8 @@
           },
           "1|2000": {
             "median": 1710,
-            "low": 1440,
-            "high": 2266,
+            "low": 1442,
+            "high": 2203,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -8994,8 +9061,8 @@
           },
           "1|2500": {
             "median": 1805,
-            "low": 1492,
-            "high": 2466,
+            "low": 1494,
+            "high": 2393,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -9003,8 +9070,8 @@
           },
           "1|3000": {
             "median": 1930,
-            "low": 1544,
-            "high": 2664,
+            "low": 1546,
+            "high": 2589,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -9012,8 +9079,8 @@
           },
           "1|3500": {
             "median": 2046,
-            "low": 1595,
-            "high": 2864,
+            "low": 1597,
+            "high": 2784,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -9021,8 +9088,8 @@
           },
           "3|1000": {
             "median": 1580,
-            "low": 1332,
-            "high": 1888,
+            "low": 1333,
+            "high": 1855,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9030,8 +9097,8 @@
           },
           "3|1500": {
             "median": 1629,
-            "low": 1407,
-            "high": 1934,
+            "low": 1408,
+            "high": 1901,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9039,8 +9106,8 @@
           },
           "3|2000": {
             "median": 1710,
-            "low": 1440,
-            "high": 2039,
+            "low": 1442,
+            "high": 2003,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9048,8 +9115,8 @@
           },
           "3|2500": {
             "median": 1805,
-            "low": 1492,
-            "high": 2219,
+            "low": 1494,
+            "high": 2176,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9057,8 +9124,8 @@
           },
           "3|3000": {
             "median": 1930,
-            "low": 1544,
-            "high": 2397,
+            "low": 1546,
+            "high": 2355,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -9066,8 +9133,8 @@
           },
           "3|3500": {
             "median": 2046,
-            "low": 1595,
-            "high": 2577,
+            "low": 1597,
+            "high": 2532,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -9075,8 +9142,8 @@
           },
           "6|1000": {
             "median": 1484,
-            "low": 1332,
-            "high": 1632,
+            "low": 1333,
+            "high": 1590,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9084,8 +9151,8 @@
           },
           "6|1500": {
             "median": 1530,
-            "low": 1407,
-            "high": 1672,
+            "low": 1408,
+            "high": 1629,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9093,8 +9160,8 @@
           },
           "6|2000": {
             "median": 1607,
-            "low": 1440,
-            "high": 1762,
+            "low": 1442,
+            "high": 1717,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9102,8 +9169,8 @@
           },
           "6|2500": {
             "median": 1695,
-            "low": 1492,
-            "high": 1918,
+            "low": 1494,
+            "high": 1866,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9111,8 +9178,8 @@
           },
           "6|3000": {
             "median": 1813,
-            "low": 1544,
-            "high": 2072,
+            "low": 1546,
+            "high": 2019,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -9120,8 +9187,8 @@
           },
           "6|3500": {
             "median": 1922,
-            "low": 1595,
-            "high": 2227,
+            "low": 1597,
+            "high": 2170,
             "firms": 0,
             "tentative": true,
             "estimated": true,
@@ -9129,7 +9196,7 @@
           },
           "12|1000": {
             "median": 1390,
-            "low": 1332,
+            "low": 1333,
             "high": 1431,
             "firms": 1,
             "tentative": true,
@@ -9138,7 +9205,7 @@
           },
           "12|1500": {
             "median": 1433,
-            "low": 1407,
+            "low": 1408,
             "high": 1467,
             "firms": 1,
             "tentative": true,
@@ -9147,7 +9214,7 @@
           },
           "12|2000": {
             "median": 1504,
-            "low": 1440,
+            "low": 1442,
             "high": 1546,
             "firms": 1,
             "tentative": true,
@@ -9156,8 +9223,8 @@
           },
           "12|2500": {
             "median": 1587,
-            "low": 1492,
-            "high": 1682,
+            "low": 1494,
+            "high": 1679,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9165,7 +9232,7 @@
           },
           "12|3000": {
             "median": 1698,
-            "low": 1544,
+            "low": 1546,
             "high": 1817,
             "firms": 0,
             "tentative": true,
@@ -9174,7 +9241,7 @@
           },
           "12|3500": {
             "median": 1799,
-            "low": 1595,
+            "low": 1597,
             "high": 1954,
             "firms": 0,
             "tentative": true,
@@ -9183,7 +9250,7 @@
           },
           "24|1000": {
             "median": 1390,
-            "low": 1079,
+            "low": 1080,
             "high": 1431,
             "firms": 1,
             "tentative": true,
@@ -9192,7 +9259,7 @@
           },
           "24|1500": {
             "median": 1433,
-            "low": 1139,
+            "low": 1140,
             "high": 1467,
             "firms": 1,
             "tentative": true,
@@ -9201,7 +9268,7 @@
           },
           "24|2000": {
             "median": 1504,
-            "low": 1167,
+            "low": 1168,
             "high": 1546,
             "firms": 1,
             "tentative": true,
@@ -9210,8 +9277,8 @@
           },
           "24|2500": {
             "median": 1587,
-            "low": 1209,
-            "high": 1682,
+            "low": 1210,
+            "high": 1679,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9219,7 +9286,7 @@
           },
           "24|3000": {
             "median": 1698,
-            "low": 1251,
+            "low": 1252,
             "high": 1817,
             "firms": 0,
             "tentative": true,
@@ -9228,7 +9295,7 @@
           },
           "24|3500": {
             "median": 1799,
-            "low": 1292,
+            "low": 1293,
             "high": 1954,
             "firms": 0,
             "tentative": true,
@@ -9241,263 +9308,277 @@
       {
         "id": "luxury-suv",
         "label": "Luxury SUV",
-        "firms": 4,
-        "from": 1885,
+        "firms": 5,
+        "from": 1739,
         "examples": [
           "Volkswagen Touareg",
-          "BMW X5",
+          "Mercedes-Benz GLE",
           "BMW X6"
         ],
         "cells": {
           "1|1000": {
-            "median": 1729,
-            "low": 1479,
-            "high": 2300,
+            "median": 1778,
+            "low": 1521,
+            "high": 2299,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "1|1500": {
-            "median": 1782,
-            "low": 1562,
-            "high": 2356,
+            "median": 1833,
+            "low": 1606,
+            "high": 2355,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "1|2000": {
-            "median": 1872,
-            "low": 1646,
-            "high": 2413,
+            "median": 1924,
+            "low": 1693,
+            "high": 2412,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "1|2500": {
-            "median": 1975,
-            "low": 1657,
-            "high": 2703,
+            "median": 2031,
+            "low": 1704,
+            "high": 2697,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "1|3000": {
-            "median": 2112,
-            "low": 1715,
-            "high": 2920,
+            "median": 2172,
+            "low": 1763,
+            "high": 2918,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "1|3500": {
-            "median": 2239,
-            "low": 1771,
-            "high": 3139,
+            "median": 2302,
+            "low": 1821,
+            "high": 3137,
             "firms": 0,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "3|1000": {
-            "median": 1729,
-            "low": 1479,
-            "high": 2069,
+            "median": 1778,
+            "low": 1521,
+            "high": 2091,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "3|1500": {
-            "median": 1782,
-            "low": 1562,
-            "high": 2120,
+            "median": 1833,
+            "low": 1606,
+            "high": 2142,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "3|2000": {
-            "median": 1884,
-            "p25": 1772,
-            "p75": 2142,
+            "median": 1924,
+            "low": 1693,
+            "high": 2193,
             "firms": 3,
-            "tentative": true
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|2000"
           },
           "3|2500": {
-            "median": 2053,
-            "p25": 1891,
-            "p75": 2302,
+            "median": 2031,
+            "low": 1704,
+            "high": 2453,
             "firms": 3,
-            "tentative": true
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|2000"
           },
           "3|3000": {
-            "median": 2112,
-            "low": 1715,
-            "high": 2627,
+            "median": 2172,
+            "low": 1763,
+            "high": 2654,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "3|3500": {
-            "median": 2239,
-            "low": 1771,
-            "high": 2824,
+            "median": 2302,
+            "low": 1821,
+            "high": 2853,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "6|1000": {
-            "median": 1624,
-            "low": 1479,
-            "high": 1788,
+            "median": 1670,
+            "low": 1521,
+            "high": 1792,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "6|1500": {
-            "median": 1674,
-            "low": 1562,
-            "high": 1832,
+            "median": 1722,
+            "low": 1606,
+            "high": 1836,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "6|2000": {
-            "median": 1757,
-            "p25": 1679,
-            "p75": 2079,
+            "median": 1808,
+            "low": 1693,
+            "high": 1880,
             "firms": 3,
-            "tentative": true
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|2000"
           },
           "6|2500": {
-            "median": 1914,
-            "p25": 1792,
-            "p75": 2232,
+            "median": 1907,
+            "low": 1704,
+            "high": 2103,
             "firms": 3,
-            "tentative": true
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|2000"
           },
           "6|3000": {
-            "median": 1984,
-            "low": 1715,
-            "high": 2270,
+            "median": 2040,
+            "low": 1763,
+            "high": 2275,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "6|3500": {
-            "median": 2103,
-            "low": 1771,
-            "high": 2441,
+            "median": 2162,
+            "low": 1821,
+            "high": 2446,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "12|1000": {
-            "median": 1521,
-            "low": 1479,
-            "high": 1569,
+            "median": 1564,
+            "low": 1521,
+            "high": 1613,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "12|1500": {
-            "median": 1568,
-            "low": 1562,
-            "high": 1607,
+            "median": 1612,
+            "low": 1606,
+            "high": 1653,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "12|2000": {
-            "median": 1646,
-            "p25": 1577,
-            "p75": 2048,
-            "firms": 3,
+            "median": 1693,
+            "p25": 1611,
+            "p75": 1917,
+            "firms": 4,
             "tentative": true
           },
           "12|2500": {
-            "median": 1794,
-            "p25": 1685,
-            "p75": 2072,
+            "median": 1786,
+            "low": 1704,
+            "high": 1892,
             "firms": 3,
-            "tentative": true
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|2000"
           },
           "12|3000": {
-            "median": 1858,
-            "low": 1715,
-            "high": 1992,
+            "median": 1910,
+            "low": 1763,
+            "high": 2048,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "12|3500": {
-            "median": 1969,
-            "low": 1771,
-            "high": 2141,
+            "median": 2025,
+            "low": 1821,
+            "high": 2202,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "24|1000": {
-            "median": 1521,
-            "low": 1198,
-            "high": 1569,
+            "median": 1564,
+            "low": 1232,
+            "high": 1613,
             "firms": 1,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "24|1500": {
-            "median": 1568,
-            "low": 1265,
-            "high": 1607,
+            "median": 1612,
+            "low": 1301,
+            "high": 1653,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "24|2000": {
-            "median": 1646,
-            "p25": 1543,
-            "p75": 1998,
+            "median": 1693,
+            "low": 1371,
+            "high": 1693,
             "firms": 3,
-            "tentative": true
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|2000"
           },
           "24|2500": {
-            "median": 1794,
-            "p25": 1651,
-            "p75": 2022,
+            "median": 1786,
+            "low": 1380,
+            "high": 1892,
             "firms": 3,
-            "tentative": true
+            "tentative": true,
+            "estimated": true,
+            "basis": "12|2000"
           },
           "24|3000": {
-            "median": 1858,
-            "low": 1389,
-            "high": 1992,
+            "median": 1910,
+            "low": 1428,
+            "high": 2048,
             "firms": 2,
             "tentative": true,
             "estimated": true,
             "basis": "12|2000"
           },
           "24|3500": {
-            "median": 1969,
-            "low": 1434,
-            "high": 2141,
+            "median": 2025,
+            "low": 1475,
+            "high": 2202,
             "firms": 1,
             "tentative": true,
             "estimated": true,
@@ -9893,283 +9974,281 @@
       {
         "id": "premium",
         "label": "Premium",
-        "firms": 3,
-        "from": 1200,
+        "firms": 4,
+        "from": 1140,
         "examples": [
           "BMW Seria 3",
-          "AUDI A5",
-          "Mercedes-Benz C-Class"
+          "Mercedes-Benz C Class",
+          "AUDI A5"
         ],
         "cells": {
           "1|1000": {
-            "median": 1294,
-            "low": 1073,
-            "high": 1753,
+            "median": 1133,
+            "low": 969,
+            "high": 1466,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "1|1500": {
-            "median": 1334,
-            "low": 1133,
-            "high": 1796,
+            "median": 1168,
+            "low": 1024,
+            "high": 1502,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "1|2000": {
-            "median": 1401,
-            "low": 1161,
-            "high": 1893,
+            "median": 1227,
+            "low": 1079,
+            "high": 1538,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "1|2500": {
-            "median": 1478,
-            "low": 1203,
-            "high": 2060,
+            "median": 1295,
+            "low": 1086,
+            "high": 1719,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "1|3000": {
-            "median": 1581,
-            "low": 1244,
-            "high": 2226,
+            "median": 1385,
+            "low": 1124,
+            "high": 1860,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "1|3500": {
-            "median": 1676,
-            "low": 1285,
-            "high": 2393,
+            "median": 1468,
+            "low": 1161,
+            "high": 2000,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "3|1000": {
-            "median": 1294,
-            "low": 1073,
-            "high": 1577,
+            "median": 1133,
+            "low": 969,
+            "high": 1333,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "3|1500": {
-            "median": 1334,
-            "low": 1133,
-            "high": 1616,
+            "median": 1168,
+            "low": 1024,
+            "high": 1366,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "3|2000": {
-            "median": 1401,
-            "low": 1161,
-            "high": 1703,
+            "median": 1227,
+            "low": 1079,
+            "high": 1398,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "3|2500": {
-            "median": 1478,
-            "low": 1203,
-            "high": 1854,
+            "median": 1295,
+            "low": 1086,
+            "high": 1564,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "3|3000": {
-            "median": 1581,
-            "low": 1244,
-            "high": 2002,
+            "median": 1385,
+            "low": 1124,
+            "high": 1692,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "3|3500": {
-            "median": 1676,
-            "low": 1285,
-            "high": 2153,
+            "median": 1468,
+            "low": 1161,
+            "high": 1819,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "6|1000": {
-            "median": 1215,
-            "low": 1073,
-            "high": 1363,
+            "median": 1065,
+            "low": 969,
+            "high": 1143,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "6|1500": {
-            "median": 1253,
-            "low": 1133,
-            "high": 1397,
+            "median": 1097,
+            "low": 1024,
+            "high": 1171,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "6|2000": {
-            "median": 1316,
-            "low": 1161,
-            "high": 1472,
+            "median": 1152,
+            "low": 1079,
+            "high": 1199,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "6|2500": {
-            "median": 1388,
-            "low": 1203,
-            "high": 1602,
+            "median": 1216,
+            "low": 1086,
+            "high": 1340,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "6|3000": {
-            "median": 1485,
-            "low": 1244,
-            "high": 1731,
+            "median": 1301,
+            "low": 1124,
+            "high": 1450,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "6|3500": {
-            "median": 1574,
-            "low": 1285,
-            "high": 1861,
+            "median": 1378,
+            "low": 1161,
+            "high": 1559,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "12|1000": {
-            "median": 1138,
-            "low": 1073,
-            "high": 1196,
+            "median": 997,
+            "low": 969,
+            "high": 1028,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "12|1500": {
-            "median": 1173,
-            "low": 1133,
-            "high": 1225,
+            "median": 1028,
+            "low": 1024,
+            "high": 1054,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "12|2000": {
-            "median": 1232,
-            "low": 1161,
-            "high": 1291,
-            "firms": 2,
-            "tentative": true,
-            "estimated": true,
-            "pooled": 3
+            "median": 1079,
+            "p25": 998,
+            "p75": 1215,
+            "firms": 3,
+            "tentative": true
           },
           "12|2500": {
-            "median": 1300,
-            "low": 1203,
-            "high": 1405,
+            "median": 1139,
+            "low": 1086,
+            "high": 1206,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "12|3000": {
-            "median": 1390,
-            "low": 1244,
-            "high": 1518,
+            "median": 1218,
+            "low": 1124,
+            "high": 1306,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "12|3500": {
-            "median": 1474,
-            "low": 1285,
-            "high": 1632,
+            "median": 1291,
+            "low": 1161,
+            "high": 1404,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "24|1000": {
-            "median": 1138,
-            "low": 869,
-            "high": 1196,
+            "median": 997,
+            "low": 785,
+            "high": 1028,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "24|1500": {
-            "median": 1173,
-            "low": 918,
-            "high": 1225,
+            "median": 1028,
+            "low": 829,
+            "high": 1054,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "24|2000": {
-            "median": 1232,
-            "low": 940,
-            "high": 1291,
+            "median": 1079,
+            "low": 874,
+            "high": 1079,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "24|2500": {
-            "median": 1300,
-            "low": 974,
-            "high": 1405,
+            "median": 1139,
+            "low": 880,
+            "high": 1206,
             "firms": 2,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "24|3000": {
-            "median": 1390,
-            "low": 1008,
-            "high": 1518,
+            "median": 1218,
+            "low": 910,
+            "high": 1306,
             "firms": 1,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           },
           "24|3500": {
-            "median": 1474,
-            "low": 1041,
-            "high": 1632,
+            "median": 1291,
+            "low": 940,
+            "high": 1404,
             "firms": 0,
             "tentative": true,
             "estimated": true,
-            "pooled": 3
+            "basis": "12|2000"
           }
         },
         "segments": {
@@ -12618,6 +12697,269 @@
         "segments": {}
       },
       {
+        "id": "passenger-van-9",
+        "label": "Passenger Van, 9 seats",
+        "firms": 2,
+        "from": null,
+        "examples": [
+          "Mercedes Vito 9 locuri automat",
+          "Ford Tourneo Custom 8+1"
+        ],
+        "cells": {
+          "1|1000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "1|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "3|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "3|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "6|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "6|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|2000": {
+            "median": null,
+            "firms": 1
+          },
+          "12|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "12|3500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|1000": {
+            "median": null,
+            "firms": 1
+          },
+          "24|1500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|2500": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3000": {
+            "median": null,
+            "firms": 0
+          },
+          "24|3500": {
+            "median": null,
+            "firms": 0
+          }
+        },
+        "segments": {
+          "manuala|oricare": {
+            "firms": 0,
+            "cells": {}
+          },
+          "automata|oricare": {
+            "firms": 1,
+            "cells": {
+              "1|1000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|1500": {
+                "median": null,
+                "firms": 0
+              },
+              "1|2000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|2500": {
+                "median": null,
+                "firms": 0
+              },
+              "1|3000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|3500": {
+                "median": null,
+                "firms": 0
+              },
+              "3|1000": {
+                "median": null,
+                "firms": 1
+              },
+              "3|1500": {
+                "median": null,
+                "firms": 0
+              },
+              "3|2000": {
+                "median": null,
+                "firms": 0
+              },
+              "3|2500": {
+                "median": null,
+                "firms": 0
+              },
+              "3|3000": {
+                "median": null,
+                "firms": 0
+              },
+              "3|3500": {
+                "median": null,
+                "firms": 0
+              },
+              "6|1000": {
+                "median": null,
+                "firms": 1
+              },
+              "6|1500": {
+                "median": null,
+                "firms": 0
+              },
+              "6|2000": {
+                "median": null,
+                "firms": 0
+              },
+              "6|2500": {
+                "median": null,
+                "firms": 0
+              },
+              "6|3000": {
+                "median": null,
+                "firms": 0
+              },
+              "6|3500": {
+                "median": null,
+                "firms": 0
+              },
+              "12|1000": {
+                "median": null,
+                "firms": 1
+              },
+              "12|1500": {
+                "median": null,
+                "firms": 0
+              },
+              "12|2000": {
+                "median": null,
+                "firms": 0
+              },
+              "12|2500": {
+                "median": null,
+                "firms": 0
+              },
+              "12|3000": {
+                "median": null,
+                "firms": 0
+              },
+              "12|3500": {
+                "median": null,
+                "firms": 0
+              },
+              "24|1000": {
+                "median": null,
+                "firms": 1
+              },
+              "24|1500": {
+                "median": null,
+                "firms": 0
+              },
+              "24|2000": {
+                "median": null,
+                "firms": 0
+              },
+              "24|2500": {
+                "median": null,
+                "firms": 0
+              },
+              "24|3000": {
+                "median": null,
+                "firms": 0
+              },
+              "24|3500": {
+                "median": null,
+                "firms": 0
+              }
+            }
+          }
+        }
+      },
+      {
         "id": "premium-suv",
         "label": "Premium SUV",
         "firms": 2,
@@ -12657,23 +12999,23 @@
           },
           "3|1500": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "3|2000": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "3|2500": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "3|3000": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "3|3500": {
             "median": null,
-            "firms": 0
+            "firms": 1
           },
           "6|1000": {
             "median": null,
@@ -12681,23 +13023,23 @@
           },
           "6|1500": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "6|2000": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "6|2500": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "6|3000": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "6|3500": {
             "median": null,
-            "firms": 0
+            "firms": 1
           },
           "12|1000": {
             "median": null,
@@ -12705,23 +13047,23 @@
           },
           "12|1500": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "12|2000": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "12|2500": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "12|3000": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "12|3500": {
             "median": null,
-            "firms": 0
+            "firms": 1
           },
           "24|1000": {
             "median": null,
@@ -12729,26 +13071,151 @@
           },
           "24|1500": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "24|2000": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "24|2500": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "24|3000": {
             "median": null,
-            "firms": 1
+            "firms": 2
           },
           "24|3500": {
             "median": null,
-            "firms": 0
+            "firms": 1
           }
         },
         "segments": {
+          "oricare|noua": {
+            "firms": 1,
+            "cells": {
+              "1|1000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|1500": {
+                "median": null,
+                "firms": 0
+              },
+              "1|2000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|2500": {
+                "median": null,
+                "firms": 0
+              },
+              "1|3000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|3500": {
+                "median": null,
+                "firms": 0
+              },
+              "3|1000": {
+                "median": null,
+                "firms": 0
+              },
+              "3|1500": {
+                "median": null,
+                "firms": 1
+              },
+              "3|2000": {
+                "median": null,
+                "firms": 1
+              },
+              "3|2500": {
+                "median": null,
+                "firms": 1
+              },
+              "3|3000": {
+                "median": null,
+                "firms": 1
+              },
+              "3|3500": {
+                "median": null,
+                "firms": 1
+              },
+              "6|1000": {
+                "median": null,
+                "firms": 0
+              },
+              "6|1500": {
+                "median": null,
+                "firms": 1
+              },
+              "6|2000": {
+                "median": null,
+                "firms": 1
+              },
+              "6|2500": {
+                "median": null,
+                "firms": 1
+              },
+              "6|3000": {
+                "median": null,
+                "firms": 1
+              },
+              "6|3500": {
+                "median": null,
+                "firms": 1
+              },
+              "12|1000": {
+                "median": null,
+                "firms": 0
+              },
+              "12|1500": {
+                "median": null,
+                "firms": 1
+              },
+              "12|2000": {
+                "median": null,
+                "firms": 1
+              },
+              "12|2500": {
+                "median": null,
+                "firms": 1
+              },
+              "12|3000": {
+                "median": null,
+                "firms": 1
+              },
+              "12|3500": {
+                "median": null,
+                "firms": 1
+              },
+              "24|1000": {
+                "median": null,
+                "firms": 0
+              },
+              "24|1500": {
+                "median": null,
+                "firms": 1
+              },
+              "24|2000": {
+                "median": null,
+                "firms": 1
+              },
+              "24|2500": {
+                "median": null,
+                "firms": 1
+              },
+              "24|3000": {
+                "median": null,
+                "firms": 1
+              },
+              "24|3500": {
+                "median": null,
+                "firms": 1
+              }
+            }
+          },
           "oricare|veche": {
             "firms": 1,
             "cells": {
@@ -12878,12 +13345,16 @@
             "firms": 0,
             "cells": {}
           },
+          "manuala|noua": {
+            "firms": 0,
+            "cells": {}
+          },
           "manuala|veche": {
             "firms": 0,
             "cells": {}
           },
           "automata|oricare": {
-            "firms": 1,
+            "firms": 2,
             "cells": {
               "1|1000": {
                 "median": null,
@@ -12915,6 +13386,131 @@
               },
               "3|1500": {
                 "median": null,
+                "firms": 2
+              },
+              "3|2000": {
+                "median": null,
+                "firms": 2
+              },
+              "3|2500": {
+                "median": null,
+                "firms": 2
+              },
+              "3|3000": {
+                "median": null,
+                "firms": 2
+              },
+              "3|3500": {
+                "median": null,
+                "firms": 1
+              },
+              "6|1000": {
+                "median": null,
+                "firms": 1
+              },
+              "6|1500": {
+                "median": null,
+                "firms": 2
+              },
+              "6|2000": {
+                "median": null,
+                "firms": 2
+              },
+              "6|2500": {
+                "median": null,
+                "firms": 2
+              },
+              "6|3000": {
+                "median": null,
+                "firms": 2
+              },
+              "6|3500": {
+                "median": null,
+                "firms": 1
+              },
+              "12|1000": {
+                "median": null,
+                "firms": 1
+              },
+              "12|1500": {
+                "median": null,
+                "firms": 2
+              },
+              "12|2000": {
+                "median": null,
+                "firms": 2
+              },
+              "12|2500": {
+                "median": null,
+                "firms": 2
+              },
+              "12|3000": {
+                "median": null,
+                "firms": 2
+              },
+              "12|3500": {
+                "median": null,
+                "firms": 1
+              },
+              "24|1000": {
+                "median": null,
+                "firms": 1
+              },
+              "24|1500": {
+                "median": null,
+                "firms": 2
+              },
+              "24|2000": {
+                "median": null,
+                "firms": 2
+              },
+              "24|2500": {
+                "median": null,
+                "firms": 2
+              },
+              "24|3000": {
+                "median": null,
+                "firms": 2
+              },
+              "24|3500": {
+                "median": null,
+                "firms": 1
+              }
+            }
+          },
+          "automata|noua": {
+            "firms": 1,
+            "cells": {
+              "1|1000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|1500": {
+                "median": null,
+                "firms": 0
+              },
+              "1|2000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|2500": {
+                "median": null,
+                "firms": 0
+              },
+              "1|3000": {
+                "median": null,
+                "firms": 0
+              },
+              "1|3500": {
+                "median": null,
+                "firms": 0
+              },
+              "3|1000": {
+                "median": null,
+                "firms": 0
+              },
+              "3|1500": {
+                "median": null,
                 "firms": 1
               },
               "3|2000": {
@@ -12931,11 +13527,11 @@
               },
               "3|3500": {
                 "median": null,
-                "firms": 0
+                "firms": 1
               },
               "6|1000": {
                 "median": null,
-                "firms": 1
+                "firms": 0
               },
               "6|1500": {
                 "median": null,
@@ -12955,11 +13551,11 @@
               },
               "6|3500": {
                 "median": null,
-                "firms": 0
+                "firms": 1
               },
               "12|1000": {
                 "median": null,
-                "firms": 1
+                "firms": 0
               },
               "12|1500": {
                 "median": null,
@@ -12979,11 +13575,11 @@
               },
               "12|3500": {
                 "median": null,
-                "firms": 0
+                "firms": 1
               },
               "24|1000": {
                 "median": null,
-                "firms": 1
+                "firms": 0
               },
               "24|1500": {
                 "median": null,
@@ -13003,7 +13599,7 @@
               },
               "24|3500": {
                 "median": null,
-                "firms": 0
+                "firms": 1
               }
             }
           },
@@ -13397,268 +13993,6 @@
           }
         },
         "segments": {}
-      },
-      {
-        "id": "passenger-van-9",
-        "label": "Passenger Van, 9 seats",
-        "firms": 1,
-        "from": null,
-        "examples": [
-          "Mercedes Vito 9 locuri automat"
-        ],
-        "cells": {
-          "1|1000": {
-            "median": null,
-            "firms": 0
-          },
-          "1|1500": {
-            "median": null,
-            "firms": 0
-          },
-          "1|2000": {
-            "median": null,
-            "firms": 0
-          },
-          "1|2500": {
-            "median": null,
-            "firms": 0
-          },
-          "1|3000": {
-            "median": null,
-            "firms": 0
-          },
-          "1|3500": {
-            "median": null,
-            "firms": 0
-          },
-          "3|1000": {
-            "median": null,
-            "firms": 1
-          },
-          "3|1500": {
-            "median": null,
-            "firms": 0
-          },
-          "3|2000": {
-            "median": null,
-            "firms": 0
-          },
-          "3|2500": {
-            "median": null,
-            "firms": 0
-          },
-          "3|3000": {
-            "median": null,
-            "firms": 0
-          },
-          "3|3500": {
-            "median": null,
-            "firms": 0
-          },
-          "6|1000": {
-            "median": null,
-            "firms": 1
-          },
-          "6|1500": {
-            "median": null,
-            "firms": 0
-          },
-          "6|2000": {
-            "median": null,
-            "firms": 0
-          },
-          "6|2500": {
-            "median": null,
-            "firms": 0
-          },
-          "6|3000": {
-            "median": null,
-            "firms": 0
-          },
-          "6|3500": {
-            "median": null,
-            "firms": 0
-          },
-          "12|1000": {
-            "median": null,
-            "firms": 1
-          },
-          "12|1500": {
-            "median": null,
-            "firms": 0
-          },
-          "12|2000": {
-            "median": null,
-            "firms": 0
-          },
-          "12|2500": {
-            "median": null,
-            "firms": 0
-          },
-          "12|3000": {
-            "median": null,
-            "firms": 0
-          },
-          "12|3500": {
-            "median": null,
-            "firms": 0
-          },
-          "24|1000": {
-            "median": null,
-            "firms": 1
-          },
-          "24|1500": {
-            "median": null,
-            "firms": 0
-          },
-          "24|2000": {
-            "median": null,
-            "firms": 0
-          },
-          "24|2500": {
-            "median": null,
-            "firms": 0
-          },
-          "24|3000": {
-            "median": null,
-            "firms": 0
-          },
-          "24|3500": {
-            "median": null,
-            "firms": 0
-          }
-        },
-        "segments": {
-          "manuala|oricare": {
-            "firms": 0,
-            "cells": {}
-          },
-          "automata|oricare": {
-            "firms": 1,
-            "cells": {
-              "1|1000": {
-                "median": null,
-                "firms": 0
-              },
-              "1|1500": {
-                "median": null,
-                "firms": 0
-              },
-              "1|2000": {
-                "median": null,
-                "firms": 0
-              },
-              "1|2500": {
-                "median": null,
-                "firms": 0
-              },
-              "1|3000": {
-                "median": null,
-                "firms": 0
-              },
-              "1|3500": {
-                "median": null,
-                "firms": 0
-              },
-              "3|1000": {
-                "median": null,
-                "firms": 1
-              },
-              "3|1500": {
-                "median": null,
-                "firms": 0
-              },
-              "3|2000": {
-                "median": null,
-                "firms": 0
-              },
-              "3|2500": {
-                "median": null,
-                "firms": 0
-              },
-              "3|3000": {
-                "median": null,
-                "firms": 0
-              },
-              "3|3500": {
-                "median": null,
-                "firms": 0
-              },
-              "6|1000": {
-                "median": null,
-                "firms": 1
-              },
-              "6|1500": {
-                "median": null,
-                "firms": 0
-              },
-              "6|2000": {
-                "median": null,
-                "firms": 0
-              },
-              "6|2500": {
-                "median": null,
-                "firms": 0
-              },
-              "6|3000": {
-                "median": null,
-                "firms": 0
-              },
-              "6|3500": {
-                "median": null,
-                "firms": 0
-              },
-              "12|1000": {
-                "median": null,
-                "firms": 1
-              },
-              "12|1500": {
-                "median": null,
-                "firms": 0
-              },
-              "12|2000": {
-                "median": null,
-                "firms": 0
-              },
-              "12|2500": {
-                "median": null,
-                "firms": 0
-              },
-              "12|3000": {
-                "median": null,
-                "firms": 0
-              },
-              "12|3500": {
-                "median": null,
-                "firms": 0
-              },
-              "24|1000": {
-                "median": null,
-                "firms": 1
-              },
-              "24|1500": {
-                "median": null,
-                "firms": 0
-              },
-              "24|2000": {
-                "median": null,
-                "firms": 0
-              },
-              "24|2500": {
-                "median": null,
-                "firms": 0
-              },
-              "24|3000": {
-                "median": null,
-                "firms": 0
-              },
-              "24|3500": {
-                "median": null,
-                "firms": 0
-              }
-            }
-          }
-        }
       }
     ]
   },
@@ -14968,6 +15302,386 @@
         "compact-monospace": {},
         "fullsize": {},
         "passenger-van-9": {}
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "firms": 26,
+      "declared": {
+        "rca": 92.3,
+        "casco": 100,
+        "rovinieta": 88.5,
+        "itp": 50,
+        "impozit_auto": 30.8,
+        "revizii": 96.2,
+        "reparatii_uzura": 57.7,
+        "anvelope_sezon": 80.8,
+        "depozitare_anvelope": 11.5,
+        "asistenta_rutiera": 92.3,
+        "masina_schimb_defect": 73.1,
+        "masina_schimb_dauna": 57.7,
+        "livrare": 88.5,
+        "ridicare_returnare": 50,
+        "schimb_model": 46.2,
+        "sofer_aditional": 61.5,
+        "iesire_tara": 73.1,
+        "km_nelimitati": 26.9,
+        "scaun_copil": 50,
+        "lanturi_echipament_iarna": 30.8,
+        "card_incarcare_ev": 7.7,
+        "spalare_curatenie_periodica": 3.8,
+        "platforma_client": 19.2,
+        "factura_lunara": 30.8,
+        "administrare_amenzi": 53.8,
+        "carte_verde": 15.4,
+        "parbriz_geamuri": 15.4,
+        "anvelope_jante_acoperite_casco": 11.5
+      },
+      "medians": {
+        "durata_minima_luni": 1,
+        "durata_maxima_luni": 24,
+        "preaviz_zile": 14,
+        "km_inclusi_luna": 1500,
+        "cost_km_extra": 0.12,
+        "avans": 0,
+        "garantie": 150,
+        "franciza_casco": 175,
+        "taxa_administrare_amenzi": 50,
+        "taxa_fumat": 75,
+        "taxa_curatenie": 40,
+        "varsta_minima_sofer": 21,
+        "vechime_minima_permis_ani": 1,
+        "livrare_termen_zile": 1
+      },
+      "basket": {
+        "economy": {
+          "1|1000": 428,
+          "1|1500": 441,
+          "1|2000": 463,
+          "1|2500": 489,
+          "1|3000": 523,
+          "1|3500": 554,
+          "3|1000": 428,
+          "3|1500": 441,
+          "3|2000": 463,
+          "3|2500": 489,
+          "3|3000": 523,
+          "3|3500": 554,
+          "6|1000": 402,
+          "6|1500": 414,
+          "6|2000": 435,
+          "6|2500": 459,
+          "6|3000": 491,
+          "6|3500": 520,
+          "12|1000": 376,
+          "12|1500": 388,
+          "12|2000": 416,
+          "12|2500": 430,
+          "12|3000": 460,
+          "12|3500": 487,
+          "24|1000": 376,
+          "24|1500": 385,
+          "24|2000": 407,
+          "24|2500": 430,
+          "24|3000": 460,
+          "24|3500": 487
+        },
+        "compact": {
+          "1|1000": 527,
+          "1|1500": 543,
+          "1|2000": 571,
+          "1|2500": 602,
+          "1|3000": 644,
+          "1|3500": 683,
+          "3|1000": 527,
+          "3|1500": 543,
+          "3|2000": 571,
+          "3|2500": 602,
+          "3|3000": 644,
+          "3|3500": 683,
+          "6|1000": 495,
+          "6|1500": 511,
+          "6|2000": 536,
+          "6|2500": 566,
+          "6|3000": 605,
+          "6|3500": 641,
+          "12|1000": 464,
+          "12|1500": 478,
+          "12|2000": 502,
+          "12|2500": 530,
+          "12|3000": 566,
+          "12|3500": 600,
+          "24|1000": 464,
+          "24|1500": 478,
+          "24|2000": 502,
+          "24|2500": 530,
+          "24|3000": 566,
+          "24|3500": 600
+        },
+        "compact-suv": {
+          "1|1000": 515,
+          "1|1500": 531,
+          "1|2000": 558,
+          "1|2500": 588,
+          "1|3000": 629,
+          "1|3500": 667,
+          "3|1000": 515,
+          "3|1500": 531,
+          "3|2000": 558,
+          "3|2500": 588,
+          "3|3000": 629,
+          "3|3500": 667,
+          "6|1000": 484,
+          "6|1500": 499,
+          "6|2000": 524,
+          "6|2500": 553,
+          "6|3000": 591,
+          "6|3500": 626,
+          "12|1000": 453,
+          "12|1500": 467,
+          "12|2000": 490,
+          "12|2500": 517,
+          "12|3000": 553,
+          "12|3500": 587,
+          "24|1000": 453,
+          "24|1500": 467,
+          "24|2000": 490,
+          "24|2500": 517,
+          "24|3000": 553,
+          "24|3500": 587
+        },
+        "intermediate-suv": {
+          "1|1000": 760,
+          "1|1500": 784,
+          "1|2000": 823,
+          "1|2500": 869,
+          "1|3000": 929,
+          "1|3500": 985,
+          "3|1000": 760,
+          "3|1500": 784,
+          "3|2000": 823,
+          "3|2500": 869,
+          "3|3000": 929,
+          "3|3500": 985,
+          "6|1000": 714,
+          "6|1500": 747,
+          "6|2000": 773,
+          "6|2500": 816,
+          "6|3000": 873,
+          "6|3500": 925,
+          "12|1000": 669,
+          "12|1500": 690,
+          "12|2000": 724,
+          "12|2500": 764,
+          "12|3000": 817,
+          "12|3500": 866,
+          "24|1000": 669,
+          "24|1500": 645,
+          "24|2000": 724,
+          "24|2500": 764,
+          "24|3000": 817,
+          "24|3500": 866
+        },
+        "standard-suv": {
+          "1|1000": 850,
+          "1|1500": 876,
+          "1|2000": 920,
+          "1|2500": 971,
+          "1|3000": 1038,
+          "1|3500": 1100,
+          "3|1000": 850,
+          "3|1500": 876,
+          "3|2000": 920,
+          "3|2500": 971,
+          "3|3000": 1038,
+          "3|3500": 1100,
+          "6|1000": 798,
+          "6|1500": 823,
+          "6|2000": 864,
+          "6|2500": 912,
+          "6|3000": 975,
+          "6|3500": 1034,
+          "12|1000": 747,
+          "12|1500": 770,
+          "12|2000": 809,
+          "12|2500": 854,
+          "12|3000": 913,
+          "12|3500": 968,
+          "24|1000": 747,
+          "24|1500": 770,
+          "24|2000": 809,
+          "24|2500": 854,
+          "24|3000": 913,
+          "24|3500": 968
+        },
+        "intermediate": {
+          "1|1000": 696,
+          "1|1500": 717,
+          "1|2000": 753,
+          "1|2500": 795,
+          "1|3000": 850,
+          "1|3500": 901,
+          "3|1000": 696,
+          "3|1500": 717,
+          "3|2000": 753,
+          "3|2500": 795,
+          "3|3000": 850,
+          "3|3500": 901,
+          "6|1000": 654,
+          "6|1500": 670,
+          "6|2000": 708,
+          "6|2500": 747,
+          "6|3000": 799,
+          "6|3500": 846,
+          "12|1000": 612,
+          "12|1500": 631,
+          "12|2000": 663,
+          "12|2500": 699,
+          "12|3000": 748,
+          "12|3500": 793,
+          "24|1000": 612,
+          "24|1500": 590,
+          "24|2000": 663,
+          "24|2500": 699,
+          "24|3000": 748,
+          "24|3500": 793
+        },
+        "standard": {
+          "1|1000": 801,
+          "1|1500": 825,
+          "1|2000": 867,
+          "1|2500": 915,
+          "1|3000": 978,
+          "1|3500": 1037,
+          "3|1000": 801,
+          "3|1500": 825,
+          "3|2000": 867,
+          "3|2500": 915,
+          "3|3000": 978,
+          "3|3500": 1037,
+          "6|1000": 752,
+          "6|1500": 768,
+          "6|2000": 814,
+          "6|2500": 859,
+          "6|3000": 919,
+          "6|3500": 974,
+          "12|1000": 704,
+          "12|1500": 726,
+          "12|2000": 762,
+          "12|2500": 804,
+          "12|3000": 860,
+          "12|3500": 912,
+          "24|1000": 704,
+          "24|1500": 708,
+          "24|2000": 762,
+          "24|2500": 804,
+          "24|3000": 860,
+          "24|3500": 912
+        },
+        "luxury": {
+          "1|1000": 1580,
+          "1|1500": 1629,
+          "1|2000": 1710,
+          "1|2500": 1805,
+          "1|3000": 1930,
+          "1|3500": 2046,
+          "3|1000": 1580,
+          "3|1500": 1629,
+          "3|2000": 1710,
+          "3|2500": 1805,
+          "3|3000": 1930,
+          "3|3500": 2046,
+          "6|1000": 1484,
+          "6|1500": 1530,
+          "6|2000": 1607,
+          "6|2500": 1695,
+          "6|3000": 1813,
+          "6|3500": 1922,
+          "12|1000": 1390,
+          "12|1500": 1433,
+          "12|2000": 1504,
+          "12|2500": 1587,
+          "12|3000": 1698,
+          "12|3500": 1799,
+          "24|1000": 1390,
+          "24|1500": 1433,
+          "24|2000": 1504,
+          "24|2500": 1587,
+          "24|3000": 1698,
+          "24|3500": 1799
+        },
+        "luxury-suv": {
+          "1|1000": 1778,
+          "1|1500": 1833,
+          "1|2000": 1924,
+          "1|2500": 2031,
+          "1|3000": 2172,
+          "1|3500": 2302,
+          "3|1000": 1778,
+          "3|1500": 1833,
+          "3|2000": 1924,
+          "3|2500": 2031,
+          "3|3000": 2172,
+          "3|3500": 2302,
+          "6|1000": 1670,
+          "6|1500": 1722,
+          "6|2000": 1808,
+          "6|2500": 1907,
+          "6|3000": 2040,
+          "6|3500": 2162,
+          "12|1000": 1564,
+          "12|1500": 1612,
+          "12|2000": 1693,
+          "12|2500": 1786,
+          "12|3000": 1910,
+          "12|3500": 2025,
+          "24|1000": 1564,
+          "24|1500": 1612,
+          "24|2000": 1693,
+          "24|2500": 1786,
+          "24|3000": 1910,
+          "24|3500": 2025
+        },
+        "premium": {
+          "1|1000": 1133,
+          "1|1500": 1168,
+          "1|2000": 1227,
+          "1|2500": 1295,
+          "1|3000": 1385,
+          "1|3500": 1468,
+          "3|1000": 1133,
+          "3|1500": 1168,
+          "3|2000": 1227,
+          "3|2500": 1295,
+          "3|3000": 1385,
+          "3|3500": 1468,
+          "6|1000": 1065,
+          "6|1500": 1097,
+          "6|2000": 1152,
+          "6|2500": 1216,
+          "6|3000": 1301,
+          "6|3500": 1378,
+          "12|1000": 997,
+          "12|1500": 1028,
+          "12|2000": 1079,
+          "12|2500": 1139,
+          "12|3000": 1218,
+          "12|3500": 1291,
+          "24|1000": 997,
+          "24|1500": 1028,
+          "24|2000": 1079,
+          "24|2500": 1139,
+          "24|3000": 1218,
+          "24|3500": 1291
+        },
+        "cargo-van-medium": {},
+        "economy-suv": {},
+        "fullsize-suv": {},
+        "mini": {},
+        "passenger-van-9": {},
+        "premium-suv": {},
+        "compact-monospace": {},
+        "fullsize": {}
       }
     }
   ]
