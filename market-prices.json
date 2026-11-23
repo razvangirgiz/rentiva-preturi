@@ -4,7 +4,7 @@
   "format": 2,
   "classificationVersion": "rentiva-2026-10-v3-b8d7302b:d59d7161f6e3:44136fa355b3:caroserie-baza-1:generatie-recenta-1:full-casco-5",
   "updatedAt": "2026-11-23",
-  "eurRon": 5.3482,
+  "eurRon": 5.3485,
   "firmsChecked": 149,
   "firmsUsed": 101,
   "firmsQuoted": 90,
@@ -77,20 +77,44 @@
       "reference": null,
       "durations": {
         "short": {
-          "models": 0,
-          "stats": null
+          "models": 207,
+          "stats": {
+            "firms": 80,
+            "median": 40,
+            "p25": 35,
+            "p75": 50,
+            "tentative": false
+          }
         },
         "week": {
-          "models": 0,
-          "stats": null
+          "models": 207,
+          "stats": {
+            "firms": 81,
+            "median": 35,
+            "p25": 25,
+            "p75": 45,
+            "tentative": false
+          }
         },
         "twoWeeks": {
-          "models": 0,
-          "stats": null
+          "models": 207,
+          "stats": {
+            "firms": 81,
+            "median": 30,
+            "p25": 25,
+            "p75": 40,
+            "tentative": false
+          }
         },
         "long": {
-          "models": 0,
-          "stats": null
+          "models": 199,
+          "stats": {
+            "firms": 78,
+            "median": 30,
+            "p25": 25,
+            "p75": 35,
+            "tentative": false
+          }
         }
       }
     },
@@ -107,20 +131,44 @@
       "reference": null,
       "durations": {
         "short": {
-          "models": 0,
-          "stats": null
+          "models": 229,
+          "stats": {
+            "firms": 78,
+            "median": 50,
+            "p25": 40,
+            "p75": 70,
+            "tentative": false
+          }
         },
         "week": {
-          "models": 0,
-          "stats": null
+          "models": 225,
+          "stats": {
+            "firms": 79,
+            "median": 40,
+            "p25": 30,
+            "p75": 55,
+            "tentative": false
+          }
         },
         "twoWeeks": {
-          "models": 0,
-          "stats": null
+          "models": 225,
+          "stats": {
+            "firms": 79,
+            "median": 40,
+            "p25": 30,
+            "p75": 50,
+            "tentative": false
+          }
         },
         "long": {
-          "models": 0,
-          "stats": null
+          "models": 218,
+          "stats": {
+            "firms": 78,
+            "median": 35,
+            "p25": 25,
+            "p75": 45,
+            "tentative": false
+          }
         }
       }
     },
@@ -460,20 +508,44 @@
       "reference": null,
       "durations": {
         "short": {
-          "models": 0,
-          "stats": null
+          "models": 176,
+          "stats": {
+            "firms": 63,
+            "median": 60,
+            "p25": 45,
+            "p75": 80,
+            "tentative": false
+          }
         },
         "week": {
-          "models": 0,
-          "stats": null
+          "models": 174,
+          "stats": {
+            "firms": 62,
+            "median": 50,
+            "p25": 35,
+            "p75": 60,
+            "tentative": false
+          }
         },
         "twoWeeks": {
-          "models": 0,
-          "stats": null
+          "models": 173,
+          "stats": {
+            "firms": 61,
+            "median": 45,
+            "p25": 30,
+            "p75": 50,
+            "tentative": false
+          }
         },
         "long": {
-          "models": 0,
-          "stats": null
+          "models": 171,
+          "stats": {
+            "firms": 61,
+            "median": 40,
+            "p25": 30,
+            "p75": 45,
+            "tentative": false
+          }
         }
       }
     },
@@ -544,8 +616,14 @@
       "reference": null,
       "durations": {
         "short": {
-          "models": 0,
-          "stats": null
+          "models": 80,
+          "stats": {
+            "firms": 38,
+            "median": 80,
+            "p25": 70,
+            "p75": 135,
+            "tentative": false
+          }
         },
         "week": {
           "models": 75,
@@ -811,20 +889,44 @@
       "reference": null,
       "durations": {
         "short": {
-          "models": 0,
-          "stats": null
+          "models": 23,
+          "stats": {
+            "firms": 18,
+            "median": 75,
+            "p25": 70,
+            "p75": 95,
+            "tentative": false
+          }
         },
         "week": {
-          "models": 0,
-          "stats": null
+          "models": 23,
+          "stats": {
+            "firms": 18,
+            "median": 65,
+            "p25": 55,
+            "p75": 70,
+            "tentative": false
+          }
         },
         "twoWeeks": {
-          "models": 0,
-          "stats": null
+          "models": 23,
+          "stats": {
+            "firms": 18,
+            "median": 55,
+            "p25": 45,
+            "p75": 65,
+            "tentative": false
+          }
         },
         "long": {
-          "models": 0,
-          "stats": null
+          "models": 23,
+          "stats": {
+            "firms": 18,
+            "median": 50,
+            "p25": 45,
+            "p75": 65,
+            "tentative": false
+          }
         }
       }
     },
@@ -895,20 +997,44 @@
       "reference": null,
       "durations": {
         "short": {
-          "models": 0,
-          "stats": null
+          "models": 43,
+          "stats": {
+            "firms": 33,
+            "median": 110,
+            "p25": 95,
+            "p75": 150,
+            "tentative": false
+          }
         },
         "week": {
-          "models": 0,
-          "stats": null
+          "models": 42,
+          "stats": {
+            "firms": 32,
+            "median": 100,
+            "p25": 85,
+            "p75": 125,
+            "tentative": false
+          }
         },
         "twoWeeks": {
-          "models": 0,
-          "stats": null
+          "models": 42,
+          "stats": {
+            "firms": 32,
+            "median": 90,
+            "p25": 70,
+            "p75": 115,
+            "tentative": false
+          }
         },
         "long": {
-          "models": 0,
-          "stats": null
+          "models": 41,
+          "stats": {
+            "firms": 31,
+            "median": 80,
+            "p25": 65,
+            "p75": 110,
+            "tentative": false
+          }
         }
       }
     },
@@ -1684,13 +1810,13 @@
     {
       "date": "2026-11-23",
       "classificationVersion": "rentiva-2026-10-v3-b8d7302b:d59d7161f6e3:44136fa355b3:caroserie-baza-1:generatie-recenta-1:full-casco-5",
-      "index": null
+      "index": 40
     }
   ],
   "index": {
-    "short": null,
-    "week": null,
-    "twoWeeks": null,
-    "long": null
+    "short": 48,
+    "week": 40,
+    "twoWeeks": 36,
+    "long": 33
   }
 }
