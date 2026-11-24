@@ -1342,12 +1342,12 @@
       "month": "2026-12",
       "tag": "craciun",
       "measuredAt": "2026-11-16",
-      "firms": 69,
+      "firms": 68,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 67,
@@ -1356,16 +1356,28 @@
         "long": 66
       },
       "indexMeasured": {
-        "short": 68,
-        "week": 69,
-        "twoWeeks": 69,
-        "long": 67
+        "short": 67,
+        "week": 68,
+        "twoWeeks": 68,
+        "long": 66
       },
       "moving": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": {
+          "firms": 31,
+          "index": 1.03
+        },
+        "week": {
+          "firms": 32,
+          "index": 1.03
+        },
+        "twoWeeks": {
+          "firms": 34,
+          "index": 1.09
+        },
+        "long": {
+          "firms": 31,
+          "index": 1.18
+        }
       },
       "movingCompanies": {
         "short": 31,
@@ -1378,12 +1390,12 @@
       "month": "2027-01",
       "tag": null,
       "measuredAt": "2026-11-23",
-      "firms": 68,
+      "firms": 67,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 66,
@@ -1392,16 +1404,28 @@
         "long": 64
       },
       "indexMeasured": {
-        "short": 67,
-        "week": 67,
-        "twoWeeks": 68,
-        "long": 65
+        "short": 66,
+        "week": 66,
+        "twoWeeks": 67,
+        "long": 64
       },
       "moving": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": {
+          "firms": 23,
+          "index": 0.93
+        },
+        "week": {
+          "firms": 23,
+          "index": 0.91
+        },
+        "twoWeeks": {
+          "firms": 23,
+          "index": 0.91
+        },
+        "long": {
+          "firms": 26,
+          "index": 0.91
+        }
       },
       "movingCompanies": {
         "short": 23,
@@ -1414,12 +1438,12 @@
       "month": "2027-02",
       "tag": null,
       "measuredAt": "2026-11-02",
-      "firms": 64,
+      "firms": 63,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 62,
@@ -1428,10 +1452,10 @@
         "long": 59
       },
       "indexMeasured": {
-        "short": 63,
-        "week": 63,
-        "twoWeeks": 64,
-        "long": 60
+        "short": 62,
+        "week": 62,
+        "twoWeeks": 63,
+        "long": 59
       },
       "moving": {
         "short": {
@@ -1462,12 +1486,12 @@
       "month": "2027-03",
       "tag": null,
       "measuredAt": "2026-11-09",
-      "firms": 67,
+      "firms": 66,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 65,
@@ -1476,10 +1500,10 @@
         "long": 62
       },
       "indexMeasured": {
-        "short": 66,
-        "week": 66,
-        "twoWeeks": 67,
-        "long": 63
+        "short": 65,
+        "week": 65,
+        "twoWeeks": 66,
+        "long": 62
       },
       "moving": {
         "short": {
@@ -1510,12 +1534,12 @@
       "month": "2027-04",
       "tag": null,
       "measuredAt": "2026-11-16",
-      "firms": 71,
+      "firms": 70,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 69,
@@ -1524,10 +1548,10 @@
         "long": 67
       },
       "indexMeasured": {
-        "short": 70,
-        "week": 70,
-        "twoWeeks": 71,
-        "long": 68
+        "short": 69,
+        "week": 69,
+        "twoWeeks": 70,
+        "long": 67
       },
       "moving": {
         "short": {
@@ -1558,12 +1582,12 @@
       "month": "2027-05",
       "tag": "paste",
       "measuredAt": "2026-11-23",
-      "firms": 68,
+      "firms": 67,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 66,
@@ -1572,16 +1596,28 @@
         "long": 64
       },
       "indexMeasured": {
-        "short": 67,
-        "week": 67,
-        "twoWeeks": 68,
-        "long": 65
+        "short": 66,
+        "week": 66,
+        "twoWeeks": 67,
+        "long": 64
       },
       "moving": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": {
+          "firms": 21,
+          "index": 1.01
+        },
+        "week": {
+          "firms": 19,
+          "index": 1.01
+        },
+        "twoWeeks": {
+          "firms": 17,
+          "index": 0.98
+        },
+        "long": {
+          "firms": 21,
+          "index": 0.94
+        }
       },
       "movingCompanies": {
         "short": 21,
@@ -1594,12 +1630,12 @@
       "month": "2027-06",
       "tag": null,
       "measuredAt": "2026-11-02",
-      "firms": 64,
+      "firms": 63,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 62,
@@ -1608,10 +1644,10 @@
         "long": 60
       },
       "indexMeasured": {
-        "short": 63,
-        "week": 63,
-        "twoWeeks": 64,
-        "long": 61
+        "short": 62,
+        "week": 62,
+        "twoWeeks": 63,
+        "long": 60
       },
       "moving": {
         "short": {
@@ -1642,12 +1678,12 @@
       "month": "2027-07",
       "tag": "vara",
       "measuredAt": "2026-11-09",
-      "firms": 67,
+      "firms": 66,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 64,
@@ -1656,10 +1692,10 @@
         "long": 62
       },
       "indexMeasured": {
-        "short": 65,
-        "week": 66,
-        "twoWeeks": 67,
-        "long": 63
+        "short": 64,
+        "week": 65,
+        "twoWeeks": 66,
+        "long": 62
       },
       "moving": {
         "short": {
@@ -1690,12 +1726,12 @@
       "month": "2027-08",
       "tag": "vara",
       "measuredAt": "2026-11-16",
-      "firms": 70,
+      "firms": 69,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 68,
@@ -1704,10 +1740,10 @@
         "long": 66
       },
       "indexMeasured": {
-        "short": 69,
-        "week": 68,
-        "twoWeeks": 70,
-        "long": 67
+        "short": 68,
+        "week": 67,
+        "twoWeeks": 69,
+        "long": 66
       },
       "moving": {
         "short": {
@@ -1738,12 +1774,12 @@
       "month": "2027-09",
       "tag": null,
       "measuredAt": "2026-11-23",
-      "firms": 66,
+      "firms": 65,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 64,
@@ -1752,16 +1788,28 @@
         "long": 62
       },
       "indexMeasured": {
-        "short": 65,
-        "week": 65,
-        "twoWeeks": 66,
-        "long": 63
+        "short": 64,
+        "week": 64,
+        "twoWeeks": 65,
+        "long": 62
       },
       "moving": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": {
+          "firms": 19,
+          "index": 1.06
+        },
+        "week": {
+          "firms": 19,
+          "index": 1.06
+        },
+        "twoWeeks": {
+          "firms": 16,
+          "index": 1.02
+        },
+        "long": {
+          "firms": 21,
+          "index": 0.96
+        }
       },
       "movingCompanies": {
         "short": 19,
@@ -1774,12 +1822,12 @@
       "month": "2027-10",
       "tag": null,
       "measuredAt": "2026-11-02",
-      "firms": 61,
+      "firms": 60,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 59,
@@ -1788,10 +1836,10 @@
         "long": 58
       },
       "indexMeasured": {
-        "short": 60,
-        "week": 60,
-        "twoWeeks": 61,
-        "long": 59
+        "short": 59,
+        "week": 59,
+        "twoWeeks": 60,
+        "long": 58
       },
       "moving": {
         "short": {
@@ -1822,12 +1870,12 @@
       "month": "2027-11",
       "tag": null,
       "measuredAt": "2026-11-09",
-      "firms": 62,
+      "firms": 61,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 60,
@@ -1836,10 +1884,10 @@
         "long": 58
       },
       "indexMeasured": {
-        "short": 61,
-        "week": 61,
-        "twoWeeks": 62,
-        "long": 59
+        "short": 60,
+        "week": 60,
+        "twoWeeks": 61,
+        "long": 58
       },
       "moving": {
         "short": {
@@ -1873,12 +1921,12 @@
       "tag": "craciun",
       "pickup": "2026-12-21T10:00",
       "measuredAt": "2026-11-23",
-      "firms": 65,
+      "firms": 64,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 64,
@@ -1887,16 +1935,28 @@
         "long": 63
       },
       "indexMeasured": {
-        "short": 65,
-        "week": 64,
-        "twoWeeks": 65,
-        "long": 64
+        "short": 64,
+        "week": 63,
+        "twoWeeks": 64,
+        "long": 63
       },
       "moving": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": {
+          "firms": 32,
+          "index": 1.23
+        },
+        "week": {
+          "firms": 32,
+          "index": 1.26
+        },
+        "twoWeeks": {
+          "firms": 31,
+          "index": 1.28
+        },
+        "long": {
+          "firms": 32,
+          "index": 1.2
+        }
       },
       "movingCompanies": {
         "short": 32,
@@ -1910,12 +1970,12 @@
       "tag": "revelion",
       "pickup": "2026-12-28T10:00",
       "measuredAt": "2026-11-02",
-      "firms": 62,
+      "firms": 61,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 61,
@@ -1924,16 +1984,28 @@
         "long": 59
       },
       "indexMeasured": {
-        "short": 62,
-        "week": 62,
-        "twoWeeks": 62,
-        "long": 60
+        "short": 61,
+        "week": 61,
+        "twoWeeks": 61,
+        "long": 59
       },
       "moving": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": {
+          "firms": 26,
+          "index": 1.2
+        },
+        "week": {
+          "firms": 27,
+          "index": 1.2
+        },
+        "twoWeeks": {
+          "firms": 28,
+          "index": 1.17
+        },
+        "long": {
+          "firms": 28,
+          "index": 1.11
+        }
       },
       "movingCompanies": {
         "short": 26,
@@ -1947,12 +2019,12 @@
       "tag": "paste",
       "pickup": "2027-04-26T10:00",
       "measuredAt": "2026-11-09",
-      "firms": 67,
+      "firms": 66,
       "index": {
-        "short": null,
-        "week": null,
-        "twoWeeks": null,
-        "long": null
+        "short": 1,
+        "week": 1,
+        "twoWeeks": 1,
+        "long": 1
       },
       "indexFirms": {
         "short": 65,
@@ -1961,10 +2033,10 @@
         "long": 63
       },
       "indexMeasured": {
-        "short": 66,
-        "week": 66,
-        "twoWeeks": 67,
-        "long": 64
+        "short": 65,
+        "week": 65,
+        "twoWeeks": 66,
+        "long": 63
       },
       "moving": {
         "short": {
