@@ -1,5 +1,5 @@
 {
-  "about": "Indicele Rentiva: prețul pe zi al închirierii cu full casco (protecția maximă a fiecărei firme, oricât ar fi garanția), pe categoriile estimate de Rentiva în format SIPP/ACRISS și pe durate de închiriere, din ofertele și tarifele publice ale firmelor de închirieri din România. Pe fiecare categorie și durată publicăm doar mediana și intervalul în care cer jumătate din firme (p25–p75), rotunjite la 5 €, și doar când stau pe cel puțin 5 firme distincte, identificate după CUI; altfel celula e goală (null). Nu publicăm prețul niciunei firme. Indicele (media ponderată a claselor obișnuite) e calculat din valorile exacte și rotunjit la 1 €. Clasificările sunt estimări Rentiva, nu atribuiri oficiale ACRISS. Metoda: https://rentiva.ro/indicele-rentiva/metoda",
+  "about": "Indicele Rentiva: prețul pe zi și garanția pe card ale închirierii cu full casco (protecția maximă a fiecărei firme), pe categoriile estimate de Rentiva în format SIPP/ACRISS și pe durate de închiriere, din ofertele și tarifele publice ale firmelor de închirieri din România. Pe fiecare categorie și durată publicăm doar mediana și intervalul în care cer jumătate din firme (p25–p75), rotunjite la 5 €, și doar când stau pe cel puțin 5 firme distincte, identificate după CUI; altfel celula e goală (null). Pentru garanții publicăm cota firmelor cu 0 € (rotunjită la 5%) și, separat, mediana și p25–p75 ale firmelor care cer garanție peste zero (rotunjite la 50 €), cu același prag de 5 firme. Nu publicăm prețul sau garanția niciunei firme. Indicele (media ponderată a claselor obișnuite) e calculat din valorile exacte și rotunjit la 1 €. Clasificările sunt estimări Rentiva, nu atribuiri oficiale ACRISS. Metoda: https://rentiva.ro/indicele-rentiva/metoda",
   "page": "https://rentiva.ro/indicele-rentiva",
   "format": 2,
   "classificationVersion": "rentiva-2026-10-v3-b8d7302b:d59d7161f6e3:44136fa355b3:caroserie-baza-1:generatie-recenta-1:full-casco-5",
@@ -62,6 +62,20 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 17,
+          "zeroPct": 70,
+          "tentative": false,
+          "positive": {
+            "firms": 5,
+            "median": 200,
+            "p25": 100,
+            "p75": 200,
+            "tentative": true
+          }
+        }
       }
     },
     {
@@ -113,6 +127,20 @@
             "median": 30,
             "p25": 25,
             "p75": 35,
+            "tentative": false
+          }
+        }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 81,
+          "zeroPct": 70,
+          "tentative": false,
+          "positive": {
+            "firms": 23,
+            "median": 100,
+            "p25": 100,
+            "p75": 200,
             "tentative": false
           }
         }
@@ -170,6 +198,20 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 78,
+          "zeroPct": 70,
+          "tentative": false,
+          "positive": {
+            "firms": 22,
+            "median": 100,
+            "p25": 100,
+            "p75": 200,
+            "tentative": false
+          }
+        }
       }
     },
     {
@@ -221,6 +263,20 @@
             "median": 35,
             "p25": 30,
             "p75": 45,
+            "tentative": false
+          }
+        }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 52,
+          "zeroPct": 80,
+          "tentative": false,
+          "positive": {
+            "firms": 11,
+            "median": 150,
+            "p25": 100,
+            "p75": 200,
             "tentative": false
           }
         }
@@ -278,6 +334,20 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 29,
+          "zeroPct": 85,
+          "tentative": false,
+          "positive": {
+            "firms": 5,
+            "median": 100,
+            "p25": 100,
+            "p75": 300,
+            "tentative": true
+          }
+        }
       }
     },
     {
@@ -332,6 +402,14 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 14,
+          "zeroPct": 70,
+          "tentative": false,
+          "positive": null
+        }
       }
     },
     {
@@ -384,6 +462,20 @@
             "p25": 65,
             "p75": 115,
             "tentative": false
+          }
+        }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 21,
+          "zeroPct": 65,
+          "tentative": false,
+          "positive": {
+            "firms": 7,
+            "median": 100,
+            "p25": 50,
+            "p75": 150,
+            "tentative": true
           }
         }
       }
@@ -440,6 +532,20 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 17,
+          "zeroPct": 40,
+          "tentative": false,
+          "positive": {
+            "firms": 10,
+            "median": 350,
+            "p25": 250,
+            "p75": 400,
+            "tentative": false
+          }
+        }
       }
     },
     {
@@ -493,6 +599,14 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 19,
+          "zeroPct": 80,
+          "tentative": false,
+          "positive": null
+        }
       }
     },
     {
@@ -544,6 +658,20 @@
             "median": 40,
             "p25": 30,
             "p75": 45,
+            "tentative": false
+          }
+        }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 62,
+          "zeroPct": 80,
+          "tentative": false,
+          "positive": {
+            "firms": 13,
+            "median": 100,
+            "p25": 100,
+            "p75": 300,
             "tentative": false
           }
         }
@@ -601,6 +729,14 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 34,
+          "zeroPct": 90,
+          "tentative": false,
+          "positive": null
+        }
       }
     },
     {
@@ -653,6 +789,20 @@
             "p25": 50,
             "p75": 85,
             "tentative": false
+          }
+        }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 39,
+          "zeroPct": 75,
+          "tentative": false,
+          "positive": {
+            "firms": 9,
+            "median": 100,
+            "p25": 100,
+            "p75": 200,
+            "tentative": true
           }
         }
       }
@@ -709,6 +859,20 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 23,
+          "zeroPct": 60,
+          "tentative": false,
+          "positive": {
+            "firms": 9,
+            "median": 200,
+            "p25": 100,
+            "p75": 300,
+            "tentative": true
+          }
+        }
       }
     },
     {
@@ -760,6 +924,20 @@
             "p25": 80,
             "p75": 120,
             "tentative": false
+          }
+        }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 15,
+          "zeroPct": 45,
+          "tentative": false,
+          "positive": {
+            "firms": 8,
+            "median": 200,
+            "p25": 100,
+            "p75": 400,
+            "tentative": true
           }
         }
       }
@@ -816,6 +994,20 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 25,
+          "zeroPct": 50,
+          "tentative": false,
+          "positive": {
+            "firms": 13,
+            "median": 350,
+            "p25": 300,
+            "p75": 500,
+            "tentative": false
+          }
+        }
       }
     },
     {
@@ -846,6 +1038,9 @@
           "models": 0,
           "stats": null
         }
+      },
+      "deposit": {
+        "stats": null
       }
     },
     {
@@ -874,6 +1069,9 @@
           "models": 0,
           "stats": null
         }
+      },
+      "deposit": {
+        "stats": null
       }
     },
     {
@@ -926,6 +1124,20 @@
             "p25": 45,
             "p75": 65,
             "tentative": false
+          }
+        }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 17,
+          "zeroPct": 65,
+          "tentative": false,
+          "positive": {
+            "firms": 6,
+            "median": 150,
+            "p25": 100,
+            "p75": 200,
+            "tentative": true
           }
         }
       }
@@ -982,6 +1194,14 @@
             "tentative": true
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 9,
+          "zeroPct": 80,
+          "tentative": true,
+          "positive": null
+        }
       }
     },
     {
@@ -1036,6 +1256,20 @@
             "tentative": false
           }
         }
+      },
+      "deposit": {
+        "stats": {
+          "firms": 32,
+          "zeroPct": 65,
+          "tentative": false,
+          "positive": {
+            "firms": 11,
+            "median": 150,
+            "p25": 100,
+            "p75": 250,
+            "tentative": false
+          }
+        }
       }
     },
     {
@@ -1065,6 +1299,9 @@
           "models": 0,
           "stats": null
         }
+      },
+      "deposit": {
+        "stats": null
       }
     },
     {
@@ -1094,6 +1331,9 @@
           "models": 0,
           "stats": null
         }
+      },
+      "deposit": {
+        "stats": null
       }
     }
   ],
@@ -1818,5 +2058,15 @@
     "week": 40,
     "twoWeeks": 36,
     "long": 33
+  },
+  "depositFirmsUsed": 95,
+  "depositIndex": {
+    "firms": 95,
+    "zeroPct": 75,
+    "positive": {
+      "median": 100,
+      "p25": 100,
+      "p75": 200
+    }
   }
 }
